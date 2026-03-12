@@ -75,7 +75,7 @@ One command starts both frontend and backend. Open the local URL printed in your
 
 These aren’t placeholder screens. Every feature is wired together and working.
 
-![VibeFast homepage](../../images/vibefast/homepage_light.png)
+![VibeFast signup flow](../../images/vibefast/signup.png)
 
 ### 15–40 Minutes: Stripe, Resend, and Branding
 
@@ -90,7 +90,7 @@ Once the end-to-end flow works, your app is ready.
 
 Branding is straightforward — VibeFast centralizes all the copy you’ll want to change in a single config file: site name, domain, pricing copy, homepage copy, SEO settings. Change them, run `npm run deploy`, everything updates.
 
-![VibeFast orders dashboard](../../images/vibefast/orders.png)
+![VibeFast blog editor](../../images/vibefast/blogedit.png)
 
 -----
 

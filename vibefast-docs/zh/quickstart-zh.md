@@ -73,7 +73,7 @@ npm run dev
 
 這不是 demo 頁面，是真實可用的功能，每一個都接好了，可以直接使用。
 
-![VibeFast homepage](../../images/vibefast/homepage_light.png)
+![VibeFast signup flow](../../images/vibefast/signup.png)
 
 ### 15–40 分鐘：設定 Stripe、Resend，完成品牌替換
 
@@ -88,7 +88,7 @@ npm run dev
 
 品牌替換也很直接——VibeFast 把所有需要改的文字集中在一個設定檔裡：網站名稱、域名、定價文案、首頁文案、SEO 設定，改完跑 `npm run deploy`，全部更新。
 
-![VibeFast orders dashboard](../../images/vibefast/orders.png)
+![VibeFast blog editor](../../images/vibefast/blogedit.png)
 
 -----
 

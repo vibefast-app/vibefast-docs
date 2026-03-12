@@ -26,7 +26,7 @@ This section is public product documentation. It explains what the product is an
 
 VibeFast is not a loose pile of templates. It is a production-shaped baseline that already wires together a public site, content layer, media flow, commerce flow, admin experience, and analytics surface. You can rebrand it or use it as the starting point for your own product.
 
-![VibeFast traffic analytics dashboard](../../images/vibefast/Analytics_light.png)
+![VibeFast media library](../../images/vibefast/mediaupload.png)
 
 ## Official links
 

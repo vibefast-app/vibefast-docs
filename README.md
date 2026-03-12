@@ -16,7 +16,7 @@
 
 [中文版](./README-zh.md) | [Live Demo](https://vibefast.app) | [Buy — $99 Early Bird](https://vibefast.app/#pricing) (ends Jun 1)
 
-![VibeFast homepage](./images/vibefast/homepage_light.png)
+![VibeFast homepage](./images/vibefast/homepage.png)
 
 -----
 
@@ -77,7 +77,7 @@ One-time payment. Lifetime access. Private GitHub repo. All future updates inclu
 
 The site itself is built on VibeFast. Sign up free to explore the live dashboard — real 7-day traffic data, your registration number — before you buy. What you see is what you get.
 
-![VibeFast traffic analytics dashboard](./images/vibefast/Analytics_light.png)
+![VibeFast checkout page](./images/vibefast/checkout.png)
 
 -----
 

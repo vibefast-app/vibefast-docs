@@ -16,7 +16,7 @@
 
 [English](./README.md) | [線上 Demo](https://vibefast.app) | [立即購買 — 早鳥 $99](https://vibefast.app/#pricing)（6 月 1 日漲價）
 
-![VibeFast homepage](./images/vibefast/homepage_light.png)
+![VibeFast homepage](./images/vibefast/homepage.png)
 
 -----
 
@@ -77,7 +77,7 @@ npm run setup
 
 這個網站本身就是用 VibeFast 建的。免費註冊體驗真實 dashboard——包含過去 7 天的流量數據、你的註冊序號——再決定要不要買。你看到的就是你買到的。
 
-![VibeFast traffic analytics dashboard](./images/vibefast/Analytics_light.png)
+![VibeFast checkout page](./images/vibefast/checkout.png)
 
 -----
 
