@@ -26,7 +26,7 @@ VibeFast 是一個 Cloudflare-native 的產品起手式，為希望更快推出 
 
 VibeFast 不是一組零散模板，而是一個已經串好公開站、內容、管理、媒體、一次性購買流程與基礎分析能力的參考產品基線。你可以把它當作品牌重塑的底座，也可以把它當作新產品的起跑平台。
 
-![VibeFast media library](../../images/vibefast/mediaupload.png)
+![VibeFast traffic analytics dashboard](../../images/vibefast/Analytics.png)
 
 ## 官方入口
 
