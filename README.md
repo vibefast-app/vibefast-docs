@@ -4,20 +4,16 @@
 > Remix · Workers · D1 · R2 · No Next.js · No Vercel · No AWS
 
 [![License](https://img.shields.io/badge/License-Commercial-FF6B2B)](https://vibefast.app)
-[![Remix](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
-[![Cloudflare Workers](https://img.shields.io/badge/Backend-CF%20Workers-orange)](https://workers.cloudflare.com)
-[![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
-[![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
-[![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
-
 [![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
 [![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
 [![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
-[![Architecture](https://img.shields.io/badge/Architecture-Monorepo-purple)](https://turbo.build)
+[![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
 [![Payments](https://img.shields.io/badge/Payments-Stripe-635bff)](https://stripe.com)
 [![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
+[![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
+[![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
 
-[中文版 README](./README-zh.md) | [Live Demo](https://vibefast.app) | [Buy — $99 Early Bird](https://vibefast.app/#pricing) (ends Jun 1)
+[中文版](./README-zh.md) | [Live Demo](https://vibefast.app) | [Buy — $99 Early Bird](https://vibefast.app/#pricing) (ends Jun 1)
 
 -----
 
@@ -77,6 +73,23 @@ One-time payment. Lifetime access. Private GitHub repo. All future updates inclu
 👉 **[vibefast.app](https://vibefast.app)**
 
 The site itself is built on VibeFast. Sign up free to explore the live dashboard — real 7-day traffic data, your registration number — before you buy. What you see is what you get.
+
+-----
+
+## Free VibeFast Template Docs
+
+Want to understand the VibeFast template before buying? Start here.
+
+|# |Doc|
+|--|---|
+|01|[VibeFast Docs Home](./vibefast-docs/en/index.md)|
+|02|[Quickstart: Launch Your App in 3 Commands](./vibefast-docs/en/quickstart.md)|
+|03|[Why Cloudflare Full-Stack](./vibefast-docs/en/why-cloudflare-fullstack.md)|
+|04|[Why Monorepo](./vibefast-docs/en/why-monorepo.md)|
+|05|[FAQ](./vibefast-docs/en/faq.md)|
+|06|[Changelog](./vibefast-docs/en/changelog.md)|
+
+More docs added over time. ⭐ Star to follow updates.
 
 -----
 

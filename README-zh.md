@@ -4,20 +4,16 @@
 > Remix · Workers · D1 · R2 · 不用 Next.js · 不用 Vercel · 不用 AWS
 
 [![License](https://img.shields.io/badge/License-Commercial-FF6B2B)](https://vibefast.app)
-[![Remix](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
-[![Cloudflare Workers](https://img.shields.io/badge/Backend-CF%20Workers-orange)](https://workers.cloudflare.com)
-[![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
-[![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
-[![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
-
 [![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
 [![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
 [![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
-[![Architecture](https://img.shields.io/badge/Architecture-Monorepo-purple)](https://turbo.build)
+[![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
 [![Payments](https://img.shields.io/badge/Payments-Stripe-635bff)](https://stripe.com)
 [![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
+[![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
+[![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
 
-[English README](./README.md) | [線上 Demo](https://vibefast.app) | [立即購買 — 早鳥 $99](https://vibefast.app/#pricing)（6 月 1 日漲價）
+[English](./README.md) | [線上 Demo](https://vibefast.app) | [立即購買 — 早鳥 $99](https://vibefast.app/#pricing)（6 月 1 日漲價）
 
 -----
 
@@ -77,6 +73,23 @@ npm run setup
 👉 **[vibefast.app](https://vibefast.app)**
 
 這個網站本身就是用 VibeFast 建的。免費註冊體驗真實 dashboard——包含過去 7 天的流量數據、你的註冊序號——再決定要不要買。你看到的就是你買到的。
+
+-----
+
+## 免費 VibeFast 模板文檔
+
+想先了解 VibeFast 模板本身？從這裡開始。
+
+|# |文檔|
+|--|----|
+|01|[VibeFast 文檔首頁](./vibefast-docs/zh/index-zh.md)|
+|02|[快速開始：3 個指令上線你的 App](./vibefast-docs/zh/quickstart-zh.md)|
+|03|[為什麼選 Cloudflare 全棧](./vibefast-docs/zh/why-cloudflare-fullstack-zh.md)|
+|04|[為什麼用 Monorepo](./vibefast-docs/zh/why-monorepo-zh.md)|
+|05|[常見問題 FAQ](./vibefast-docs/zh/faq-zh.md)|
+|06|[更新日誌](./vibefast-docs/zh/changelog-zh.md)|
+
+持續更新中。⭐ Star 追蹤最新文檔。
 
 -----
 
