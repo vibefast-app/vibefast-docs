@@ -3,7 +3,7 @@
 > **The edge-native web app template built entirely on Cloudflare.**  
 > Remix · Workers · D1 · R2 · No Next.js · No Vercel · No AWS
 
-[![License](https://img.shields.io/badge/License-Commercial-FF6B2B)](https://vibefast.app)
+
 [![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
 [![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
 [![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
@@ -13,6 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
 [![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
 [![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
+[![License](https://img.shields.io/badge/License-Commercial-FF6B2B)](https://vibefast.app)
 
 [中文版](./README-zh.md) | [Live Demo](https://vibefast.app) | [Buy — $99 Early Bird](https://vibefast.app/#pricing) (ends Jun 1)
 
