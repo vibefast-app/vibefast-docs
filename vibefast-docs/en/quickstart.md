@@ -75,6 +75,8 @@ One command starts both frontend and backend. Open the local URL printed in your
 
 These aren’t placeholder screens. Every feature is wired together and working.
 
+![VibeFast homepage](../../images/vibefast/homepage_light.png)
+
 ### 15–40 Minutes: Stripe, Resend, and Branding
 
 Add your Stripe API key and Resend API key to the config, run `npm run deploy`, then:
@@ -87,6 +89,8 @@ Add your Stripe API key and Resend API key to the config, run `npm run deploy`, 
 Once the end-to-end flow works, your app is ready.
 
 Branding is straightforward — VibeFast centralizes all the copy you’ll want to change in a single config file: site name, domain, pricing copy, homepage copy, SEO settings. Change them, run `npm run deploy`, everything updates.
+
+![VibeFast orders dashboard](../../images/vibefast/orders.png)
 
 -----
 
@@ -116,6 +120,8 @@ Don’t take the description at face value.
 - Your registration number — which user you are
 
 The auth flow you just went through, the dashboard UI, the page speed — that’s exactly what you’re buying. Not a demo. The real thing.
+
+![VibeFast traffic analytics dashboard](../../images/vibefast/Analytics_light.png)
 
 -----
 

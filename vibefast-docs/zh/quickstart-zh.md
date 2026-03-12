@@ -73,6 +73,8 @@ npm run dev
 
 這不是 demo 頁面，是真實可用的功能，每一個都接好了，可以直接使用。
 
+![VibeFast homepage](../../images/vibefast/homepage_light.png)
+
 ### 15–40 分鐘：設定 Stripe、Resend，完成品牌替換
 
 把你的 Stripe API key 和 Resend API key 填入設定，跑一次 `npm run deploy`，然後：
@@ -85,6 +87,8 @@ npm run dev
 整個端到端流程跑通，你的 app 就準備好了。
 
 品牌替換也很直接——VibeFast 把所有需要改的文字集中在一個設定檔裡：網站名稱、域名、定價文案、首頁文案、SEO 設定，改完跑 `npm run deploy`，全部更新。
+
+![VibeFast orders dashboard](../../images/vibefast/orders.png)
 
 -----
 
@@ -114,6 +118,8 @@ npm run dev
 - 你是第幾個註冊用戶
 
 你體驗到的 auth 流程、dashboard UI、頁面速度，就是你買到的東西。不是 demo，是真實的正式環境。
+
+![VibeFast traffic analytics dashboard](../../images/vibefast/Analytics_light.png)
 
 -----
 
