@@ -168,6 +168,19 @@ Now I'm making it **free and open source**.
 
 ⭐ Star this repo to follow the course updates.
 
+---
+
+## Live Demo
+
+The best way to understand VibeFast is to experience it.
+
+👉 **[vibefast.app](https://vibefast.app)** — sign up free and join the Vibe Coders.
+
+Explore the real dashboard, blog CMS, media library, analytics, and checkout flow.
+
+This site is built with VibeFast.  
+**What you see is what you get.**
+
 
 # VibeFast 🚀
 
