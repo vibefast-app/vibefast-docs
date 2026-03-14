@@ -108,14 +108,14 @@ Now I'm making it **free and open source**.
 
 ### Introduction
 
-- [ ] 00 — Why I Started Building at 50
+- [X] 00 — Why I Started Building at 50
 
 ---
 
 ### Week 1 — Vibe Coding fundamentals
 
-- [ ] 01 — What is Vibe Coding?
-- [ ] 02 — Why Cloudflare is the best platform for Vibe Coding
+- [X] 01 — What is Vibe Coding?
+- [X] 02 — Why Cloudflare is the best platform for Vibe Coding
 - [ ] 03 — What are APIs, frontend, and backend?
 - [ ] 04 — What is JWT authentication?
 
