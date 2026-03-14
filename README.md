@@ -93,6 +93,79 @@ One-time payment · Lifetime updates · Private GitHub repo
 
 👉 **[Buy now — vibefast.app](https://vibefast.app/#pricing)**
 
+## Free Course Roadmap
+
+25 tutorials on Vibe Coding and Cloudflare full-stack development.
+
+I used to charge over $1,500 for this course.  
+Now it's free and open source.
+
+**Follow the roadmap and build your first real web app in 6 weeks.**
+
+---
+
+### Introduction
+
+- [ ] 00 — Why I Started Building at 50
+
+---
+
+### Week 1 — Vibe Coding fundamentals
+
+- [ ] 01 — What is Vibe Coding?
+- [ ] 02 — Why Cloudflare is the best platform for Vibe Coding
+- [ ] 03 — What are APIs, frontend, and backend?
+- [ ] 04 — What is JWT authentication?
+
+---
+
+### Week 2 — Cloudflare stack
+
+- [ ] 05 — Cloudflare Workers vs traditional servers
+- [ ] 06 — Cloudflare D1 database basics
+- [ ] 07 — Cloudflare R2 vs AWS S3
+- [ ] 08 — Environment variables and secrets
+
+---
+
+### Week 3 — Development workflow
+
+- [ ] 09 — Git and GitHub basics
+- [ ] 10 — Designing frontend UI with AI
+- [ ] 11 — Domain and DNS
+- [ ] 12 — Security basics for Vibe Coders
+
+---
+
+### Week 4 — Working with AI
+
+- [ ] 13 — How to discuss your project with AI
+- [ ] 14 — Shipping features with Cursor
+- [ ] 15 — 5 Vibe Coding mistakes to avoid
+- [ ] 16 — Planning a Vibe Coding project
+
+---
+
+### Week 5 — Building a real product
+
+- [ ] 17 — Designing your web app architecture
+- [ ] 18 — Cloudflare vs Vercel vs AWS
+- [ ] 19 — Stripe payments: from test to live
+- [ ] 20 — SEO basics
+
+---
+
+### Week 6 — Launch and growth
+
+- [ ] 21 — Testing your app with AI
+- [ ] 22 — Analytics and user tracking
+- [ ] 23 — Case study: building a SaaS with VibeFast
+- [ ] 24 — Case study: building an e-commerce site
+
+---
+
+⭐ Star this repo to follow the course updates.
+
 
 # VibeFast 🚀
 
