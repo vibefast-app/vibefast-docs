@@ -39,7 +39,7 @@ VibeFast has two parts:
 
 👉 **[Try the live demo — vibefast.app](https://vibefast.app)**
 
-Auth · Dashboard · Blog CMS · Payments · Email · Analytics · Media Library
+Auth · Dashboard · Blog CMS · Media Library · Payments · Email · Analytics
 
 # VibeFast 🚀
 
