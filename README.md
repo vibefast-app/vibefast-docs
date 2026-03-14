@@ -15,9 +15,9 @@ Build real web apps with Vibe Coding.
   <img src="./images/vibefast/homepage.png" width="100%">
 </p>
 
-VibeFast is a Cloudflare-native full-stack starter kit and free course for builders exploring Vibe Coding — using AI coding workflows to build and ship modern web apps and SaaS faster.
+VibeFast is a Cloudflare-native full-stack starter kit and free course for Vibe Coding — helping builders use AI workflows to build and ship modern web apps and SaaS faster on the edge.
 
-## Stack
+### Stack
 
 [![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
 [![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
@@ -28,6 +28,8 @@ VibeFast is a Cloudflare-native full-stack starter kit and free course for build
 [![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
 [![Database](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
 [![Storage](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
+
+---
 
 ## What You Get
 
@@ -40,6 +42,8 @@ VibeFast has two parts:
 👉 **[Try the live demo — vibefast.app](https://vibefast.app)**
 
 Auth · Dashboard · Blog CMS · Media Library · Payments · Email · Analytics
+
+---
 
 ## Why VibeFast
 
@@ -61,7 +65,9 @@ No AWS.**
 
 Cloudflare Workers + D1 + R2 + Remix — one platform, one bill, zero egress fees, 300+ edge nodes from day one.
 
-## Commercial starter
+---
+
+## Commercial Starter
 
 Skip weeks of boilerplate. Start from a working product.
 
@@ -92,6 +98,8 @@ npm run setup
 One-time payment · Lifetime updates · Private GitHub repo
 
 👉 **[Buy now — vibefast.app](https://vibefast.app/#pricing)**
+
+---
 
 ## Free Course Roadmap
 
@@ -180,6 +188,8 @@ Explore the real dashboard, blog CMS, media library, analytics, and checkout flo
 
 This site is built with VibeFast.  
 **What you see is what you get.**
+
+---
 
 ## License
 
