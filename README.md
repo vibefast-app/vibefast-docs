@@ -1,3 +1,34 @@
+# VibeFast
+
+Build real web apps with Vibe Coding.
+
+**Ship a real web app in 3 commands.**
+
+⭐ 7,000+ developers following the journey  
+⚡ From clone → global deployment in minutes  
+🌍 Cloudflare-native architecture  
+💳 Auth · CMS · Payments · Analytics included  
+
+⭐ If this repo helps you build faster — **star it to stay updated**
+
+<p align="center">
+  <img src="docs/cover.png" width="100%">
+</p>
+
+VibeFast is a Cloudflare-native full-stack starter kit and free course for builders exploring Vibe Coding — using AI coding workflows to build and ship modern web apps and SaaS faster.
+
+## Stack
+
+[![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
+[![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
+[![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
+[![Monorepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
+
+[![Payments](https://img.shields.io/badge/Payments-Stripe-635bff)](https://stripe.com)
+[![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
+[![Database](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
+[![Storage](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
+
 # VibeFast 🚀
 
 > **The edge-native web app template built entirely on Cloudflare.**  
