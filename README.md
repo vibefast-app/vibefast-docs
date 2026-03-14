@@ -61,6 +61,39 @@ No AWS.**
 
 Cloudflare Workers + D1 + R2 + Remix — one platform, one bill, zero egress fees, 300+ edge nodes from day one.
 
+## Commercial starter
+
+Skip weeks of boilerplate. Start from a working product.
+
+**Built-in features**
+
+- ✅ Auth — signup, login, route protection
+- ✅ Admin dashboard
+- ✅ Blog CMS — Markdown editor with per-post SEO
+- ✅ Media library — R2 upload and management
+- ✅ Stripe checkout — one-time payments, webhook pre-configured
+- ✅ Email notifications via Resend
+- ✅ Analytics — built-in, no third-party needed
+
+**Deploy in one command**
+
+`npm run setup` configures Cloudflare Workers, D1, R2, and deploys your app globally.
+
+**Ship a real web app in 3 commands**
+
+```bash
+git clone https://github.com/vibefast-app/vibefast.git my-app
+cd my-app && npm install
+npm run setup
+```
+### Early bird $99
+
+**Price increases to $199 on June 1, 2026.**  
+One-time payment · Lifetime updates · Private GitHub repo
+
+👉 **[Buy now — vibefast.app](https://vibefast.app/#pricing)**
+
+
 # VibeFast 🚀
 
 > **The edge-native web app template built entirely on Cloudflare.**  
