@@ -29,7 +29,7 @@ VibeFast is a Cloudflare-native full-stack starter kit and free course for build
 [![Database](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
 [![Storage](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
 
-## What you get
+## What You Get
 
 VibeFast has two parts:
 
@@ -40,6 +40,26 @@ VibeFast has two parts:
 👉 **[Try the live demo — vibefast.app](https://vibefast.app)**
 
 Auth · Dashboard · Blog CMS · Media Library · Payments · Email · Analytics
+
+## Why VibeFast
+
+AI can help you write code faster.
+
+But shipping a real app still requires:
+
+- the right infrastructure
+- a clear development workflow
+- a production-ready starting point
+
+VibeFast provides all three.
+
+Instead of starting from scratch, you build on top of a real product architecture.
+
+**No Next.js.  
+No Vercel.  
+No AWS.**
+
+Cloudflare Workers + D1 + R2 + Remix — one platform, one bill, zero egress fees, 300+ edge nodes from day one.
 
 # VibeFast 🚀
 
