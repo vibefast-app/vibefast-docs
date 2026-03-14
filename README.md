@@ -97,8 +97,10 @@ One-time payment · Lifetime updates · Private GitHub repo
 
 25 tutorials on Vibe Coding and Cloudflare full-stack development.
 
-I used to charge over $1,500 for this course.  
-Now it's free and open source.
+I used to charge **$2,000** for this course  
+(about **HK$15,000** for the Chinese version).
+
+Now I'm making it **free and open source**.
 
 **Follow the roadmap and build your first real web app in 6 weeks.**
 
