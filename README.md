@@ -35,7 +35,7 @@ VibeFast has two parts:
 
 - **Free course** — 25 tutorials on Vibe Coding and Cloudflare full-stack development. I used to charge over $1,500 for this. Now it’s free.
 
-- **Commercial starter** — start from a real, production-style app instead of a blank repo.
+- **Commercial starter** — start from a real, production-style app instead of a blank repo. Now is Only $99.（Early bird**Price increases to $199 on June 1, 2026.**）
 
 👉 **[Try the live demo — vibefast.app](https://vibefast.app)**
 
