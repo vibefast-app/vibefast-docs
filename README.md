@@ -12,7 +12,7 @@ Build real web apps with Vibe Coding.
 ⭐ If this repo helps you build faster — **star it to stay updated**
 
 <p align="center">
-  <img src="docs/cover.png" width="100%">
+  <img src="./images/vibefast/homepage.png" width="100%">
 </p>
 
 VibeFast is a Cloudflare-native full-stack starter kit and free course for builders exploring Vibe Coding — using AI coding workflows to build and ship modern web apps and SaaS faster.
