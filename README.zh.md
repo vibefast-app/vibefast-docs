@@ -11,7 +11,7 @@
 🌍 5 種語言：繁中 · English · 日本語 · Español · Português (BR)
 
 <p align="center">
-  <img src="./assets/vibefast-homepage.png" width="100%">
+  <img src="./images/vibefast/homepage.png" width="100%">
 </p>
 
 -----
