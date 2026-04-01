@@ -1,6 +1,6 @@
 # VibeFast 🚀
 
-[繁中](./README-zh.md) · [English](./README.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
+[English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **You don’t need to know how to code to build a real web app.**  
 **3 commands. Deployed globally in 5 minutes.**

@@ -1,6 +1,6 @@
 # VibeFast 🚀
 
-[English](./README.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
+[English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **你不需要會寫 code，也能做出真實的 Web App。**  
 **3 條命令，5 分鐘就完成全球部署上線。**

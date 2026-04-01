@@ -1,6 +1,6 @@
 # VibeFast 🚀
 
-[繁中](./README-zh.md) · [English](./README.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
+[English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **コードを書けなくても、本物のWebアプリが作れる。**  
 **3つのコマンドで、5分以内にグローバルデプロイ完了。**
