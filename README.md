@@ -1,27 +1,44 @@
 # VibeFast 🚀
 
-> **The edge-native web app template built entirely on Cloudflare.**  
-> Remix · Workers · D1 · R2 · No Next.js · No Vercel · No AWS
+[繁中](./README-zh.md) · [English](./README.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
+**You don’t need to know how to code to build a real web app.**  
+**3 commands. Deployed globally in 5 minutes.**
 
-[![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
-[![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
-[![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
-[![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
+Free open-source course + paid full-stack starter kit. From learning to shipping, all in one place.
 
-[![Payments](https://img.shields.io/badge/Payments-Stripe-635bff)](https://stripe.com)
-[![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
-[![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
-[![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
-[![License](https://img.shields.io/badge/License-Commercial-FF6B2B)](https://vibefast.app)
+⭐ 7,000+ developers following this journey  
+📚 25 hands-on tutorials, from concept to deployment  
+⚡ 3 commands to global deployment  
+🌍 5 languages: 繁中 · English · 日本語 · Español · Português (BR)
 
-[中文版](./README-zh.md) | [Live Demo](https://vibefast.app) | [Buy — $99 Early Bird](https://vibefast.app/#pricing) (ends Jun 1)
-
-![VibeFast homepage](./images/vibefast/homepage.png)
+<p align="center">
+  <img src="./asset/homepage.png" width="100%">
+</p>
 
 -----
 
-## Get Your App Live in 3 Commands
+## What Is VibeFast
+
+VibeFast has two parts that solve the same problem:
+
+### Free Open-Source Course
+
+I used to charge **$2,000 USD** per person to teach this content. Now it’s completely free.
+
+Never written a line of code? That’s fine. This course was designed for you.
+
+25 hands-on tutorials covering the full Cloudflare stack, AI workflows, and the complete path from zero to deployment. Follow the roadmap and ship your first real web app in six weeks.
+
+⭐ If this course helps you build faster — **[Star to follow updates](https://github.com/vibefast-app/vibefast-docs)**
+
+👉 **[Read the full course free — vibefast.app/learn](https://vibefast.app/learn)**
+
+### Paid Full-Stack Starter Kit
+
+The course teaches you how. The starter kit lets you move faster.
+
+Auth, database, payments, email, analytics — all configured. Three commands and your web app is live on 300+ global nodes.
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git my-app
@@ -29,99 +46,113 @@ cd my-app && npm install
 npm run setup
 ```
 
-That’s it. `npm run setup` handles everything automatically:
+No Next.js. No Vercel. No AWS. One platform, one bill, zero egress fees.
 
-- Cloudflare login
-- D1 database creation + bootstrap SQL
-- JWT secret generation
-- Deploy both Workers to production
-
-Your app is live on Cloudflare’s global edge network. 300+ locations. Sub-millisecond cold starts.
+After purchase, you’ll immediately receive a GitHub invitation to the private repository. All future updates are yours, forever, at no extra cost.
 
 -----
 
-## What’s Included
+## Experience It Right Now
 
-Everything you need to ship a complete web app — wired together and ready to go.
+Other starter kits give you a demo site.
 
-### Core Architecture
+**VibeFast’s demo is its own production website.**
 
-- ✅ **Remix** frontend on Cloudflare Workers — SSR, nested routing, web standards
-- ✅ **Cloudflare Workers API** — TypeScript backend at the edge
-- ✅ **Cloudflare D1** — SQLite database, auto schema on first deploy
-- ✅ **Cloudflare R2** — S3-compatible storage, zero egress fees
-- ✅ **Service Binding** — frontend talks to backend internally, zero CORS config
-- ✅ **Bearer JWT Auth** — stateless authentication, auto-generated secret
-- ✅ **Turborepo Monorepo** — frontend, API, shared packages in one repo
+vibefast.app is built entirely with the VibeFast starter kit. Real traffic, real users, every day. What you see is exactly what the starter kit can produce.
 
-### Built-in Modules
+Sign up for free, enter the Dashboard, and see 7 days of real traffic data. Auth, Dashboard, Blog CMS, Media Library, Analytics — all there, ready for you to explore.
 
-- ✅ **User auth** — registration, login, logout, protected routes
-- ✅ **Admin dashboard** — manage users, content, and orders
-- ✅ **Blog CMS** — create, edit, publish posts with categories
-- ✅ **Media library** — upload and manage files via R2
-- ✅ **Stripe payments** — one-time checkout for digital products, webhook pre-configured
-- ✅ **Resend email** — transactional emails (purchase confirmation, admin notification)
-- ✅ **Pageview analytics** — built-in traffic tracking, no third-party needed
-- ✅ **One-command setup** — `npm run setup` bootstraps and deploys everything
-- ✅ **All future updates** — lifetime access, private repo
+👉 **[Try it free — vibefast.app](https://vibefast.app)**
 
 -----
 
 ## Get VibeFast
 
-**$99 early bird** — until June 1, 2026. Price goes up to $199 after that.
+Early bird pricing is for the first people who believe in this.
 
-One-time payment. Lifetime access. Private GitHub repo. All future updates included.
+**Early bird US$99 · Increases to US$199 on June 1, 2026**
 
-👉 **[vibefast.app](https://vibefast.app)**
+One-time payment · Lifetime updates · Immediate access to private GitHub repo
 
-The site itself is built on VibeFast. Sign up free to explore the live dashboard — real 7-day traffic data, your registration number — before you buy. What you see is what you get.
-
-![VibeFast checkout page](./images/vibefast/checkout.png)
+👉 **[Buy now — vibefast.app/pricing](https://vibefast.app/pricing)**
 
 -----
 
-## Free VibeFast Template Docs
+## Course Roadmap
 
-Want to understand the VibeFast template before buying? Start here.
+### Prologue
 
-|# |Doc|
-|--|---|
-|01|[VibeFast Docs Home](./vibefast-docs/en/index.md)|
-|02|[Quickstart: Launch Your App in 3 Commands](./vibefast-docs/en/quickstart.md)|
-|03|[Why Cloudflare Full-Stack](./vibefast-docs/en/why-cloudflare-fullstack.md)|
-|04|[Why Monorepo](./vibefast-docs/en/why-monorepo.md)|
-|05|[FAQ](./vibefast-docs/en/faq.md)|
-|06|[Changelog](./vibefast-docs/en/changelog.md)|
-
-More docs added over time. ⭐ Star to follow updates.
+- [x] 00 — [Why I Started Building Products at 50](./en/00-why-i-started-at-50-en.md)
 
 -----
 
-## Free Vibe Coding Tutorials
+### Week 1–2: Foundation
 
-New to vibe coding or Cloudflare? Start here.
-
-|# |Article                                                                                         |
-|--|------------------------------------------------------------------------------------------------|
-|01|[What Is Vibe Coding? A Beginner-Friendly Guide](./vibe-coding-docs/en/01-what-is-vibecoding.md)|
-|02|[The Best Way to Vibe Coding on Cloudflare](./vibe-coding-docs/en/02-the-best-way-to-vibecoding-on-cloudflare.md)|
-
-More tutorials added regularly. ⭐ Star to follow along.
+- [x] 01 — [What Is Vibe Coding?](./en/01-what-is-vibecoding-en.md)
+- [x] 02 — [Setting Up Your Vibe Coding Environment from Zero](./en/02-how-to-setup-vibecoding-environment-en.md)
+- [x] 03 — [What Are APIs, Frontend, and Backend?](./en/03-what-is-api-frontend-backend-en.md)
+- [x] 04 — [What Is JWT Authentication?](./en/04-what-is-jwt-authentication-en.md)
 
 -----
 
-## About
+### Week 2–3: Cloudflare Stack
 
-Built by **Danko Peng** — 50-year-old solopreneur building in public with AI + Cloudflare.
+- [x] 05 — [Why Cloudflare Is the Best Choice for Vibe Coding](./en/05-the-best-way-to-vibecoding-on-cloudflare-en.md)
+- [x] 06 — [Cloudflare Workers vs Traditional Servers](./en/06-cloudflare-workers-vs-traditional-server-en.md)
+- [x] 07 — [Getting Started with Cloudflare D1 Database](./en/07-cloudflare-d1-database-tutorial-en.md)
+- [x] 08 — [Cloudflare R2 vs AWS S3](./en/08-cloudflare-r2-vs-aws-s3-en.md)
+- [x] 09 — [Environment Variables and Secret Management](./en/09-environment-variables-and-secrets-en.md)
 
-- X: [@dankopeng](https://x.com/dankopeng)
-- Product: [vibefast.app](https://vibefast.app)
+-----
+
+### Week 3–4: Dev Tools & Workflow
+
+- [x] 10 — [Git and GitHub Version Control for Beginners](./en/10-git-and-github-version-control-en.md)
+- [x] 11 — [Designing Frontend Interfaces with AI](./en/11-ai-frontend-design-with-cursor-en.md)
+- [x] 12 — [What Are Domains and DNS?](./en/12-domain-and-dns-setup-guide-en.md)
+- [x] 13 — [Security Basics for Vibe Coders](./en/13-security-basics-for-vibe-coders-en.md)
+
+-----
+
+### Week 4–5: Advanced Techniques
+
+- [x] 14 — [How to Discuss Your Project with AI Before Coding](./en/14-how-to-discuss-with-ai-before-coding-en.md)
+- [x] 15 — [How I Take a Feature from Idea to Deploy with Cursor](./en/15-cursor-workflow-from-idea-to-deploy-en.md)
+- [x] 16 — [5 Mistakes I Made with Vibe Coding](./en/16-vibe-coding-common-mistakes-en.md)
+- [x] 17 — [How to Create a Vibe Coding Work Plan](./en/17-vibe-coding-work-plan-and-ai-plan-mode-en.md)
+- [x] 18 — [Don’t Panic When You See Errors: Using AI to Debug](./en/18-debug-and-errors-en.md)
+
+-----
+
+### Week 5–6: Tech Choices & Real World
+
+- [x] 19 — [Choosing Your Stack: Cloudflare vs Vercel vs AWS](./en/19-cloudflare-vs-vercel-vs-aws-en.md)
+- [x] 20 — [The Complete Guide to Stripe Payments](./en/20-stripe-payment-complete-guide-en.md)
+- [x] 21 — [How to Write Tests with AI](./en/21-ai-testing-guide-en.md)
+- [x] 22 — [SEO Basics: Getting Your Product Found on Google](./en/22-seo-basics-for-indie-makers-en.md)
+- [x] 23 — [Analytics and User Tracking](./en/23-analytics-and-user-tracking-en.md)
+- [x] 24 — [Case Study: Building a SaaS Product with VibeFast](./en/24-saas-case-study-en.md)
+- [x] 25 — [Case Study: Building an E-commerce Site with VibeFast](./en/25-ecommerce-case-study-en.md)
 
 -----
 
 ## License
 
-Template source code: Commercial license — see [LICENSE](./LICENSE).  
-Tutorial content in `/vibe-coding-docs`: MIT.
+Tutorial content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Attribution, Non-Commercial, Share Alike).
+
+The VibeFast commercial starter kit is **proprietary software** and is **not included** in this repository.
+
+-----
+
+## Author
+
+**Danko Peng**
+
+20 years in business. Started writing code seriously at 50.  
+Built what you’re looking at right now with AI and Cloudflare.
+
+If I can do it, so can you.
+
+- X: [@dankopeng](https://x.com/dankopeng)
+- Threads: [@dankopeng](https://threads.net/@dankopeng)
+- Website: [vibefast.app](https://vibefast.app)

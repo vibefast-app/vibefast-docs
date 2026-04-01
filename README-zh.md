@@ -1,27 +1,44 @@
 # VibeFast 🚀
 
-> **完全基於 Cloudflare 的 edge-native web app 模板。**  
-> Remix · Workers · D1 · R2 · 不用 Next.js · 不用 Vercel · 不用 AWS
+[English](./README.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
+**你不需要會寫 code，也能做出真實的 Web App。**  
+**3 條命令，5 分鐘就完成全球部署上線。**
 
-[![Deploy Status](https://img.shields.io/badge/Deploy-Success-brightgreen)](https://vibefast.app)
-[![Frontend](https://img.shields.io/badge/Frontend-Remix-blue)](https://remix.run)
-[![Backend](https://img.shields.io/badge/Backend-Cloudflare%20Workers-orange)](https://workers.cloudflare.com)
-[![Turborepo](https://img.shields.io/badge/Monorepo-Turborepo-purple)](https://turbo.build)
+免費開源課程 + 付費全棧模板，從學習到上線，一套搞定。
 
-[![Payments](https://img.shields.io/badge/Payments-Stripe-635bff)](https://stripe.com)
-[![Email](https://img.shields.io/badge/Email-Resend-111827)](https://resend.com)
-[![D1](https://img.shields.io/badge/Database-D1-green)](https://developers.cloudflare.com/d1)
-[![R2](https://img.shields.io/badge/Storage-R2-yellow)](https://developers.cloudflare.com/r2)
-[![License](https://img.shields.io/badge/License-Commercial-FF6B2B)](https://vibefast.app)
+⭐ 7,000+ 開發者正在追蹤這個旅程  
+📚 25 篇實戰教程，從概念到上線  
+⚡ 三個指令，完成全球部署  
+🌍 5 種語言：繁中 · English · 日本語 · Español · Português (BR)
 
-[English](./README.md) | [線上 Demo](https://vibefast.app) | [立即購買 — 早鳥 $99](https://vibefast.app/#pricing)（6 月 1 日漲價）
-
-![VibeFast homepage](./images/vibefast/homepage.png)
+<p align="center">
+  <img src="./asset/homepage.png" width="100%">
+</p>
 
 -----
 
-## 3 個指令，上線你的 App
+## VibeFast 是什麼
+
+VibeFast 有兩個部分，解決同一個問題：
+
+### 免費開源課程
+
+這套內容，我以前一個人收一萬五港幣。現在全部免費開源。
+
+從來沒寫過 code？沒關係。這套課程就是為你設計的。
+
+25 篇實戰教程，涵蓋 Cloudflare 全棧、AI 工作流、從零到上線的完整路徑。跟著路線圖走，六週做出你的第一個真實 Web App。
+
+⭐ 如果這套課程幫助你更快做出產品 — **[Star 追蹤更新](https://github.com/vibefast-app/vibefast-docs)**
+
+👉 **[免費閱讀全部教程 — vibefast.app/learn/zh](https://vibefast.app/learn/zh)**
+
+### 付費全棧模板
+
+課程教你怎麼做。模板讓你做得更快。
+
+Auth、資料庫、收款、郵件、Analytics——全部設定好。三個指令，你的 Web App 就在全球 300+ 個節點上線。
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git my-app
@@ -29,99 +46,113 @@ cd my-app && npm install
 npm run setup
 ```
 
-就這樣。`npm run setup` 自動處理所有事情：
+不用 Next.js。不用 Vercel。不用 AWS。一個平台、一份帳單、零出站費用。
 
-- Cloudflare 登入
-- D1 資料庫建立 + bootstrap SQL
-- JWT secret 自動生成
-- 前後端兩個 Workers 同時部署到正式環境
-
-你的 app 上線了。跑在 Cloudflare 全球 300+ 個節點上，冷啟動幾乎感覺不到。
+購買後立即收到 GitHub 邀請，進入私有程式碼倉庫。日後所有版本更新，永久免費獲取。
 
 -----
 
-## 包含什麼
+## 你現在就可以體驗
 
-所有你需要的東西，全部接好、隨時可用。
+其他模板給你一個 demo 網站。
 
-### 核心架構
+**VibeFast 的 demo，就是它自己的官網。**
 
-- ✅ **Remix** 前端跑在 Cloudflare Workers — SSR、巢狀路由、Web 標準
-- ✅ **Cloudflare Workers API** — TypeScript 後端，在邊緣執行
-- ✅ **Cloudflare D1** — SQLite 資料庫，首次部署自動建立 schema
-- ✅ **Cloudflare R2** — S3 相容儲存，零出站費用
-- ✅ **Service Binding** — 前後端內部溝通，零 CORS 設定
-- ✅ **Bearer JWT Auth** — 無狀態身份驗證，secret 自動生成
-- ✅ **Turborepo Monorepo** — 前端、API、共用套件在同一個 repo
+vibefast.app 本身就是用 VibeFast 模板建的。每天真實運營，真實流量，真實用戶。你看到的，就是模板能做出來的效果。
 
-### 內建模組
+免費註冊，進入 Dashboard，看到網站的真實 7 天流量數據。Auth、Dashboard、Blog CMS、Media Library、Analytics——全部在那裡，等你體驗。
 
-- ✅ **用戶 Auth** — 註冊、登入、登出、路由保護
-- ✅ **Admin 後台** — 管理用戶、內容、訂單
-- ✅ **Blog CMS** — 建立、編輯、發布文章，支援分類
-- ✅ **媒體庫** — 透過 R2 上傳和管理檔案
-- ✅ **Stripe 收款** — 數位產品一次性結帳，Webhook 預先設定好
-- ✅ **Resend 郵件** — 交易型郵件（購買確認、管理員通知）
-- ✅ **頁面瀏覽統計** — 內建流量追蹤，不需要第三方服務
-- ✅ **一鍵 setup** — `npm run setup` 自動完成所有設定和部署
-- ✅ **所有未來更新** — 終身存取，private repo
+👉 **[免費體驗 — vibefast.app](https://vibefast.app)**
 
 -----
 
-## 購買 VibeFast
+## 立即購買
 
-**早鳥價 $99** — 2026 年 6 月 1 日漲至 $199。
+早鳥價是給第一批相信這件事的人的。
 
-一次付款，終身存取，Private GitHub repo，所有未來更新全包。
+**早鳥 US$99 · 2026 年 6 月 1 日漲至 US$199**
 
-👉 **[vibefast.app](https://vibefast.app)**
+一次付款 · 永久更新 · 立即進入私有 GitHub repo
 
-這個網站本身就是用 VibeFast 建的。免費註冊體驗真實 dashboard——包含過去 7 天的流量數據、你的註冊序號——再決定要不要買。你看到的就是你買到的。
-
-![VibeFast checkout page](./images/vibefast/checkout.png)
+👉 **[立即購買 — vibefast.app/pricing](https://vibefast.app/pricing)**
 
 -----
 
-## 免費 VibeFast 模板文檔
+## 課程路線圖
 
-想先了解 VibeFast 模板本身？從這裡開始。
+### 前言
 
-|# |文檔|
-|--|----|
-|01|[VibeFast 文檔首頁](./vibefast-docs/zh/index-zh.md)|
-|02|[快速開始：3 個指令上線你的 App](./vibefast-docs/zh/quickstart-zh.md)|
-|03|[為什麼選 Cloudflare 全棧](./vibefast-docs/zh/why-cloudflare-fullstack-zh.md)|
-|04|[為什麼用 Monorepo](./vibefast-docs/zh/why-monorepo-zh.md)|
-|05|[常見問題 FAQ](./vibefast-docs/zh/faq-zh.md)|
-|06|[更新日誌](./vibefast-docs/zh/changelog-zh.md)|
-
-持續更新中。⭐ Star 追蹤最新文檔。
+- [x] 00 — [為什麼我 50 歲才開始認真 Build 產品](./zh/00-why-i-started-at-50-zh.md)
 
 -----
 
-## 免費 Vibe Coding 教程
+### Week 1–2：基礎概念
 
-剛接觸 vibe coding 或 Cloudflare？從這裡開始。
-
-|# |文章                                                                                         |
-|--|-------------------------------------------------------------------------------------------|
-|01|[什麼是 Vibe Coding？入門概念全解析](./vibe-coding-docs/zh/01-what-is-vibecoding-zh.md)            |
-|02|[在 Cloudflare 上 VibeCoding 的最佳方式](./vibe-coding-docs/zh/02-the-best-way-to-vibecoding-on-cloudflare-zh.md)|
-
-持續更新中。⭐ Star 追蹤最新內容。
+- [x] 01 — [什麼是 Vibe Coding？入門概念全解析](./zh/01-what-is-vibecoding-zh.md)
+- [x] 02 — [開始 Vibe Coding：從零設定你的開發環境](./zh/02-how-to-setup-vibecoding-environment-zh.md)
+- [x] 03 — [什麼是 API、前端、後端？](./zh/03-what-is-api-frontend-backend-zh.md)
+- [x] 04 — [什麼是 JWT 身份驗證？](./zh/04-what-is-jwt-authentication-zh.md)
 
 -----
 
-## 關於作者
+### Week 2–3：Cloudflare 技術棧
 
-**Danko Peng** — 50 歲的 solopreneur，用 AI + Cloudflare 全棧 build-in-public。
+- [x] 05 — [為什麼 Cloudflare 是 Vibe Coding 的最佳選擇？](./zh/05-the-best-way-to-vibecoding-on-cloudflare-zh.md)
+- [x] 06 — [Cloudflare Workers 和傳統伺服器有什麼不同？](./zh/06-cloudflare-workers-vs-traditional-server-zh.md)
+- [x] 07 — [Cloudflare D1 資料庫入門](./zh/07-cloudflare-d1-database-tutorial-zh.md)
+- [x] 08 — [Cloudflare R2 vs AWS S3](./zh/08-cloudflare-r2-vs-aws-s3-zh.md)
+- [x] 09 — [環境變數和 Secret 管理](./zh/09-environment-variables-and-secrets-zh.md)
 
-- X：[@dankopeng](https://x.com/dankopeng)
-- 產品：[vibefast.app](https://vibefast.app)
+-----
+
+### Week 3–4：開發工具和流程
+
+- [x] 10 — [Git 和 GitHub 版本控制入門](./zh/10-git-and-github-version-control-zh.md)
+- [x] 11 — [用 AI 設計前端介面](./zh/11-ai-frontend-design-with-cursor-zh.md)
+- [x] 12 — [什麼是 Domain 和 DNS？](./zh/12-domain-and-dns-setup-guide-zh.md)
+- [x] 13 — [Vibe Coder 的資安入門](./zh/13-security-basics-for-vibe-coders-zh.md)
+
+-----
+
+### Week 4–5：進階技巧
+
+- [x] 14 — [如何跟 AI 討論專案](./zh/14-how-to-discuss-with-ai-before-coding-zh.md)
+- [x] 15 — [我怎麼用 Cursor 把一個功能從想法變成上線](./zh/15-cursor-workflow-from-idea-to-deploy-zh.md)
+- [x] 16 — [Vibe Coding 踩過的 5 個坑](./zh/16-vibe-coding-common-mistakes-zh.md)
+- [x] 17 — [如何制定 Vibe Coding 的工作計劃](./zh/17-vibe-coding-work-plan-and-ai-plan-mode-zh.md)
+- [x] 18 — [遇到錯誤不要慌：用 AI 讀懂錯誤訊息、解決問題](./zh/18-debug-and-errors-zh.md)
+
+-----
+
+### Week 5–6：技術選擇和實戰
+
+- [x] 19 — [如何選擇技術棧：Cloudflare vs Vercel vs AWS](./zh/19-cloudflare-vs-vercel-vs-aws-zh.md)
+- [x] 20 — [Stripe 收款完整指南](./zh/20-stripe-payment-complete-guide-zh.md)
+- [x] 21 — [如何用 AI 寫測試](./zh/21-ai-testing-guide-zh.md)
+- [x] 22 — [SEO 基礎：讓你的產品被 Google 找到](./zh/22-seo-basics-for-indie-makers-zh.md)
+- [x] 23 — [Analytics 和用戶追蹤](./zh/23-analytics-and-user-tracking-zh.md)
+- [x] 24 — [實戰案例：用 VibeFast 做一個 SaaS 產品](./zh/24-saas-case-study-zh.md)
+- [x] 25 — [實戰案例：用 VibeFast 做一個電商網站](./zh/25-ecommerce-case-study-zh.md)
 
 -----
 
 ## 授權
 
-模板原始碼：商業授權——詳見 [LICENSE](./LICENSE)。  
-`/vibe-coding-docs` 教程內容：MIT 授權。
+教程內容採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權（署名、非商業使用、相同方式共享）。
+
+VibeFast 商業模板為**商業軟體**，**不包含**在本 repo 中。
+
+-----
+
+## 作者
+
+**Danko Peng**
+
+做了 20 年生意，50 歲才開始認真寫 code。
+用 AI 和 Cloudflare，做出了你現在看到的這個產品。
+
+如果我可以，你也可以。
+
+- X：[@dankopeng](https://x.com/dankopeng)
+- Threads：[@dankopeng](https://threads.net/@dankopeng)
+- Website：[vibefast.app](https://vibefast.app)
