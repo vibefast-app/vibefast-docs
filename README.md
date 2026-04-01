@@ -136,6 +136,13 @@ One-time payment · Lifetime updates · Immediate access to private GitHub repo
 
 -----
 
+## Quick Links
+
+- [Quickstart Guide](./quickstart.md) — From clone to live in 3 commands
+- [FAQ](./faq.md) — Pricing, licensing, tech stack, and support
+
+-----
+
 ## License
 
 Tutorial content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Attribution, Non-Commercial, Share Alike).

@@ -136,6 +136,13 @@ Pagamento único · Atualizações vitalícias · Acesso imediato ao repositóri
 
 -----
 
+## Links rápidos
+
+- [Guia de Início Rápido](./quickstart-pt-br.md) — Do clone ao ar em 3 comandos
+- [Perguntas Frequentes](./faq-pt-br.md) — Preços, licença, stack técnico e suporte
+
+-----
+
 ## Licença
 
 O conteúdo do tutorial está licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Atribuição, Não Comercial, Compartilha Igual).

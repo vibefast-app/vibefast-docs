@@ -136,6 +136,13 @@ Pago único · Actualizaciones de por vida · Acceso inmediato al repositorio pr
 
 -----
 
+## Enlaces rápidos
+
+- [Guía de Inicio Rápido](./quickstart-es.md) — De clonar a producción en 3 comandos
+- [Preguntas Frecuentes](./faq-es.md) — Precios, licencia, stack técnico y soporte
+
+-----
+
 ## Licencia
 
 El contenido del tutorial está licenciado bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Atribución, No Comercial, Compartir Igual).

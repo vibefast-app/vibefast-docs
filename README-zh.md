@@ -136,6 +136,13 @@ vibefast.app 本身就是用 VibeFast 模板建的。每天真實運營，真實
 
 -----
 
+## 快速鏈接
+
+- [快速上手指南](./quickstart-zh.md) — 三個命令，快速上線
+- [常見問題](./faq-zh.md) — 問題、解答、支持
+
+-----
+
 ## 授權
 
 教程內容採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權（署名、非商業使用、相同方式共享）。
