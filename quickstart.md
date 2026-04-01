@@ -1,6 +1,6 @@
 # VibeFast Quickstart
 
-[中文](./quickstart-zh.md)
+[English](./quickstart.md) · [繁中](./quickstart-zh.md) · [日本語](./quickstart-jp.md) · [Español](./quickstart-es.md) · [Português (BR)](./quickstart-pt-br.md)
 
 **Updated:** March 2026  
 **Reading time:** about 5 minutes
@@ -38,6 +38,23 @@ Before you start, make sure you have:
 - macOS users: `jq` installed (`brew install jq`)
 
 No Cloudflare account yet? [Sign up free here](https://dash.cloudflare.com/sign-up) — no credit card required.
+
+-----
+
+## Want to See It Running First?
+
+Don't take the description at face value.
+
+[vibefast.app](https://vibefast.app) is built entirely on VibeFast — the marketing homepage, blog, pricing page, user login, and dashboard are all real features from this template running in production.
+
+**Sign up for a free account** and once you're logged in, you'll see:
+
+- Real 7-day traffic data for the site
+- Your registration number — which user you are
+
+The auth flow you just went through, the dashboard UI, the page speed — that's exactly what you're buying. Not a demo. The real thing.
+
+![VibeFast traffic analytics dashboard](./asset/analytics_light.png)
 
 -----
 
@@ -108,27 +125,10 @@ Branding is straightforward — VibeFast centralizes all the copy you’ll want 
 
 -----
 
-## Want to See It Running First?
-
-Don’t take the description at face value.
-
-[vibefast.app](https://vibefast.app) is built entirely on VibeFast — the marketing homepage, blog, pricing page, user login, and dashboard are all real features from this template running in production.
-
-**Sign up for a free account** and once you’re logged in, you’ll see:
-
-- Real 7-day traffic data for the site
-- Your registration number — which user you are
-
-The auth flow you just went through, the dashboard UI, the page speed — that’s exactly what you’re buying. Not a demo. The real thing.
-
-![VibeFast traffic analytics dashboard](./asset/Analytics_light.png)
-
------
-
 ## Want to Go Deeper on the Architecture?
 
 - [Why Cloudflare Is the Best Choice for Vibe Coding](./en/05-the-best-way-to-vibecoding-on-cloudflare-en.md) — Direct comparison with Next.js + Vercel
-- [Cloudflare Workers vs Traditional Servers](./en/06-cloudflare-workers-vs-traditional-server-en.md) — The practical benefits of edge architecture
+- [Cloudflare Workers vs. Traditional Servers](./en/06-cloudflare-workers-vs-traditional-server-en.md) — The practical benefits of edge architecture
 
 -----
 

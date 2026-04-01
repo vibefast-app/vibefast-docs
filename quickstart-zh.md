@@ -1,5 +1,7 @@
 # VibeFast 快速上手指南
 
+[English](./quickstart.md) · [繁中](./quickstart-zh.md) · [日本語](./quickstart-jp.md) · [Español](./quickstart-es.md) · [Português (BR)](./quickstart-pt-br.md)
+
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 5 分鐘
 
@@ -36,6 +38,23 @@ npm run setup
 - macOS 用戶：需要安裝 `jq`（`brew install jq`）
 
 沒有 Cloudflare 帳號？[點這裡免費註冊](https://dash.cloudflare.com/sign-up)，不需要綁信用卡。
+
+-----
+
+## 這個 stack 跑起來之後長什麼樣子？
+
+不需要相信文字描述。
+
+[vibefast.app](https://vibefast.app) 這個網站本身就是用 VibeFast 建的——行銷首頁、blog、定價頁面、用戶登入、dashboard，全部都是。
+
+**免費註冊一個帳號**，登入後你會看到：
+
+- 過去 7 天的真實流量數據
+- 你是第幾個註冊用戶
+
+你體驗到的 auth 流程、dashboard UI、頁面速度，就是你買到的東西。不是 demo，是真實的正式環境。
+
+![VibeFast traffic analytics dashboard](./asset/analytics_light.png)
 
 -----
 
@@ -103,23 +122,6 @@ npm run dev
 |`npm run deploy:backend` |只部署後端                            |
 |`npm run build`          |建構所有套件                           |
 |`npm run typecheck`      |全專案 TypeScript 型別檢查              |
-
------
-
-## 這個 stack 跑起來之後長什麼樣子？
-
-不需要相信文字描述。
-
-[vibefast.app](https://vibefast.app) 這個網站本身就是用 VibeFast 建的——行銷首頁、blog、定價頁面、用戶登入、dashboard，全部都是。
-
-**免費註冊一個帳號**，登入後你會看到：
-
-- 過去 7 天的真實流量數據
-- 你是第幾個註冊用戶
-
-你體驗到的 auth 流程、dashboard UI、頁面速度，就是你買到的東西。不是 demo，是真實的正式環境。
-
-![VibeFast traffic analytics dashboard](./asset/Analytics_light.png)
 
 -----
 
