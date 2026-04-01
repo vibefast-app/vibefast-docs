@@ -1,5 +1,7 @@
 # Stripe Payments: From Sandbox Testing to Going Live
 
+[English](../en/20-stripe-payment-complete-guide-en.md) · [繁中](../zh/20-stripe-payment-complete-guide-zh.md) · [Español](../es/20-stripe-payment-complete-guide-es.md) · [日本語](../jp/20-stripe-payment-complete-guide-jp.md) · [Português (BR)](../pt-br/20-stripe-payment-complete-guide-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~10 minutes
@@ -356,22 +358,12 @@ If Stripe doesn’t receive a 200 response, it retries for up to 3 days. Make yo
 
 -----
 
-## Summary
-
-The complete Stripe payment flow:
-
-1. Create an account and complete identity verification
-1. Develop and test using sandbox mode (test keys)
-1. Use Checkout Session — let Stripe handle the payment page
-1. Set up webhooks so your backend knows when payments complete
-1. Deploy to Cloudflare, run through the full flow with test cards
-1. Confirm every step works, then switch to live keys
-
-With VibeFast: set four environment variables and payments are live immediately.
-
-The step most often missed is step 4 — without webhooks, your app never finds out who paid.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

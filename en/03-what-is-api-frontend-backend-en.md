@@ -1,5 +1,7 @@
 # What is an API? Plain English Explanation of Frontend-Backend Communication
 
+[English](../en/03-what-is-api-frontend-backend-en.md) · [繁中](../zh/03-what-is-api-frontend-backend-zh.md) · [Español](../es/03-what-is-api-frontend-backend-es.md) · [日本語](../jp/03-what-is-api-frontend-backend-jp.md) · [Português (BR)](../pt-br/03-what-is-api-frontend-backend-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~7 minutes
@@ -147,17 +149,12 @@ You don't need to write this yourself, but understanding what it does helps you 
 
 -----
 
-## Summary
-
-APIs are the communication rules between frontend and backend. Remember three things:
-
-1. Frontend uses HTTP methods (GET/POST/PUT/DELETE) to tell the API what to do
-2. Backend uses status codes (200/404/500) to tell the frontend the result
-3. Data is usually passed in JSON format
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: What is Domain and DNS? What to Do After Buying a Domain](./11-domain-and-dns-setup-guide-en.md)
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

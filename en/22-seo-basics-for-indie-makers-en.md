@@ -1,5 +1,7 @@
 # SEO Basics: Getting Your Product Found on Google
 
+[English](../en/22-seo-basics-for-indie-makers-en.md) · [繁中](../zh/22-seo-basics-for-indie-makers-zh.md) · [Español](../es/22-seo-basics-for-indie-makers-es.md) · [日本語](../jp/22-seo-basics-for-indie-makers-jp.md) · [Português (BR)](../pt-br/22-seo-basics-for-indie-makers-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -214,20 +216,12 @@ Let Google do the rest.
 
 -----
 
-## Summary
-
-SEO comes down to: **make your pages easy for Google to understand, and give real people a reason to click.**
-
-Start with these:
-
-1. Set a unique title and meta description on every page
-1. Use a proper heading structure (h1, h2, h3)
-1. Submit your sitemap to Google Search Console
-1. Use AI to find long-tail keywords your users actually search for, then write content in their language
-
-Once these are in place, the main thing left is patience — SEO typically takes 3–6 months to show meaningful results. But once you rank, it’s a reliable source of free traffic.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

@@ -1,5 +1,7 @@
 # Cursorを使ったワークフロー：アイデアからデプロイまで
 
+[English](../en/15-cursor-workflow-from-idea-to-deploy-en.md) · [繁中](../zh/15-cursor-workflow-from-idea-to-deploy-zh.md) · [Español](../es/15-cursor-workflow-from-idea-to-deploy-es.md) · [日本語](../jp/15-cursor-workflow-from-idea-to-deploy-jp.md) · [Português (BR)](../pt-br/15-cursor-workflow-from-idea-to-deploy-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -198,20 +200,12 @@ AIが生成したコードを全く見ずに次のステップに進まない。
 
 -----
 
-## まとめ
-
-アイデアからデプロイまでのVibe Codingワークフロー：
-
-1. **要件をAIと整理する**（コードを書く前）
-2. **設計を確認してから承認する**
-3. **段階的に実装する**（一度に全部ではない）
-4. **各ステップでローカルテスト**
-5. **コミットしてデプロイ**
-6. **本番環境で確認**
-
-あなたはディレクター、AIはエグゼキューターだ。良いディレクターは明確な指示を出し、各段階で確認を行う。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

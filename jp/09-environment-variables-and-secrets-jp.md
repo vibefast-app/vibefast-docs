@@ -1,5 +1,7 @@
 # 環境変数とシークレット管理：APIキーを安全に扱う方法
 
+[English](../en/09-environment-variables-and-secrets-en.md) · [繁中](../zh/09-environment-variables-and-secrets-zh.md) · [Español](../es/09-environment-variables-and-secrets-es.md) · [日本語](../jp/09-environment-variables-and-secrets-jp.md) · [Português (BR)](../pt-br/09-environment-variables-and-secrets-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約7分
@@ -188,16 +190,12 @@ const stripe = new Stripe(env.STRIPE_SECRET_KEY)
 
 -----
 
-## まとめ
-
-シークレット管理のルールは2つだけ：
-
-1. **コードにキーを直接書かない**——常に環境変数経由でアクセスする
-2. **`.env`をGitIgnoreに追加する**——ローカルのキーがGitHubに漏れないようにする
-
-本番環境のシークレットはCloudflareのダッシュボードか`wrangler secret put`コマンドで設定する。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

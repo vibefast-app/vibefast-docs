@@ -1,5 +1,7 @@
 # Analíticas y tráfico: Entendiendo qué hacen tus usuarios
 
+[English](../en/23-analytics-and-user-tracking-en.md) · [繁中](../zh/23-analytics-and-user-tracking-zh.md) · [Español](../es/23-analytics-and-user-tracking-es.md) · [日本語](../jp/23-analytics-and-user-tracking-jp.md) · [Português (BR)](../pt-br/23-analytics-and-user-tracking-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Actualizado:** Marzo 2026  
 **Tiempo de lectura:** ~6 minutos
@@ -119,5 +121,12 @@ Las decisiones basadas en datos no son solo para grandes empresas. Saber lo que 
 
 -----
 
-¿Preguntas? Encuéntrame en X en [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Volver al índice del curso](../README-es.md)
+
+¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
 👉 **[vibefast.app](https://vibefast.app)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.

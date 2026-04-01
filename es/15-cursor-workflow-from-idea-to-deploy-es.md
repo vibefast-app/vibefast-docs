@@ -1,5 +1,7 @@
 # Cómo uso Cursor para llevar una funcionalidad de idea a producción
 
+[English](../en/15-cursor-workflow-from-idea-to-deploy-en.md) · [繁中](../zh/15-cursor-workflow-from-idea-to-deploy-zh.md) · [Español](../es/15-cursor-workflow-from-idea-to-deploy-es.md) · [日本語](../jp/15-cursor-workflow-from-idea-to-deploy-jp.md) · [Português (BR)](../pt-br/15-cursor-workflow-from-idea-to-deploy-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Actualizado:** Marzo 2026  
 **Tiempo de lectura:** ~10 minutos
@@ -161,7 +163,12 @@ Punto más importante: **Tú eres el director, la IA es quien ejecuta.** En cada
 
 -----
 
-👉 [Siguiente: 5 trampas en las que he caído con Vibe Coding (y cómo evitarlas)](./15-vibe-coding-common-mistakes-es.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-¿Preguntas? Encuéntrame en X [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Volver al índice del curso](../README-es.md)
+
+¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
 👉 **[vibefast.app](https://vibefast.app)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.

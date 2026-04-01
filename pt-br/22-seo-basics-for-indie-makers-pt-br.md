@@ -1,5 +1,7 @@
 # SEO Básico: Fazendo Seu Produto Ser Encontrado no Google
 
+[English](../en/22-seo-basics-for-indie-makers-en.md) · [繁中](../zh/22-seo-basics-for-indie-makers-zh.md) · [Español](../es/22-seo-basics-for-indie-makers-es.md) · [日本語](../jp/22-seo-basics-for-indie-makers-jp.md) · [Português (BR)](../pt-br/22-seo-basics-for-indie-makers-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -229,5 +231,12 @@ Uma vez que esses estejam no lugar, a principal coisa que falta é paciência �
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

@@ -1,5 +1,7 @@
 # CloudflareでVibeCodingするベストな方法
 
+[English](../en/05-the-best-way-to-vibecoding-on-cloudflare-en.md) · [繁中](../zh/05-the-best-way-to-vibecoding-on-cloudflare-zh.md) · [Español](../es/05-the-best-way-to-vibecoding-on-cloudflare-es.md) · [日本語](../jp/05-the-best-way-to-vibecoding-on-cloudflare-jp.md) · [Português (BR)](../pt-br/05-the-best-way-to-vibecoding-on-cloudflare-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月7日  
 **読了時間：** 約7分
@@ -91,23 +93,12 @@ Cloudflare R2はS3互換のストレージサービスで、S3と同じ方法で
 
 -----
 
-## このスタックが何をできるか、自分の目で見てみたい？
-
-[vibefast.app](https://vibefast.app) で無料でアカウントを登録してログインすると：
-
-- サイトの過去**7日間のリアルなトラフィックデータ**が見える
-- あなたがvibefast.appの**何番目の登録ユーザー**かがわかる
-
-このダッシュボード自体がVibeFastテンプレートで作られている。体験する認証フロー、データ表示、UIデザイン——それがあなたが手に入れるものだ。
-
-完全なテンプレート（auth、ブログ、Stripe決済、管理画面、D1マイグレーション付き）が欲しければ、**$99で買い切り**——プライベートリポジトリ + 将来のすべてのアップデートが含まれる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-VibeCodingの精髄は「考えすぎず、まず試す」。Cloudflareはデプロイのことを考える時間を減らし、プロダクトのことを考える時間を増やしてくれる。
+👉 [チュートリアルトップに戻る](../README-jp.md)
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで、またはコメントで議論してください。
-
-次の記事：**このスタックで最初のauthシステムをVibeする——ゼロからログインページまで、1時間以内で完成。**
-
-Happy VibeCoding！🚀
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
+👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

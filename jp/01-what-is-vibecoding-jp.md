@@ -1,5 +1,7 @@
 # Vibe Codingとは何か？入門概念を完全解説
 
+[English](../en/01-what-is-vibecoding-en.md) · [繁中](../zh/01-what-is-vibecoding-zh.md) · [Español](../es/01-what-is-vibecoding-es.md) · [日本語](../jp/01-what-is-vibecoding-jp.md) · [Português (BR)](../pt-br/01-what-is-vibecoding-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -192,15 +194,12 @@ AIがコードを書き、あなたが方向性が正しいか、結果が期待
 
 -----
 
-## 次の記事
-
-Vibe Codingとは何かを理解したら、次は実際の開発でどう動くかを見てみよう：
-
-👉 [CloudflareでVibeCodingするベストな方法](./05-vibecoding-on-cloudflare.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで、またはIssueで議論してください。
+👉 [チュートリアルトップに戻る](../README-jp.md)
 
 完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

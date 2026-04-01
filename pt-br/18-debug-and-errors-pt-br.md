@@ -1,5 +1,7 @@
 # Não Entre em Pânico: Usando IA para Ler Mensagens de Erro e Resolver Problemas
 
+[English](../en/18-debug-and-errors-en.md) · [繁中](../zh/18-debug-and-errors-zh.md) · [Español](../es/18-debug-and-errors-es.md) · [日本語](../jp/18-debug-and-errors-jp.md) · [Português (BR)](../pt-br/18-debug-and-errors-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -293,5 +295,12 @@ Não entre em pânico. Não feche o terminal. Não tente a mesma coisa esperando
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

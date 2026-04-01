@@ -1,5 +1,7 @@
 # アプリのテスト方法：AIにcurlコマンドで全機能を検証させる
 
+[English](../en/21-ai-testing-guide-en.md) · [繁中](../zh/21-ai-testing-guide-zh.md) · [Español](../es/21-ai-testing-guide-es.md) · [日本語](../jp/21-ai-testing-guide-jp.md) · [Português (BR)](../pt-br/21-ai-testing-guide-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約7分
@@ -166,16 +168,12 @@ bash test.sh
 
 -----
 
-## まとめ
-
-curlはVibe Coderにとって最も直感的なテストツールで、フロントエンドとバックエンドの両方で使える。コアのフローはたった2ステップだ：
-
-1. **何をテストしたいかをAIに自然言語で伝える**——ページ、API、正常系、エラー系
-1. **AIがcurlコマンドを生成し、コピペして実行する**——結果が期待通りかを確認する
-
-機能を1つ作り終えるたびにテストし、ローカルでテストしてからデプロイして、本番でもテストする。問題は早く発見するほど対処が楽になる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

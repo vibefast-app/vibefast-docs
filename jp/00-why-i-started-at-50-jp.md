@@ -1,5 +1,7 @@
 # なぜ私は50歳になってから本気でプロダクトを作り始めたのか
 
+[English](../en/00-why-i-started-at-50-en.md) · [繁中](../zh/00-why-i-started-at-50-zh.md) · [Español](../es/00-why-i-started-at-50-es.md) · [日本語](../jp/00-why-i-started-at-50-jp.md) · [Português (BR)](../pt-br/00-why-i-started-at-50-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -88,8 +90,6 @@ AIツールはこの入り口の敷居を大幅に下げた。プログラミン
 もし既に設定が済んだ起点を使いたい、setupからではなくプロダクト機能から直接始めたいのなら——それがVibeFastの存在意義だ。
 
 -----
-
-どこから始めるにせよ、重要なのは始めることだ。
 
 **Danko Peng**  
 [@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)

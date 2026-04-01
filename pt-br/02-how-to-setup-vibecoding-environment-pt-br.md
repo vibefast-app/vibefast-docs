@@ -1,5 +1,7 @@
 # Começando com Vibe Coding: Configurando Seu Ambiente de Desenvolvimento do Zero
 
+[English](../en/02-how-to-setup-vibecoding-environment-en.md) · [繁中](../zh/02-how-to-setup-vibecoding-environment-zh.md) · [Español](../es/02-how-to-setup-vibecoding-environment-es.md) · [日本語](../jp/02-how-to-setup-vibecoding-environment-jp.md) · [Português (BR)](../pt-br/02-how-to-setup-vibecoding-environment-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~10 minutos
@@ -252,5 +254,12 @@ Você não precisa terminar de ler todos os tutoriais antes de começar a constr
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

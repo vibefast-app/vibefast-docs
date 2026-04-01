@@ -1,5 +1,7 @@
 # How I Use Cursor to Take a Feature from Idea to Live
 
+[English](../en/15-cursor-workflow-from-idea-to-deploy-en.md) · [繁中](../zh/15-cursor-workflow-from-idea-to-deploy-zh.md) · [Español](../es/15-cursor-workflow-from-idea-to-deploy-es.md) · [日本語](../jp/15-cursor-workflow-from-idea-to-deploy-jp.md) · [Português (BR)](../pt-br/15-cursor-workflow-from-idea-to-deploy-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~10 minutes
@@ -145,23 +147,12 @@ For the latter, AI-generated code can be a starting point, but review more caref
 
 -----
 
-## Summary
-
-Core Vibe Coding workflow:
-
-```
-1. Think through requirements (what you want, where, how to calculate)
-2. Give AI clear instructions (say file path, say business logic)
-3. Review AI output, judge if correct
-4. Test locally
-5. Deploy
-```
-
-Most important point: **You're the director, AI is the executor.** Every step you're judging direction, AI is implementing details.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: 5 Pitfalls I've Hit in Vibe Coding (and How to Avoid Them)](./15-vibe-coding-common-mistakes-en.md)
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

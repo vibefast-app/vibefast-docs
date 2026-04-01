@@ -1,5 +1,7 @@
 # 如何制定 Vibe Coding 的工作計劃：從需求分析到 AI Plan 模式
 
+[English](../en/17-vibe-coding-work-plan-and-ai-plan-mode-en.md) · [繁中](../zh/17-vibe-coding-work-plan-and-ai-plan-mode-zh.md) · [Español](../es/17-vibe-coding-work-plan-and-ai-plan-mode-es.md) · [日本語](../jp/17-vibe-coding-work-plan-and-ai-plan-mode-jp.md) · [Português (BR)](../pt-br/17-vibe-coding-work-plan-and-ai-plan-mode-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 10 分鐘
@@ -432,5 +434,12 @@ Vibe Coding 的速度優勢，需要計劃來確保方向正確：
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

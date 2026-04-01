@@ -1,5 +1,7 @@
 # How to Create a Vibe Coding Work Plan: From Requirements Analysis to AI Plan Mode
 
+[English](../en/17-vibe-coding-work-plan-and-ai-plan-mode-en.md) · [繁中](../zh/17-vibe-coding-work-plan-and-ai-plan-mode-zh.md) · [Español](../es/17-vibe-coding-work-plan-and-ai-plan-mode-es.md) · [日本語](../jp/17-vibe-coding-work-plan-and-ai-plan-mode-jp.md) · [Português (BR)](../pt-br/17-vibe-coding-work-plan-and-ai-plan-mode-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~10 minutes
@@ -418,19 +420,12 @@ Spending 30 minutes filling this template, you'll save lots of "discover wrong d
 
 -----
 
-## Summary
-
-Vibe Coding's speed advantage needs plans to ensure correct direction:
-
-1. **Write requirements document**—who are users, what to do, what not to do
-2. **Break into specific tasks**—more specific the better, convenient to tell AI what to do
-3. **Prioritize Layer 1/2/3**—always build foundation first
-4. **Use Plan mode**—have AI list plan first, you confirm then implement
-5. **Choose 1–3 tasks daily**—small steps fast, every day has completed things
-
-Plans aren't constraints, they ensure your speed is used in the right place.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

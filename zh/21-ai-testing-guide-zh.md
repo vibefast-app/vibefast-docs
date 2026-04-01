@@ -1,5 +1,7 @@
 # 如何測試你的 App：讓 AI 幫你用 curl 驗證每一個功能
 
+[English](../en/21-ai-testing-guide-en.md) · [繁中](../zh/21-ai-testing-guide-zh.md) · [Español](../es/21-ai-testing-guide-es.md) · [日本語](../jp/21-ai-testing-guide-jp.md) · [Português (BR)](../pt-br/21-ai-testing-guide-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 7 分鐘
@@ -176,5 +178,12 @@ curl 是 Vibe Coder 最直觀的測試工具，而且前端後端都能用。核
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

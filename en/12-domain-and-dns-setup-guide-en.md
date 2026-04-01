@@ -1,5 +1,7 @@
 # What is a Domain and DNS? What to Do After Buying a Domain
 
+[English](../en/12-domain-and-dns-setup-guide-en.md) · [繁中](../zh/12-domain-and-dns-setup-guide-zh.md) · [Español](../es/12-domain-and-dns-setup-guide-es.md) · [日本語](../jp/12-domain-and-dns-setup-guide-jp.md) · [Português (BR)](../pt-br/12-domain-and-dns-setup-guide-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~7 minutes
@@ -148,20 +150,12 @@ No. Once your domain points to Cloudflare, SSL certificates are automatically pr
 
 -----
 
-## Summary
-
-A domain is your app’s address. DNS is the system that translates that address into an IP. The setup flow:
-
-1. Buy a domain
-1. Move DNS management to Cloudflare (recommended)
-1. Bind the custom domain in Cloudflare Workers → “Settings” → “Domains & Routes”
-1. Cloudflare handles HTTPS automatically
-
-The whole process usually takes under 30 minutes.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: Cloudflare Workers vs Traditional Servers](./08-workers-vs-server-en.md)
+👉 [Back to course index](../README.md)
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

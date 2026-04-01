@@ -1,5 +1,7 @@
 # ケーススタディ：VibeFastでSaaSを作る——InvoiceTrack
 
+[English](../en/24-saas-case-study-en.md) · [繁中](../zh/24-saas-case-study-zh.md) · [Español](../es/24-saas-case-study-es.md) · [日本語](../jp/24-saas-case-study-jp.md) · [Português (BR)](../pt-br/24-saas-case-study-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約9分
@@ -308,19 +310,12 @@ Eコマースのケーススタディは次の記事で紹介する。
 
 -----
 
-## まとめ
-
-VibeFastでSaaSを作るプロセス：
-
-1. AIと需要分析書とDBスキーマを設計する
-2. PLAN.mdで作業を3層に整理する
-3. Layer 1（認証・DB）→ Layer 2（コア機能）→ Layer 3（改善）の順に実装
-4. ブランディングはコア機能完成後
-5. Stripe課金は環境変数設定のみ
-
-VibeFastがあれば、認証とインフラのゼロベース構築をスキップして、プロダクト独自の機能から直接始められる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

@@ -1,5 +1,7 @@
 # 5 Pitfalls I've Hit in Vibe Coding (and How to Avoid Them)
 
+[English](../en/16-vibe-coding-common-mistakes-en.md) · [繁中](../zh/16-vibe-coding-common-mistakes-zh.md) · [Español](../es/16-vibe-coding-common-mistakes-es.md) · [日本語](../jp/16-vibe-coding-common-mistakes-jp.md) · [Português (BR)](../pt-br/16-vibe-coding-common-mistakes-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -106,23 +108,12 @@ This way months later when you come back, you can quickly recall what this secti
 
 -----
 
-## One Overall Suggestion
-
-Vibe Coding dramatically increases development speed, but speed's side effect is: you can easily stack features without understanding, until one day the entire app becomes a black box you don't dare touch.
-
-**The solution isn't slowing down, it's establishing a few basic habits:**
-
-1. Clarify requirements before asking AI
-2. One thing at a time, commit frequently
-3. Test locally before deploying
-4. Proactively confirm security-related decisions
-5. Clarify key code before continuing
-
-These five habits won't slow you down, but will help you avoid many unnecessary pitfalls.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: Why I Started Building Products Seriously at 50](./17-why-i-started-at-50-en.md)
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

@@ -1,5 +1,7 @@
 # O Que É Domínio e DNS? O Que Fazer Depois de Comprar um Domínio
 
+[English](../en/12-domain-and-dns-setup-guide-en.md) · [繁中](../zh/12-domain-and-dns-setup-guide-zh.md) · [Español](../es/12-domain-and-dns-setup-guide-es.md) · [日本語](../jp/12-domain-and-dns-setup-guide-jp.md) · [Português (BR)](../pt-br/12-domain-and-dns-setup-guide-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~7 minutos
@@ -161,7 +163,12 @@ O processo todo geralmente leva menos de 30 minutos.
 
 -----
 
-👉 [Próximo: Cloudflare Workers vs Servidores Tradicionais](./06-cloudflare-workers-vs-traditional-server-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

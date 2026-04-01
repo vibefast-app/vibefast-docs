@@ -1,5 +1,7 @@
 # Why I Started Building Seriously at 50
 
+[English](../en/00-why-i-started-at-50-en.md) · [繁中](../zh/00-why-i-started-at-50-zh.md) · [Español](../es/00-why-i-started-at-50-es.md) · [日本語](../jp/00-why-i-started-at-50-jp.md) · [Português (BR)](../pt-br/00-why-i-started-at-50-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -92,8 +94,6 @@ Everything in the vibefast-docs repo is me taking what I’ve learned and writin
 If you want a starting point that’s already configured — so you can focus on building your product instead of wiring up infrastructure — that’s what VibeFast is for.
 
 -----
-
-Whatever you choose, the important thing is to start.
 
 **Danko Peng**  
 [@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)

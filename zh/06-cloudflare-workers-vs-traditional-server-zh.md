@@ -1,5 +1,7 @@
 # Cloudflare Workers 和傳統伺服器有什麼不同？
 
+[English](../en/06-cloudflare-workers-vs-traditional-server-en.md) · [繁中](../zh/06-cloudflare-workers-vs-traditional-server-zh.md) · [Español](../es/06-cloudflare-workers-vs-traditional-server-es.md) · [日本語](../jp/06-cloudflare-workers-vs-traditional-server-jp.md) · [Português (BR)](../pt-br/06-cloudflare-workers-vs-traditional-server-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -126,7 +128,12 @@ Workers 不是所有場景的最佳選擇，但對大多數 web app 和 API 來�
 
 -----
 
-👉 [下一篇：D1 資料庫入門：用 AI 設計你的第一個資料表](./09-d1-database.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

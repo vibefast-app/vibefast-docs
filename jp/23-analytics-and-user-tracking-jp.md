@@ -1,5 +1,7 @@
 # アナリティクスとユーザートラッキング：Cloudflareの無料ツールで使用状況を把握する
 
+[English](../en/23-analytics-and-user-tracking-en.md) · [繁中](../zh/23-analytics-and-user-tracking-zh.md) · [Español](../es/23-analytics-and-user-tracking-es.md) · [日本語](../jp/23-analytics-and-user-tracking-jp.md) · [Português (BR)](../pt-br/23-analytics-and-user-tracking-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約7分
@@ -195,20 +197,12 @@ Web Analyticsでデバイス分布を確認したら、モバイルユーザー�
 
 -----
 
-## まとめ
-
-Cloudflareの無料アナリティクスで、コードを書かずに把握できること：
-
-- **Workers Analytics**：APIのリクエスト数、エラー率、レスポンスタイム
-- **Web Analytics**：ページビュー、ユーザーの国・地域、リファラー、デバイス種別
-
-設定のポイント：
-1. Workers AnalyticsはCloudflare DashboardのMetricsタブで自動表示
-2. Web Analyticsは`root.tsx`に1行追加するだけで有効化
-
-VibeFastの管理画面ダッシュボードを使えば、Cloudflare DashboardとVibeFastを切り替えることなく、主要な指標をアプリ内で確認できる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

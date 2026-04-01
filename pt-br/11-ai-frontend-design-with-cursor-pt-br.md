@@ -1,5 +1,7 @@
 # Criando UI Bonita com IA: Guia Completo de Prompts no Cursor
 
+[English](../en/11-ai-frontend-design-with-cursor-en.md) · [繁中](../zh/11-ai-frontend-design-with-cursor-zh.md) · [Español](../es/11-ai-frontend-design-with-cursor-es.md) · [日本語](../jp/11-ai-frontend-design-with-cursor-jp.md) · [Português (BR)](../pt-br/11-ai-frontend-design-with-cursor-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~12 minutos
@@ -322,5 +324,12 @@ Design nunca está "pronto" — só "bom o suficiente para lançar." Chegue a 80
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

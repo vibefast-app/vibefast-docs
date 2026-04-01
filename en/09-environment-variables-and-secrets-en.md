@@ -1,5 +1,7 @@
 # What Are Environment Variables? Why You Can't Put API Keys in Code
 
+[English](../en/09-environment-variables-and-secrets-en.md) · [繁中](../zh/09-environment-variables-and-secrets-zh.md) · [Español](../es/09-environment-variables-and-secrets-es.md) · [日本語](../jp/09-environment-variables-and-secrets-jp.md) · [Português (BR)](../pt-br/09-environment-variables-and-secrets-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~6 minutes
@@ -115,19 +117,12 @@ console.log("Stripe key exists:", !!env.STRIPE_SECRET_KEY)
 
 -----
 
-## Summary
-
-The core concept of environment variables is simple: **secrets don't belong in code, they belong in the environment.**
-
-Three principles to remember:
-
-1. Add `.env` to `.gitignore`
-2. Set production secrets on the platform, not in code
-3. If accidentally leaked, immediately revoke and regenerate, no exceptions
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: What is an API? Plain English Explanation of Frontend-Backend Communication](./03-what-is-api-frontend-backend-en.md)
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

@@ -1,5 +1,7 @@
 # Don’t Panic: Using AI to Read Error Messages and Fix Problems
 
+[English](../en/18-debug-and-errors-en.md) · [繁中](../zh/18-debug-and-errors-zh.md) · [Español](../es/18-debug-and-errors-es.md) · [日本語](../jp/18-debug-and-errors-jp.md) · [Português (BR)](../pt-br/18-debug-and-errors-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -281,17 +283,12 @@ Especially useful for:
 
 -----
 
-## The Right Mindset
-
-Hitting an error doesn’t mean you failed. It means you’re learning.
-
-Every error has a cause. Every cause can be found. You don’t need to figure out all the details yourself — AI is your debugging partner. Paste the error and the code, and it can help you track down most problems.
-
-**The correct flow when you hit an error: copy the full error → paste to AI → understand the cause → fix it → keep going.**
-
-Don’t panic. Don’t close the terminal. Don’t retry the same thing expecting a different result.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

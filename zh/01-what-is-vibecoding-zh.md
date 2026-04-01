@@ -1,5 +1,7 @@
 # 什麼是 Vibe Coding？入門概念全解析
 
+[English](../en/01-what-is-vibecoding-en.md) · [繁中](../zh/01-what-is-vibecoding-zh.md) · [Español](../es/01-what-is-vibecoding-es.md) · [日本語](../jp/01-what-is-vibecoding-jp.md) · [Português (BR)](../pt-br/01-what-is-vibecoding-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -192,15 +194,12 @@ AI 負責寫 code，你負責判斷方向對不對、結果符不符合預期。
 
 -----
 
-## 下一篇
-
-了解了 Vibe Coding 是什麼，下一步是看它在實際開發中怎麼運作：
-
-👉 [在 Cloudflare 上 VibeCoding 的最佳方式](./05-vibecoding-on-cloudflare.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我，或開 Issue 討論。
+👉 [回到教程首頁](../README-zh.md)
 
 想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

@@ -1,5 +1,7 @@
 # What is JWT? Plain English Explanation of This Tech You Use Every Day
 
+[English](../en/04-what-is-jwt-authentication-en.md) · [繁中](../zh/04-what-is-jwt-authentication-zh.md) · [Español](../es/04-what-is-jwt-authentication-es.md) · [日本語](../jp/04-what-is-jwt-authentication-jp.md) · [Português (BR)](../pt-br/04-what-is-jwt-authentication-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -212,15 +214,12 @@ Three security points for using JWT: keep secret key confidential, set expiratio
 
 -----
 
-## Next Article
-
-Now that you understand JWT's principles, the next step is seeing the security practices Vibe Coders most need to know:
-
-👉 [Security Basics for Vibe Coders: Confirm These Before Your App Goes Live](./12-security-basics-for-vibe-coders-en.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).
+👉 [Back to course index](../README.md)
 
-Want a complete Cloudflare fullstack template with built-in JWT auth?  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

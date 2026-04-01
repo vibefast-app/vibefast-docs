@@ -1,5 +1,7 @@
 # 什麼是 Domain 和 DNS？買了域名之後要做什麼
 
+[English](../en/12-domain-and-dns-setup-guide-en.md) · [繁中](../zh/12-domain-and-dns-setup-guide-zh.md) · [Español](../es/12-domain-and-dns-setup-guide-es.md) · [日本語](../jp/12-domain-and-dns-setup-guide-jp.md) · [Português (BR)](../pt-br/12-domain-and-dns-setup-guide-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 7 分鐘
@@ -161,7 +163,12 @@ curl -I https://vibefast.app
 
 -----
 
-👉 [下一篇：Cloudflare Workers 和傳統伺服器有什麼不同？](./08-workers-vs-server.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

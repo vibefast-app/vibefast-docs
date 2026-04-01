@@ -1,5 +1,7 @@
 # R2 vs S3：為什麼我不用 AWS 存圖片
 
+[English](../en/08-cloudflare-r2-vs-aws-s3-en.md) · [繁中](../zh/08-cloudflare-r2-vs-aws-s3-zh.md) · [Español](../es/08-cloudflare-r2-vs-aws-s3-es.md) · [日本語](../jp/08-cloudflare-r2-vs-aws-s3-jp.md) · [Português (BR)](../pt-br/08-cloudflare-r2-vs-aws-s3-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 6 分鐘
@@ -110,7 +112,12 @@ R2 幾乎在所有面向都對 Cloudflare 生態的 app 更合適，但有幾個
 
 -----
 
-👉 [下一篇：我怎麼用 Cursor 把一個功能從想法變成上線](./11-cursor-workflow.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

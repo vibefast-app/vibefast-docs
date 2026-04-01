@@ -1,5 +1,7 @@
 # O Que São Variáveis de Ambiente? Por Que Você Não Pode Colocar Chaves de API no Código
 
+[English](../en/09-environment-variables-and-secrets-en.md) · [繁中](../zh/09-environment-variables-and-secrets-zh.md) · [Español](../es/09-environment-variables-and-secrets-es.md) · [日本語](../jp/09-environment-variables-and-secrets-jp.md) · [Português (BR)](../pt-br/09-environment-variables-and-secrets-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~6 minutos
@@ -127,7 +129,12 @@ Três princípios para lembrar:
 
 -----
 
-👉 [Próximo: O Que É uma API? Comunicação Entre Frontend e Backend em Linguagem Simples](./03-what-is-api-frontend-backend-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

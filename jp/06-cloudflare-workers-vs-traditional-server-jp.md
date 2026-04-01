@@ -1,5 +1,7 @@
 # Cloudflare Workersと従来のサーバーの違い
 
+[English](../en/06-cloudflare-workers-vs-traditional-server-en.md) · [繁中](../zh/06-cloudflare-workers-vs-traditional-server-zh.md) · [Español](../es/06-cloudflare-workers-vs-traditional-server-es.md) · [日本語](../jp/06-cloudflare-workers-vs-traditional-server-jp.md) · [Português (BR)](../pt-br/06-cloudflare-workers-vs-traditional-server-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -152,19 +154,12 @@ npm run deploy
 
 -----
 
-## まとめ
-
-Cloudflare WorkersがVibe Codingに向いている理由：
-
-- **コールドスタートなし**：常に即座にレスポンス
-- **グローバル分散**：ユーザーの近くで実行
-- **サーバー管理不要**：コードだけに集中できる
-- **シンプルなデプロイ**：1コマンドで完了
-- **低コスト**：無料枠が広く、有料でも安い
-
-制限はあるが、一般的なWebアプリの範囲内ではほぼ問題にならない。CPUを大量消費する処理や長時間実行が必要な処理は別途検討する必要があるが、それはほとんどのVibe Coderが最初に作るアプリには当てはまらない。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

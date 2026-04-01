@@ -1,5 +1,7 @@
 # Qual a Diferença Entre Cloudflare Workers e Servidores Tradicionais?
 
+[English](../en/06-cloudflare-workers-vs-traditional-server-en.md) · [繁中](../zh/06-cloudflare-workers-vs-traditional-server-zh.md) · [Español](../es/06-cloudflare-workers-vs-traditional-server-es.md) · [日本語](../jp/06-cloudflare-workers-vs-traditional-server-jp.md) · [Português (BR)](../pt-br/06-cloudflare-workers-vs-traditional-server-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -128,7 +130,12 @@ Workers não são a melhor escolha para todos os cenários, mas para a maioria d
 
 -----
 
-👉 [Próximo: Tutorial de Banco de Dados D1: Projete Sua Primeira Tabela com IA](./07-cloudflare-d1-database-tutorial-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

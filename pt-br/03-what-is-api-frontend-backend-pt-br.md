@@ -1,5 +1,7 @@
 # O Que É uma API? Comunicação Entre Frontend e Backend em Linguagem Simples
 
+[English](../en/03-what-is-api-frontend-backend-en.md) · [繁中](../zh/03-what-is-api-frontend-backend-zh.md) · [Español](../es/03-what-is-api-frontend-backend-es.md) · [日本語](../jp/03-what-is-api-frontend-backend-jp.md) · [Português (BR)](../pt-br/03-what-is-api-frontend-backend-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~7 minutos
@@ -157,7 +159,12 @@ APIs são as regras de comunicação entre frontend e backend. Lembre-se de trê
 
 -----
 
-👉 [Próximo: O Que É Domain e DNS? O Que Fazer Após Comprar um Domínio](./12-domain-and-dns-setup-guide-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

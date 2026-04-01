@@ -1,5 +1,7 @@
 # Fundamentos do Banco de Dados D1: Usando IA para Projetar Sua Primeira Tabela
 
+[English](../en/07-cloudflare-d1-database-tutorial-en.md) · [繁中](../zh/07-cloudflare-d1-database-tutorial-zh.md) · [Español](../es/07-cloudflare-d1-database-tutorial-es.md) · [日本語](../jp/07-cloudflare-d1-database-tutorial-jp.md) · [Português (BR)](../pt-br/07-cloudflare-d1-database-tutorial-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -228,7 +230,12 @@ O fluxo prático do Vibe Coder:
 
 -----
 
-👉 [Próximo: R2 vs S3 — Por Que Não Uso AWS para Armazenamento](./08-cloudflare-r2-vs-aws-s3-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

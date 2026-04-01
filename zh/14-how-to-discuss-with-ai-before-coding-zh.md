@@ -1,5 +1,7 @@
 # 如何跟 AI 討論專案：先想清楚，再動手
 
+[English](../en/14-how-to-discuss-with-ai-before-coding-en.md) · [繁中](../zh/14-how-to-discuss-with-ai-before-coding-zh.md) · [Español](../es/14-how-to-discuss-with-ai-before-coding-es.md) · [日本語](../jp/14-how-to-discuss-with-ai-before-coding-jp.md) · [Português (BR)](../pt-br/14-how-to-discuss-with-ai-before-coding-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -246,5 +248,12 @@ Workers 直接從 R2 讀取檔案流，回傳給用戶。
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

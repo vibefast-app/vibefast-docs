@@ -1,5 +1,7 @@
 # 我為什麼選 Cloudflare，而不是 Vercel 或 AWS
 
+[English](../en/19-cloudflare-vs-vercel-vs-aws-en.md) · [繁中](../zh/19-cloudflare-vs-vercel-vs-aws-zh.md) · [Español](../es/19-cloudflare-vs-vercel-vs-aws-es.md) · [日本語](../jp/19-cloudflare-vs-vercel-vs-aws-jp.md) · [Português (BR)](../pt-br/19-cloudflare-vs-vercel-vs-aws-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -106,5 +108,12 @@ Cloudflare 不完美，但它給了我最想要的東西：**一個地方管理�
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

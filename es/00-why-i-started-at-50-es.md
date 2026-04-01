@@ -1,5 +1,7 @@
 # Por qué empecé a construir en serio a los 50
 
+[English](../en/00-why-i-started-at-50-en.md) · [繁中](../zh/00-why-i-started-at-50-zh.md) · [Español](../es/00-why-i-started-at-50-es.md) · [日本語](../jp/00-why-i-started-at-50-jp.md) · [Português (BR)](../pt-br/00-why-i-started-at-50-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Actualizado:** Marzo 2026  
 **Tiempo de lectura:** ~8 minutos
@@ -93,8 +95,6 @@ Si quieres un punto de partida ya configurado — para que puedas enfocarte en c
 
 -----
 
-Sea lo que sea que elijas, lo importante es empezar.
-
 **Danko Peng**  
 [@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
@@ -102,5 +102,5 @@ Sea lo que sea que elijas, lo importante es empezar.
 
 👉 [Volver al índice del curso](../README-es.md)
 
-¿Listo para saltarte la configuración y empezar a construir?  
+¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
 👉 **[vibefast.app](https://vibefast.app)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.

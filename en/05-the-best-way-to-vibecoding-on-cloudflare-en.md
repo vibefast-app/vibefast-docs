@@ -1,5 +1,7 @@
 # The Best Way to Vibe Code on Cloudflare
 
+[English](../en/05-the-best-way-to-vibecoding-on-cloudflare-en.md) · [繁中](../zh/05-the-best-way-to-vibecoding-on-cloudflare-zh.md) · [Español](../es/05-the-best-way-to-vibecoding-on-cloudflare-es.md) · [日本語](../jp/05-the-best-way-to-vibecoding-on-cloudflare-jp.md) · [Português (BR)](../pt-br/05-the-best-way-to-vibecoding-on-cloudflare-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Date:** March 7, 2026  
 **Reading time:** ~7 minutes
@@ -91,23 +93,12 @@ I built [vibefast.app](https://vibefast.app) with this combination—including u
 
 -----
 
-## Want to See What This Stack Can Do?
-
-Go to [vibefast.app](https://vibefast.app) and register for free. After logging in, you'll see:
-
-- The site's **real traffic data from the past 7 days**
-- **What number registered user** you are on vibefast.app
-
-This dashboard itself was built with the VibeFast template. The auth flow, data display, UI design you experience—that's what you get.
-
-If you want the complete template (including auth, blog, Stripe payments, admin backend, D1 migrations), **$99 lifetime license**, private repo + all future updates included.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-The essence of VibeCoding is "less thinking, more trying." Cloudflare lets you think less about deployment and more about your product.
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng) or comment below.
-
-Next article: **Vibe your first auth system with this stack—from zero to login page in under an hour.**
-
-Happy VibeCoding! 🚀
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

@@ -1,5 +1,7 @@
 # D1 Database Basics: Using AI to Design Your First Table
 
+[English](../en/07-cloudflare-d1-database-tutorial-en.md) · [繁中](../zh/07-cloudflare-d1-database-tutorial-zh.md) · [Español](../es/07-cloudflare-d1-database-tutorial-es.md) · [日本語](../jp/07-cloudflare-d1-database-tutorial-jp.md) · [Português (BR)](../pt-br/07-cloudflare-d1-database-tutorial-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -215,20 +217,12 @@ For 90% of indie apps, D1 is more than sufficient.
 
 -----
 
-## Summary
-
-D1 is your app’s long-term memory — where you store users, posts, orders, and any other structured data.
-
-The practical Vibe Coder workflow:
-
-1. Tell AI in plain language what tables you need
-1. AI generates the SQL — review it
-1. Run it to create the tables
-1. Use `env.DB.prepare()` for queries, with AI writing the query code
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: R2 vs S3 — Why I Don’t Use AWS for Storage](./10-r2-vs-s3-en.md)
+👉 [Back to course index](../README.md)
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

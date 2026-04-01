@@ -1,5 +1,7 @@
 # 為什麼我 50 歲才開始認真 Build 產品
 
+[English](../en/00-why-i-started-at-50-en.md) · [繁中](../zh/00-why-i-started-at-50-zh.md) · [Español](../es/00-why-i-started-at-50-es.md) · [日本語](../jp/00-why-i-started-at-50-jp.md) · [Português (BR)](../pt-br/00-why-i-started-at-50-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -88,8 +90,6 @@ vibefast-docs 這個 repo 裡的所有教程，就是我把自己學到的東西
 如果你想要一個已經設定好的起點，直接從產品功能開始而不是從 setup 開始——那就是 VibeFast 的用途。
 
 -----
-
-不管你選擇從哪裡開始，重要的是開始。
 
 **Danko Peng**  
 [@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)

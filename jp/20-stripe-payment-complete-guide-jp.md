@@ -1,5 +1,7 @@
 # Stripe決済完全ガイド：テストから本番稼働まで
 
+[English](../en/20-stripe-payment-complete-guide-en.md) · [繁中](../zh/20-stripe-payment-complete-guide-zh.md) · [Español](../es/20-stripe-payment-complete-guide-es.md) · [日本語](../jp/20-stripe-payment-complete-guide-jp.md) · [Português (BR)](../pt-br/20-stripe-payment-complete-guide-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約10分
@@ -351,22 +353,12 @@ Stripeは200レスポンスを受け取れなかった場合、最大3日間リ�
 
 -----
 
-## まとめ
-
-Stripe決済の完全フロー：
-
-1. アカウント登録、本人確認を完了する
-2. サンドボックスモード（テスト用キー）で開発・テストする
-3. Checkout Sessionを使い、StripeにUI処理させる
-4. Webhookを設定して、バックエンドが決済完了を知る
-5. Cloudflareにデプロイして、テストカードで完全フローを通す
-6. すべての環節を確認して、本番キーに切り替える
-
-VibeFastを使う場合：3つの環境変数を設定すれば決済機能は稼働する。
-
-最も見落とされやすいのはステップ4——Webhookなしでは誰が支払ったかをアプリが知ることができない。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

@@ -1,5 +1,7 @@
 # Por Que Comecei a Construir Produtos de Verdade aos 50 Anos
 
+[English](../en/00-why-i-started-at-50-en.md) · [繁中](../zh/00-why-i-started-at-50-zh.md) · [Español](../es/00-why-i-started-at-50-es.md) · [日本語](../jp/00-why-i-started-at-50-jp.md) · [Português (BR)](../pt-br/00-why-i-started-at-50-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -93,8 +95,6 @@ Se você quer um ponto de partida já configurado — para poder focar em constr
 
 -----
 
-Seja qual for sua escolha, o importante é começar.
-
 **Danko Peng**  
 [@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
@@ -102,5 +102,5 @@ Seja qual for sua escolha, o importante é começar.
 
 👉 [Voltar ao índice do curso](../README-pt-br.md)
 
-Pronto para pular a configuração e começar a construir?  
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

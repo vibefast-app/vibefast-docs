@@ -1,5 +1,7 @@
 # 什麼是 API？用白話解釋前後端怎麼溝通
 
+[English](../en/03-what-is-api-frontend-backend-en.md) · [繁中](../zh/03-what-is-api-frontend-backend-zh.md) · [Español](../es/03-what-is-api-frontend-backend-es.md) · [日本語](../jp/03-what-is-api-frontend-backend-jp.md) · [Português (BR)](../pt-br/03-what-is-api-frontend-backend-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 7 分鐘
@@ -157,7 +159,12 @@ API 是前後端之間的溝通規則。記住三件事：
 
 -----
 
-👉 [下一篇：什麼是 Domain 和 DNS？買了域名之後要做什麼](./07-domain-and-dns.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

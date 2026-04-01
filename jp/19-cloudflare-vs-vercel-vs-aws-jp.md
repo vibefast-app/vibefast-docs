@@ -1,5 +1,7 @@
 # なぜ私はCloudflareを選ぶのか。VercelでもAWSでもなく
 
+[English](../en/19-cloudflare-vs-vercel-vs-aws-en.md) · [繁中](../zh/19-cloudflare-vs-vercel-vs-aws-zh.md) · [Español](../es/19-cloudflare-vs-vercel-vs-aws-es.md) · [日本語](../jp/19-cloudflare-vs-vercel-vs-aws-jp.md) · [Português (BR)](../pt-br/19-cloudflare-vs-vercel-vs-aws-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -94,17 +96,12 @@ Workersは1日10万リクエストまで無料、D1は1ヶ月500万回の読み�
 
 -----
 
-## まとめ
-
-Vercelは良いが、コスト構造と分散サービスの性質がインディー開発者の管理を難しくする。
-
-AWSは強力だが、複雑さがインディーハッカーの多くをセットアップに費やし、プロダクト作りに集中できなくさせる。
-
-Cloudflareは完璧ではないが、私が最も欲しいものをくれる：**1カ所ですべてを管理でき、コストが予測しやすく、最初の日からグローバルデプロイだ。**
-
-これは私の選択だ。あなたの状況は違うかもしれない。しかし、初めてプロダクトを作っていて、一人で動いていて、インフラ管理に時間を使いたくないなら——私のアドバイスは：Cloudflareから始めよう。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

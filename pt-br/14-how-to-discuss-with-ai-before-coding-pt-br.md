@@ -1,5 +1,7 @@
 # Como Discutir Projetos com IA: Pense Primeiro, Code Depois
 
+[English](../en/14-how-to-discuss-with-ai-before-coding-en.md) · [繁中](../zh/14-how-to-discuss-with-ai-before-coding-zh.md) · [Español](../es/14-how-to-discuss-with-ai-before-coding-es.md) · [日本語](../jp/14-how-to-discuss-with-ai-before-coding-jp.md) · [Português (BR)](../pt-br/14-how-to-discuss-with-ai-before-coding-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -246,5 +248,12 @@ Lembre-se desse processo:
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

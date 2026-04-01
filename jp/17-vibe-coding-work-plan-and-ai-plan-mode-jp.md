@@ -1,5 +1,7 @@
 # Vibe Codingの作業計画：AIのPlanモードを活用する
 
+[English](../en/17-vibe-coding-work-plan-and-ai-plan-mode-en.md) · [繁中](../zh/17-vibe-coding-work-plan-and-ai-plan-mode-zh.md) · [Español](../es/17-vibe-coding-work-plan-and-ai-plan-mode-es.md) · [日本語](../jp/17-vibe-coding-work-plan-and-ai-plan-mode-jp.md) · [Português (BR)](../pt-br/17-vibe-coding-work-plan-and-ai-plan-mode-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約12分
@@ -255,19 +257,12 @@ AIに現在の`PLAN.md`を読ませてから作業を始めると、コンテキ
 
 -----
 
-## まとめ
-
-Vibe Codingで作業計画を使うフロー：
-
-1. **需要分析書を作る**——AIと一緒に、何を作るかを明確にする
-2. **タスクを3層に分ける**——Layer 1（地盤）→ Layer 2（コア）→ Layer 3（改善）
-3. **PLAN.mdで進捗を管理する**——毎日更新して全体像を把握する
-4. **AIのPlanモードを使う**——大きな変更の前に計画を確認する
-5. **計画は柔軟に更新する**——現実に合わせて変更を恐れない
-
-計画があると「次に何をするか」で迷わなくなる。Vibe Codingはスピードが大事だが、方向を間違えたまま速く走っても意味がない。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

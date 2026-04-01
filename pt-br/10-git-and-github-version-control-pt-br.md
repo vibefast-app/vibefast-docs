@@ -1,5 +1,7 @@
 # Git e GitHub: Controle de Versão Essencial para Vibe Coders
 
+[English](../en/10-git-and-github-version-control-en.md) · [繁中](../zh/10-git-and-github-version-control-zh.md) · [Español](../es/10-git-and-github-version-control-es.md) · [日本語](../jp/10-git-and-github-version-control-jp.md) · [Português (BR)](../pt-br/10-git-and-github-version-control-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~12 minutos
@@ -347,5 +349,12 @@ Prevenção é sempre mais fácil que remédio: configure `.gitignore` antes do 
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

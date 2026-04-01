@@ -1,5 +1,7 @@
 # Why I Chose Cloudflare Over Vercel and AWS
 
+[English](../en/19-cloudflare-vs-vercel-vs-aws-en.md) · [繁中](../zh/19-cloudflare-vs-vercel-vs-aws-zh.md) · [Español](../es/19-cloudflare-vs-vercel-vs-aws-es.md) · [日本語](../jp/19-cloudflare-vs-vercel-vs-aws-jp.md) · [Português (BR)](../pt-br/19-cloudflare-vs-vercel-vs-aws-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -94,17 +96,12 @@ Building with a team: it depends on your stack. If the team is already deep in N
 
 -----
 
-## The Bottom Line
-
-Vercel is good, but its cost structure and the fragmented service ecosystem make it exhausting to manage as an indie developer.
-
-AWS is powerful, but its complexity means most indie hackers spend too much time on configuration and not enough time building.
-
-Cloudflare isn’t perfect, but it gives me what I actually want: **one place to manage everything, predictable costs, and global deployment from day one.**
-
-That’s my choice. Your situation might be different. But if you’re building your first product, running solo, and don’t want to spend time managing infrastructure — my recommendation is: start with Cloudflare.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

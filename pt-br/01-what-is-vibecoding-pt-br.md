@@ -1,5 +1,7 @@
 # O Que É Vibe Coding? Uma Introdução Completa
 
+[English](../en/01-what-is-vibecoding-en.md) · [繁中](../zh/01-what-is-vibecoding-zh.md) · [Español](../es/01-what-is-vibecoding-es.md) · [日本語](../jp/01-what-is-vibecoding-jp.md) · [Português (BR)](../pt-br/01-what-is-vibecoding-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -192,15 +194,12 @@ As ferramentas e plataforma certas fazem muitos problemas técnicos desaparecere
 
 -----
 
-## Próximo
-
-Agora que você entende o que é Vibe Coding, o próximo passo é ver como funciona na prática:
-
-👉 [Configurando Seu Ambiente de Vibe Coding](./02-how-to-setup-vibecoding-environment-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng) ou abra uma Issue.
+👉 [Voltar ao índice do curso](../README-pt-br.md)
 
 Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

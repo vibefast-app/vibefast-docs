@@ -1,5 +1,7 @@
 # GitとGitHub：バージョン管理入門
 
+[English](../en/10-git-and-github-version-control-en.md) · [繁中](../zh/10-git-and-github-version-control-zh.md) · [Español](../es/10-git-and-github-version-control-es.md) · [日本語](../jp/10-git-and-github-version-control-jp.md) · [Português (BR)](../pt-br/10-git-and-github-version-control-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約10分
@@ -231,18 +233,12 @@ git add して git commit して git push するコマンドを教えてくだ�
 
 -----
 
-## まとめ
-
-GitとGitHubでVibe Coder が最初に身につけるべき習慣：
-
-1. **こまめにコミットする**——機能が完成したらすぐにコミット
-2. **わかりやすいコミットメッセージを書く**——後から何をしたか分かるように
-3. **`.env`は`.gitignore`に入れる**——シークレットをGitHubに送らない
-4. **困ったら`git status`で現状確認**——今何が変わっているかを常に把握
-
-Gitは最初は複雑に見えるが、使う操作は5つだけだ。習慣化すれば自然に身につく。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

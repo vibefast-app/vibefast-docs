@@ -1,5 +1,7 @@
 # What's the Difference Between Cloudflare Workers and Traditional Servers?
 
+[English](../en/06-cloudflare-workers-vs-traditional-server-en.md) · [繁中](../zh/06-cloudflare-workers-vs-traditional-server-zh.md) · [Español](../es/06-cloudflare-workers-vs-traditional-server-es.md) · [日本語](../jp/06-cloudflare-workers-vs-traditional-server-jp.md) · [Português (BR)](../pt-br/06-cloudflare-workers-vs-traditional-server-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -114,21 +116,12 @@ For Vibe Coders, Workers' biggest advantage isn't just speed:
 
 -----
 
-## Summary
-
-|       |Traditional Server           |Cloudflare Workers|
-|-------|-----------------------------|------------------|
-|What you manage|Server, OS, scaling|Just write code|
-|Global latency|High (fixed location)|Low (served nearby)|
-|Cold start|Yes (Lambda especially problematic)|Almost none|
-|Startup cost|Fixed monthly fee|Start with free tier|
-|Best for|Complex computation, long-running tasks|Web APIs, SSR, edge logic|
-
-Workers aren't the best choice for all scenarios, but for most web apps and APIs, it's currently the most hassle-free, fastest, lowest startup cost solution.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: D1 Database Tutorial: Design Your First Data Table with AI](./06-cloudflare-d1-database-tutorial-en.md)
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

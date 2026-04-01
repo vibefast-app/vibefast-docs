@@ -1,5 +1,7 @@
 # AIを使ったフロントエンドデザイン：Cursorで美しいUIを作る
 
+[English](../en/11-ai-frontend-design-with-cursor-en.md) · [繁中](../zh/11-ai-frontend-design-with-cursor-zh.md) · [Español](../es/11-ai-frontend-design-with-cursor-es.md) · [日本語](../jp/11-ai-frontend-design-with-cursor-jp.md) · [Português (BR)](../pt-br/11-ai-frontend-design-with-cursor-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約10分
@@ -203,19 +205,12 @@ Cursorはビジョン（画像認識）に対応しており、デザインの�
 
 -----
 
-## まとめ
-
-AIで良いフロントエンドを作るコツ：
-
-1. **全体スタイルを先に決める**——個別コンポーネントの前にデザインシステムをAIと確認する
-2. **Tailwindクラス名で色を指定する**——「暖かい緑」より「green-800」の方がAIに伝わる
-3. **コンポーネントは1つずつ作る**——一度に全ページを作ろうとしない
-4. **参考デザインはスクリーンショットで共有**——言葉で伝えにくいものは画像で
-5. **「修正点だけ変更してください」を習慣にする**——余計な変更を防ぐ
-
-デザインは完璧を目指すより、まず動くものを作って、そこから少しずつ改善していく方が速い。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

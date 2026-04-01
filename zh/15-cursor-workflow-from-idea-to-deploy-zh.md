@@ -1,5 +1,7 @@
 # 我怎麼用 Cursor 把一個功能從想法變成上線
 
+[English](../en/15-cursor-workflow-from-idea-to-deploy-en.md) · [繁中](../zh/15-cursor-workflow-from-idea-to-deploy-zh.md) · [Español](../es/15-cursor-workflow-from-idea-to-deploy-es.md) · [日本語](../jp/15-cursor-workflow-from-idea-to-deploy-jp.md) · [Português (BR)](../pt-br/15-cursor-workflow-from-idea-to-deploy-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 10 分鐘
@@ -161,7 +163,12 @@ Vibe Coding 的核心工作流：
 
 -----
 
-👉 [下一篇：Vibe Coding 踩過的 5 個坑（和怎麼避開）](./12-vibe-coding-mistakes.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

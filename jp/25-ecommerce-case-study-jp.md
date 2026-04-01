@@ -1,5 +1,7 @@
 # ケーススタディ：VibeFastでEコマースサイトを作る——SoapCo
 
+[English](../en/25-ecommerce-case-study-en.md) · [繁中](../zh/25-ecommerce-case-study-zh.md) · [Español](../es/25-ecommerce-case-study-es.md) · [日本語](../jp/25-ecommerce-case-study-jp.md) · [Português (BR)](../pt-br/25-ecommerce-case-study-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約10分
@@ -382,19 +384,12 @@ Stripe Webhookは稀に同じイベントを2回送ることがある。注文�
 
 -----
 
-## まとめ
-
-VibeFastでEコマースサイトを構築するポイント：
-
-1. **スキーマ設計は最初にしっかりと**——特に注文時点の価格と名前を保存する
-2. **カートはシンプルに**——ゲスト購入のみならCookieベースで十分
-3. **Stripe Checkoutはline_itemsに複数商品を含められる**
-4. **Webhookは冪等性必須**——重複注文防止
-5. **デザインは最後に仕上げる**——機能完成後に一気にブランディング
-
-SaaSとEコマースのどちらを作るにしても、VibeFastが提供するベースの上に乗ることで、プロダクト固有の機能開発に集中できる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

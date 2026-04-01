@@ -1,5 +1,7 @@
 # Cloudflare D1 データベース入門
 
+[English](../en/07-cloudflare-d1-database-tutorial-en.md) · [繁中](../zh/07-cloudflare-d1-database-tutorial-zh.md) · [Español](../es/07-cloudflare-d1-database-tutorial-es.md) · [日本語](../jp/07-cloudflare-d1-database-tutorial-jp.md) · [Português (BR)](../pt-br/07-cloudflare-d1-database-tutorial-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約10分
@@ -249,16 +251,12 @@ npx wrangler d1 migrations apply DB
 
 -----
 
-## まとめ
-
-D1はVibe Codingのためのシンプルなデータベースだ：
-
-1. **スキーマ設計はAIと相談してから**——コードを書く前にテーブル構造を確認する
-1. **パラメータ化クエリを使う**——`.bind()`でSQLインジェクションを防ぐ
-1. **変更はマイグレーションで管理する**——直接テーブルを変更しない
-1. **JOINはAIに任せる**——複雑なクエリは要件を自然言語で伝える
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

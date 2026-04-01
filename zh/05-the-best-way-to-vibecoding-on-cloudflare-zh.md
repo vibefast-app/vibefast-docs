@@ -1,5 +1,7 @@
 # 在 Cloudflare 上 VibeCoding 的最佳方式
 
+[English](../en/05-the-best-way-to-vibecoding-on-cloudflare-en.md) · [繁中](../zh/05-the-best-way-to-vibecoding-on-cloudflare-zh.md) · [Español](../es/05-the-best-way-to-vibecoding-on-cloudflare-es.md) · [日本語](../jp/05-the-best-way-to-vibecoding-on-cloudflare-jp.md) · [Português (BR)](../pt-br/05-the-best-way-to-vibecoding-on-cloudflare-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **日期：** 2026 年 3 月 7 日  
 **閱讀時間：** 約 7 分鐘
@@ -104,10 +106,12 @@ Cloudflare R2 是 S3 相容的儲存服務，意思是你用 S3 的方式操作�
 
 -----
 
-VibeCoding 的精髓是「少想、多試」。Cloudflare 讓你少想部署，多想產品。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我，或在下方留言討論。
+-----
 
-下一篇：**用這個 stack vibe 出第一個 auth 系統——從零到登入頁，一個小時內完成。**
+👉 [回到教程首頁](../README-zh.md)
 
-Happy VibeCoding！🚀
+想直接上手完整的 Cloudflare 全棧模板？  
+👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

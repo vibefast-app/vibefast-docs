@@ -1,5 +1,7 @@
 # ドメインとDNS設定ガイド：独自ドメインをCloudflare Workersに接続する
 
+[English](../en/12-domain-and-dns-setup-guide-en.md) · [繁中](../zh/12-domain-and-dns-setup-guide-zh.md) · [Español](../es/12-domain-and-dns-setup-guide-es.md) · [日本語](../jp/12-domain-and-dns-setup-guide-jp.md) · [Português (BR)](../pt-br/12-domain-and-dns-setup-guide-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -168,18 +170,12 @@ Service Bindingを使う場合、バックエンドWorkerには公開URLが不�
 
 -----
 
-## まとめ
-
-独自ドメインの設定手順：
-
-1. **ドメインを取得**（Cloudflare Registrarが最もシンプル）
-2. **DNSをCloudflareに移管**（Cloudflare Registrar以外の場合）
-3. **WorkerにカスタムドメインをDashboardから設定**
-4. **デプロイして確認**
-
-HTTPSはCloudflareが自動で処理してくれる。設定後は`https://yourapp.com`で動作するはずだ。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

@@ -1,5 +1,7 @@
 # How to Discuss Projects with AI: Think First, Code Later
 
+[English](../en/14-how-to-discuss-with-ai-before-coding-en.md) · [繁中](../zh/14-how-to-discuss-with-ai-before-coding-zh.md) · [Español](../es/14-how-to-discuss-with-ai-before-coding-es.md) · [日本語](../jp/14-how-to-discuss-with-ai-before-coding-jp.md) · [Português (BR)](../pt-br/14-how-to-discuss-with-ai-before-coding-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~8 minutes
@@ -232,19 +234,12 @@ General principle: **when uncertain, discuss first; when certain, code directly.
 
 -----
 
-## Summary
-
-Discuss first, implement later—one of the most worthwhile habits to develop in Vibe Coding.
-
-Remember this process:
-
-1. **Say "don't code yet"**—let AI enter discussion mode
-2. **Clearly state background**—what you're doing, what you're facing, what you've tried, what you want to achieve
-3. **Ask for options and tradeoffs**—"what are the approaches, what are their tradeoffs?"
-4. **Confirm consensus**—articulate the plan in your own words, let AI confirm or supplement
-5. **Then start implementing**—with clear goals, AI can make what you really want
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

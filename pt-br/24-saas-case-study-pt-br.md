@@ -1,5 +1,7 @@
 # Estudo de Caso: Construindo um Produto SaaS com VibeFast
 
+[English](../en/24-saas-case-study-en.md) · [繁中](../zh/24-saas-case-study-zh.md) · [Español](../es/24-saas-case-study-es.md) · [日本語](../jp/24-saas-case-study-jp.md) · [Português (BR)](../pt-br/24-saas-case-study-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~10 minutos
@@ -155,15 +157,12 @@ Onze dias do zero ao ar. Não por nenhuma habilidade especial — porque o VibeF
 
 -----
 
-## Lições Principais
-
-**Não tente construir tudo de uma vez.** Exportação de PDF, suporte multi-moeda — são ótimas funcionalidades, mas nenhuma delas pertence à v1. Lance a menor versão que resolve o problema central. Itere baseado no feedback real dos usuários.
-
-**Auth e pagamentos são as partes mais difíceis.** Sem o VibeFast, acertar essas duas coisas poderia levar duas a três semanas. Com o template, são puladas completamente — todo o foco vai para o produto.
-
-**Faça commit todos os dias.** Faça pelo menos um commit antes de terminar sua sessão de trabalho, mesmo que tenha terminado apenas uma pequena parte. Te dá uma rede de segurança para reverter, e mantém seu progresso visível.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Quer construir seu próprio produto dessa forma?  
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

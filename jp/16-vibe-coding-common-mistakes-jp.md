@@ -1,5 +1,7 @@
 # Vibe Codingのよくある間違い：5つの罠と回避方法
 
+[English](../en/16-vibe-coding-common-mistakes-en.md) · [繁中](../zh/16-vibe-coding-common-mistakes-zh.md) · [Español](../es/16-vibe-coding-common-mistakes-es.md) · [日本語](../jp/16-vibe-coding-common-mistakes-jp.md) · [Português (BR)](../pt-br/16-vibe-coding-common-mistakes-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約7分
@@ -179,19 +181,12 @@ SQLインジェクション、認証・認可の問題、
 
 -----
 
-## まとめ
-
-Vibe Codingの5つの罠と回避方法：
-
-1. **要件が曖昧** → 「先にコードを書かないで」を習慣にする
-2. **一度に変更しすぎ** → 1機能1コミットのリズムを守る
-3. **ローカルテストを省く** → 必ずローカル確認後にデプロイ
-4. **セキュリティをAI任せ** → チェックリストで自分でも確認
-5. **コードを理解しない** → 重要な部分はAIに説明させる
-
-これらの罠は知っているだけで大半が回避できる。習慣として身につければ、開発の効率が大きく変わる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

@@ -1,5 +1,7 @@
 # O Que É JWT? A Tecnologia Que Você Usa Todo Dia Explicada em Linguagem Simples
 
+[English](../en/04-what-is-jwt-authentication-en.md) · [繁中](../zh/04-what-is-jwt-authentication-zh.md) · [Español](../es/04-what-is-jwt-authentication-es.md) · [日本語](../jp/04-what-is-jwt-authentication-jp.md) · [Português (BR)](../pt-br/04-what-is-jwt-authentication-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -212,15 +214,12 @@ Três pontos de segurança ao usar JWT: mantenha a chave secreta confidencial, d
 
 -----
 
-## Próximo Artigo
-
-Agora que você entende os princípios do JWT, o próximo passo é ver as práticas de segurança que Vibe Coders mais precisam conhecer:
-
-👉 [Segurança Básica para Vibe Coders: Confirme Isso Antes do Seu App Entrar em Produção](./13-security-basics-for-vibe-coders-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).
+👉 [Voltar ao índice do curso](../README-pt-br.md)
 
-Quer um template Cloudflare full-stack completo com autenticação JWT integrada?  
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

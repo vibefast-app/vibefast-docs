@@ -1,5 +1,7 @@
 # Segurança Básica para Vibe Coders: Confirme Isso Antes de Colocar no Ar
 
+[English](../en/13-security-basics-for-vibe-coders-en.md) · [繁中](../zh/13-security-basics-for-vibe-coders-zh.md) · [Español](../es/13-security-basics-for-vibe-coders-es.md) · [日本語](../jp/13-security-basics-for-vibe-coders-jp.md) · [Português (BR)](../pt-br/13-security-basics-for-vibe-coders-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~10 minutos
@@ -201,7 +203,12 @@ Para a maioria dos apps indie, fazer bem os sete pontos mencionados neste artigo
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-O VibeFast já tem a arquitetura de segurança mais básica configurada para você, permitindo que você se concentre no produto em si:  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

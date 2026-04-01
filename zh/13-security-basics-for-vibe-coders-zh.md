@@ -1,5 +1,7 @@
 # Vibe Coder 的資安入門：上線之前要確認這些事
 
+[English](../en/13-security-basics-for-vibe-coders-en.md) · [繁中](../zh/13-security-basics-for-vibe-coders-zh.md) · [Español](../es/13-security-basics-for-vibe-coders-es.md) · [日本語](../jp/13-security-basics-for-vibe-coders-jp.md) · [Português (BR)](../pt-br/13-security-basics-for-vibe-coders-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 10 分鐘
@@ -201,7 +203,12 @@ npm audit fix
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-VibeFast 已經幫你把最基礎的資安架構設定好，讓你專注在產品本身：  
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

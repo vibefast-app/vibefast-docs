@@ -1,5 +1,7 @@
 # JWT 是什麼？用白話解釋這個你每天都在用的技術
 
+[English](../en/04-what-is-jwt-authentication-en.md) · [繁中](../zh/04-what-is-jwt-authentication-zh.md) · [Español](../es/04-what-is-jwt-authentication-es.md) · [日本語](../jp/04-what-is-jwt-authentication-jp.md) · [Português (BR)](../pt-br/04-what-is-jwt-authentication-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -212,15 +214,12 @@ JWT 是一張數位通行證，讓無狀態的 HTTP 系統能夠識別用戶身�
 
 -----
 
-## 下一篇
-
-了解了 JWT 的原理，下一步是看 Vibe Coder 最需要知道的資安實踐：
-
-👉 [Vibe Coder 的資安入門：你的 app 上線之前要確認這些事](./04-security-basics.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。
+👉 [回到教程首頁](../README-zh.md)
 
-想直接上手內建 JWT auth 的完整 Cloudflare 全棧模板？  
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

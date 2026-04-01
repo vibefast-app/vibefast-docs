@@ -1,5 +1,7 @@
 # Cloudflare R2 vs AWS S3：なぜR2を選ぶのか
 
+[English](../en/08-cloudflare-r2-vs-aws-s3-en.md) · [繁中](../zh/08-cloudflare-r2-vs-aws-s3-zh.md) · [Español](../es/08-cloudflare-r2-vs-aws-s3-es.md) · [日本語](../jp/08-cloudflare-r2-vs-aws-s3-jp.md) · [Português (BR)](../pt-br/08-cloudflare-r2-vs-aws-s3-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約7分
@@ -173,19 +175,12 @@ AWS上でアプリを動かしているなら、S3は自然な選択だ。しか
 
 -----
 
-## まとめ
-
-| | AWS S3 | Cloudflare R2 |
-|---|---|---|
-| 転送料金 | 有料（$0.085/GB〜）| **無料** |
-| S3 API互換 | ネイティブ | ✅ 完全対応 |
-| Workers統合 | 外部HTTP経由 | ネイティブバインディング |
-| 無料枠 | 12ヶ月のみ | **永続的に10GB** |
-| ダッシュボード | AWS Console | Cloudflare Dashboard（統合）|
-
-Vibe Coderにとって、R2はCloudflareエコシステムのなかで最も恩恵を感じやすいサービスの一つだ。設定がシンプルで、コストが予測しやすく、Workersとの統合が自然だ。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

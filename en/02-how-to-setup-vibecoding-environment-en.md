@@ -1,5 +1,7 @@
 # Getting Started with Vibe Coding: Setting Up Your Development Environment from Scratch
 
+[English](../en/02-how-to-setup-vibecoding-environment-en.md) · [繁中](../zh/02-how-to-setup-vibecoding-environment-zh.md) · [Español](../es/02-how-to-setup-vibecoding-environment-es.md) · [日本語](../jp/02-how-to-setup-vibecoding-environment-jp.md) · [Português (BR)](../pt-br/02-how-to-setup-vibecoding-environment-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~10 minutes
@@ -222,35 +224,12 @@ Continue to the next tutorial and start building the features you want.
 
 -----
 
-## What If You Can’t Read the Code?
-
-Once your environment is set up, you’ll start seeing a lot of unfamiliar code — TypeScript type annotations, async/await, JSX syntax…
-
-**You don’t need to learn all of this before you start.** That’s the whole point of Vibe Coding.
-
-When you encounter code you don’t understand, ask Cursor directly:
-
-```
-Explain what this code does in plain language.
-```
-
-When you see syntax that doesn’t make sense:
-
-```
-What does async/await mean? Why is it used here?
-```
-
-When you get a red error message, copy the full text and paste it to AI:
-
-```
-I'm getting this error: [paste error]
-Here's my code: [paste code]
-Explain what's causing it and how to fix it.
-```
-
-You don’t need to finish reading every tutorial before you start building. Learn by doing — ask when you get stuck. That’s the fastest way to move forward.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

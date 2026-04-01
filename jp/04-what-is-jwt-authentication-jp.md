@@ -1,5 +1,7 @@
 # JWTとは何か？毎日使っているこの技術をわかりやすく解説
 
+[English](../en/04-what-is-jwt-authentication-en.md) · [繁中](../zh/04-what-is-jwt-authentication-zh.md) · [Español](../es/04-what-is-jwt-authentication-es.md) · [日本語](../jp/04-what-is-jwt-authentication-jp.md) · [Português (BR)](../pt-br/04-what-is-jwt-authentication-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -212,15 +214,12 @@ JWTを使う3つのセキュリティポイント：シークレットキーを�
 
 -----
 
-## 次の記事
-
-JWTの仕組みを理解したら、次はVibe Coderに最も必要なセキュリティの実践を見てみよう：
-
-👉 [Vibe Coderのセキュリティ入門：アプリを公開する前に確認すること](./04-security-basics.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。
+👉 [チュートリアルトップに戻る](../README-jp.md)
 
-JWT認証が内蔵されたCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

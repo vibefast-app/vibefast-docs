@@ -1,5 +1,7 @@
 # R2 vs S3: Why I Don't Use AWS to Store Images
 
+[English](../en/08-cloudflare-r2-vs-aws-s3-en.md) · [繁中](../zh/08-cloudflare-r2-vs-aws-s3-zh.md) · [Español](../es/08-cloudflare-r2-vs-aws-s3-es.md) · [日本語](../jp/08-cloudflare-r2-vs-aws-s3-jp.md) · [Português (BR)](../pt-br/08-cloudflare-r2-vs-aws-s3-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~6 minutes
@@ -99,18 +101,12 @@ For most indie apps running on Cloudflare, R2 is the more natural choice.
 
 -----
 
-## Summary
-
-If your app runs on Cloudflare, using R2 to store images and media files is more cost-effective than S3:
-
-- Zero egress fees, more traffic = more savings
-- Direct Binding with Workers, no public internet
-- Free tier sufficient for most apps starting out
-- S3 API compatible, low migration costs
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [Next: How I Use Cursor to Take a Feature from Idea to Live](./14-cursor-workflow-from-idea-to-deploy-en.md)
+👉 [Back to course index](../README.md)
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

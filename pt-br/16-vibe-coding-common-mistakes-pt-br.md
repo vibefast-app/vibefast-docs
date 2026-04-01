@@ -1,5 +1,7 @@
 # 5 Armadilhas Que Enfrentei no Vibe Coding (e Como Evitá-las)
 
+[English](../en/16-vibe-coding-common-mistakes-en.md) · [繁中](../zh/16-vibe-coding-common-mistakes-zh.md) · [Español](../es/16-vibe-coding-common-mistakes-es.md) · [日本語](../jp/16-vibe-coding-common-mistakes-jp.md) · [Português (BR)](../pt-br/16-vibe-coding-common-mistakes-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~8 minutos
@@ -122,7 +124,12 @@ Esses cinco hábitos não vão te desacelerar, mas vão te ajudar a evitar muita
 
 -----
 
-👉 [Próximo: Por Que Comecei a Construir Produtos de Verdade aos 50 Anos](./00-why-i-started-at-50-pt-br.md)
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

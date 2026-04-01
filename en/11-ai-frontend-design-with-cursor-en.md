@@ -1,5 +1,7 @@
 # Designing Beautiful UI with AI: A Complete Cursor Prompt Guide
 
+[English](../en/11-ai-frontend-design-with-cursor-en.md) · [繁中](../zh/11-ai-frontend-design-with-cursor-zh.md) · [Español](../es/11-ai-frontend-design-with-cursor-es.md) · [日本語](../jp/11-ai-frontend-design-with-cursor-jp.md) · [Português (BR)](../pt-br/11-ai-frontend-design-with-cursor-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~12 minutes
@@ -306,21 +308,12 @@ Reference style: [if you have a reference site, describe it or attach a screensh
 
 -----
 
-## Summary
-
-Getting beautiful frontend output from AI isn’t about whether AI can design — it’s about **whether you can describe what you want clearly.**
-
-The workflow:
-
-1. **Decide on a style direction** — dark/light, primary color, typography
-1. **Give the first prompt** — structure and design specs together
-1. **Iterate on details** — adjust one thing at a time
-1. **Use screenshots to accelerate** — reference sites you like and show them to AI
-1. **Add finishing touches** — animations, glows, gradients — small details make a big difference
-
-Design is never “finished” — only “good enough to ship.” Get to 80%, launch, then iterate.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

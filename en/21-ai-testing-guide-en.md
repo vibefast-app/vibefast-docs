@@ -1,5 +1,7 @@
 # How to Test Your App: Let AI Generate curl Commands for Every Feature
 
+[English](../en/21-ai-testing-guide-en.md) · [繁中](../zh/21-ai-testing-guide-zh.md) · [Español](../es/21-ai-testing-guide-es.md) · [日本語](../jp/21-ai-testing-guide-jp.md) · [Português (BR)](../pt-br/21-ai-testing-guide-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~7 minutes
@@ -167,16 +169,12 @@ A few seconds to confirm all your main features are still working — no need to
 
 -----
 
-## Summary
-
-curl is the most practical testing tool for Vibe Coders — it works for both frontend and backend. The core flow is two steps:
-
-1. **Describe what you want to test in plain language** — pages, APIs, success cases, failure cases
-1. **AI generates the curl commands, you copy-paste and run** — check whether the results match expectations
-
-Test after every feature. Test locally, then test again after deploying. The earlier you catch a problem, the easier it is to fix.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

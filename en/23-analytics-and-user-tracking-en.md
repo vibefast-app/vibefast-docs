@@ -1,5 +1,7 @@
 # Analytics and Traffic: Understanding What Your Users Are Doing
 
+[English](../en/23-analytics-and-user-tracking-en.md) · [繁中](../zh/23-analytics-and-user-tracking-zh.md) · [Español](../es/23-analytics-and-user-tracking-es.md) · [日本語](../jp/23-analytics-and-user-tracking-jp.md) · [Português (BR)](../pt-br/23-analytics-and-user-tracking-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~6 minutes
@@ -105,19 +107,12 @@ But that’s a later problem. Build the app first. Get the traffic first. Then t
 
 -----
 
-## Summary
-
-The goal of analytics isn’t to collect data — it’s to make better decisions with data.
-
-The starting order:
-
-1. **Cloudflare Workers Analytics**: free, zero setup, available the moment you deploy — start with request volume and error rate
-1. **Cloudflare Web Analytics**: automatically enabled for any domain in Cloudflare — page views and traffic sources with no configuration
-1. **VibeFast Dashboard**: if you’re using VibeFast, traffic charts are right on the admin homepage
-
-Data-driven decisions aren’t just for big companies. Knowing what your users are actually doing beats guessing every time.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Questions? Find me on X at [@dankopeng](https://x.com/dankopeng).  
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

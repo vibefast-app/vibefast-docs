@@ -1,5 +1,7 @@
 # APIとは何か？フロントエンドとバックエンドの通信をわかりやすく解説
 
+[English](../en/03-what-is-api-frontend-backend-en.md) · [繁中](../zh/03-what-is-api-frontend-backend-zh.md) · [Español](../es/03-what-is-api-frontend-backend-es.md) · [日本語](../jp/03-what-is-api-frontend-backend-jp.md) · [Português (BR)](../pt-br/03-what-is-api-frontend-backend-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約7分
@@ -147,17 +149,12 @@ app.get("/api/posts", async (c) => {
 
 -----
 
-## まとめ
-
-APIはフロントエンドとバックエンドの通信規則だ。3つのことを覚えておこう：
-
-1. フロントエンドはHTTPメソッド（GET/POST/PUT/DELETE）でAPIに何をしてほしいかを伝える
-1. バックエンドはステータスコード（200/404/500）でフロントエンドに結果を返す
-1. データは通常JSON形式でやりとりされる
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-👉 [次の記事：ドメインとDNSとは？ドメインを取得したら何をするか](./07-domain-and-dns.md)
+👉 [チュートリアルトップに戻る](../README-jp.md)
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

@@ -1,5 +1,7 @@
 # Vibe Codingを始める：開発環境のゼロからのセットアップ
 
+[English](../en/02-how-to-setup-vibecoding-environment-en.md) · [繁中](../zh/02-how-to-setup-vibecoding-environment-zh.md) · [Español](../es/02-how-to-setup-vibecoding-environment-es.md) · [日本語](../jp/02-how-to-setup-vibecoding-environment-jp.md) · [Português (BR)](../pt-br/02-how-to-setup-vibecoding-environment-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約10分
@@ -222,35 +224,12 @@ npm run dev
 
 -----
 
-## コードが読めなかったら？
-
-環境が整うと、慣れないコードをたくさん見ることになる——TypeScriptの型注釈、async/await、JSX構文など。
-
-**これらを先に学んでから始める必要はない。** これがVibe Codingのコアだ：
-
-読めないコードに出会ったら、Cursorで直接聞く：
-
-```
-このコードが何をしているか、わかりやすく説明してください
-```
-
-意味がわからない文法に出会ったら、直接聞く：
-
-```
-async/awaitとは何ですか？なぜ使うのですか？
-```
-
-赤いエラーメッセージが出たら、そのままAIにコピペする：
-
-```
-このエラーが出ました：[エラーをここに貼り付け]
-これが私のコードです：[コードをここに貼り付け]
-原因と修正方法を教えてください
-```
-
-すべてのチュートリアルを読み終えてから動き始める必要はない。やりながら聞き、わからないことは聞く——これが最速の学習方法だ。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

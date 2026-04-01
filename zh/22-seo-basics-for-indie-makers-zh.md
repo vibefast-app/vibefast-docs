@@ -1,5 +1,7 @@
 # SEO 基礎：讓你的產品被 Google 找到
 
+[English](../en/22-seo-basics-for-indie-makers-en.md) · [繁中](../zh/22-seo-basics-for-indie-makers-zh.md) · [Español](../es/22-seo-basics-for-indie-makers-es.md) · [日本語](../jp/22-seo-basics-for-indie-makers-jp.md) · [Português (BR)](../pt-br/22-seo-basics-for-indie-makers-pt-br.md)
+
 **作者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026 年 3 月  
 **閱讀時間：** 約 8 分鐘
@@ -229,5 +231,12 @@ SEO 的本質很簡單：**讓 Google 看得懂你的頁面，讓真實的人願
 
 -----
 
-有問題歡迎在 X [@dankopeng](https://x.com/dankopeng) 找我。  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [回到教程首頁](../README-zh.md)
+
+想直接上手完整的 Cloudflare 全棧模板？  
 👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

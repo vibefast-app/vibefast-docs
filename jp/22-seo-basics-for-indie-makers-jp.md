@@ -1,5 +1,7 @@
 # SEO基礎：Googleにプロダクトを見つけてもらう
 
+[English](../en/22-seo-basics-for-indie-makers-en.md) · [繁中](../zh/22-seo-basics-for-indie-makers-zh.md) · [Español](../es/22-seo-basics-for-indie-makers-es.md) · [日本語](../jp/22-seo-basics-for-indie-makers-jp.md) · [Português (BR)](../pt-br/22-seo-basics-for-indie-makers-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約8分
@@ -214,20 +216,12 @@ Googleのアルゴリズムはますます賢くなっており、ブラック�
 
 -----
 
-## まとめ
-
-SEOの本質はシンプルだ：**GoogleにページをReadableにして、実際のユーザーにクリックさせること。**
-
-まずこれらから始めよう：
-
-1. 各ページにtitleとmeta descriptionを設定する
-2. 正しい見出し構造（h1、h2、h3）を使う
-3. Google Search ConsoleにSitemapを登録する
-4. AIを使ってターゲットユーザーが検索するロングテールキーワードを見つけ、その言葉でコンテンツを書く
-
-これらができたら、後は待つだけだ——SEOには時間が必要で、通常3〜6ヶ月で顕著な効果が出始める。しかし一度順位が上がれば、継続的な無料トラフィックになる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

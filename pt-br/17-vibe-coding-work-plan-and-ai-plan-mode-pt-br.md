@@ -1,5 +1,7 @@
 # Como Criar um Plano de Trabalho para Vibe Coding: Da Análise de Requisitos ao Modo Plan da IA
 
+[English](../en/17-vibe-coding-work-plan-and-ai-plan-mode-en.md) · [繁中](../zh/17-vibe-coding-work-plan-and-ai-plan-mode-zh.md) · [Español](../es/17-vibe-coding-work-plan-and-ai-plan-mode-es.md) · [日本語](../jp/17-vibe-coding-work-plan-and-ai-plan-mode-jp.md) · [Português (BR)](../pt-br/17-vibe-coding-work-plan-and-ai-plan-mode-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Atualizado:** Março de 2026  
 **Tempo de leitura:** ~10 minutos
@@ -344,5 +346,12 @@ Planos não são restrições, eles garantem que sua velocidade seja usada no lu
 
 -----
 
-Dúvidas? Me encontre no X em [@dankopeng](https://x.com/dankopeng).  
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+
+-----
+
+👉 [Voltar ao índice do curso](../README-pt-br.md)
+
+Pronto para começar com um template completo Cloudflare full-stack?  
 👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.

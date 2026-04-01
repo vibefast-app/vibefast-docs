@@ -1,5 +1,7 @@
 # コーディング前にAIと相談する：最も大事なVibe Codingの習慣
 
+[English](../en/14-how-to-discuss-with-ai-before-coding-en.md) · [繁中](../zh/14-how-to-discuss-with-ai-before-coding-zh.md) · [Español](../es/14-how-to-discuss-with-ai-before-coding-es.md) · [日本語](../jp/14-how-to-discuss-with-ai-before-coding-jp.md) · [Português (BR)](../pt-br/14-how-to-discuss-with-ai-before-coding-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約9分
@@ -176,18 +178,12 @@ AIは頼まれたことをすぐにやろうとする性質がある。「わか
 
 -----
 
-## まとめ
-
-コーディング前の相談習慣のルール：
-
-1. **「先にコードを書かないでください」を習慣にする**——判断や設計が必要なタスクでは必ずこれを先に言う
-2. **問題→選択肢→合意の3フェーズ**——いきなり実装に飛ばない
-3. **AIが提案した設計を自分で理解してから進める**——「AIがそう言ったから」ではなく「自分がそうしたいから」
-4. **小さな変更は直接依頼してOK**——相談が必要なのは設計の判断が必要なタスクだけ
-
-この習慣を身につけると、「AIとのやりとりが噛み合わない」「何度修正してもうまくいかない」という状況が大幅に減る。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

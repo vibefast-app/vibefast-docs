@@ -1,5 +1,7 @@
 # Security Basics for Vibe Coders: Confirm These Before Going Live
 
+[English](../en/13-security-basics-for-vibe-coders-en.md) · [繁中](../zh/13-security-basics-for-vibe-coders-zh.md) · [Español](../es/13-security-basics-for-vibe-coders-es.md) · [日本語](../jp/13-security-basics-for-vibe-coders-jp.md) · [Português (BR)](../pt-br/13-security-basics-for-vibe-coders-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~10 minutes
@@ -193,15 +195,12 @@ Don't need to do this daily, but at least run `npm audit` once a month, prioriti
 
 -----
 
-## Summary
-
-Security isn't "deal with when there's time," but it doesn't need to be perfect all at once.
-
-For most indie apps, doing well on the seven points mentioned in this article already makes you more secure than 80% of small apps on the market. Attackers usually look for the easiest targets—as long as you're not the weakest one, you can avoid most risks.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).
+👉 [Back to course index](../README.md)
 
-VibeFast already has the most basic security architecture set up for you, letting you focus on the product itself:  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

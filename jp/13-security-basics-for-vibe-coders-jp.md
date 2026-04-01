@@ -1,5 +1,7 @@
 # Vibe Coderのセキュリティ入門：公開前に確認すべきこと
 
+[English](../en/13-security-basics-for-vibe-coders-en.md) · [繁中](../zh/13-security-basics-for-vibe-coders-zh.md) · [Español](../es/13-security-basics-for-vibe-coders-es.md) · [日本語](../jp/13-security-basics-for-vibe-coders-jp.md) · [Português (BR)](../pt-br/13-security-basics-for-vibe-coders-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約9分
@@ -240,19 +242,12 @@ AIは完全ではないが、明らかな問題を指摘してくれることが
 
 -----
 
-## まとめ
-
-Vibe Coderが最初に習慣化すべきセキュリティ対策：
-
-1. **シークレットは環境変数**——コードに直接書かない
-2. **ユーザー入力は検証**——`.bind()`でSQLインジェクションを防ぐ
-3. **認証と認可を両方確認**——ログインしているだけでなく、権限も確認する
-4. **HTTPSを強制**——CloudflareのAlways Use HTTPSをオンに
-5. **エラー情報は隠す**——詳細はサーバーログ、ユーザーには汎用メッセージ
-
-完璧なセキュリティは存在しないが、基本を押さえるだけで大半の一般的な攻撃を防げる。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

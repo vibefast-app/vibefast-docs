@@ -1,5 +1,7 @@
 # デバッグとエラー対処：AIと一緒に問題を解決する
 
+[English](../en/18-debug-and-errors-en.md) · [繁中](../zh/18-debug-and-errors-zh.md) · [Español](../es/18-debug-and-errors-es.md) · [日本語](../jp/18-debug-and-errors-jp.md) · [Português (BR)](../pt-br/18-debug-and-errors-pt-br.md)
+
 **著者：** Danko Peng（[@dankopeng](https://x.com/dankopeng)）  
 **更新：** 2026年3月  
 **読了時間：** 約9分
@@ -222,19 +224,12 @@ git diff HEAD~1
 
 -----
 
-## まとめ
-
-デバッグのルール：
-
-1. **エラーメッセージは全文コピーしてAIへ**——一部ではなく全文
-2. **「何をしようとしたか」も伝える**——コンテキストがあると診断が速い
-3. **修正前に「なぜ」を理解する**——同じミスを繰り返さないために
-4. **console.logを使って状態を確認する**——見えないものは`wrangler tail`で
-5. **変更は1つずつ試す**——原因を特定するために
-
-エラーは「何かがうまくいっていないというシグナル」だ。焦らず、メッセージを丁寧に読んで、AIと一緒に解決していこう。
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-質問はX [@dankopeng](https://x.com/dankopeng) まで。  
+👉 [チュートリアルトップに戻る](../README-jp.md)
+
+完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
 👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

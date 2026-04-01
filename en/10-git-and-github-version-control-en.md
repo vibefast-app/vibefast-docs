@@ -1,5 +1,7 @@
 # Git and GitHub Basics: Version Control Essentials for Vibe Coders
 
+[English](../en/10-git-and-github-version-control-en.md) · [繁中](../zh/10-git-and-github-version-control-zh.md) · [Español](../es/10-git-and-github-version-control-es.md) · [日本語](../jp/10-git-and-github-version-control-jp.md) · [Português (BR)](../pt-br/10-git-and-github-version-control-pt-br.md)
+
 **Author:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Updated:** March 2026  
 **Reading time:** ~12 minutes
@@ -316,36 +318,12 @@ Develop the habit of glancing at `git status` before pushing, confirm no unwante
 
 -----
 
-## Summary
-
-**Complete flow from scratch:**
-
-```bash
-# 1. Create new repo on GitHub website
-
-# 2. Initialize locally
-cd my-app
-git init
-echo ".env" >> .gitignore    # Create .gitignore first
-echo "node_modules/" >> .gitignore
-git add .
-git commit -m "initial commit"
-
-# 3. Connect to GitHub and push
-git remote add origin https://github.com/YOUR_USERNAME/my-app.git
-git push -u origin main
-
-# 4. Daily afterwards
-git add .
-git commit -m "clearly describe what you changed"
-git push
-```
-
-**Most important awareness: GitHub has complete history, deleting doesn't mean disappearing.** Once an API key is pushed, even if immediately deleted, that key must be considered leaked—immediately revoke and regenerate, no exceptions.
-
-Prevention is always easier than remedy: set up `.gitignore` before first commit, glance at `git status` before pushing.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-Got questions? Find me on X [@dankopeng](https://x.com/dankopeng).  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, rising to $199 on June 1, 2026.
+👉 [Back to course index](../README.md)
+
+Ready to skip the setup and start building?  
+👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.

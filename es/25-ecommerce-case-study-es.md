@@ -1,5 +1,7 @@
 # Caso de estudio: Construyendo un e-commerce con VibeFast
 
+[English](../en/25-ecommerce-case-study-en.md) · [繁中](../zh/25-ecommerce-case-study-zh.md) · [Español](../es/25-ecommerce-case-study-es.md) · [日本語](../jp/25-ecommerce-case-study-jp.md) · [Português (BR)](../pt-br/25-ecommerce-case-study-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Actualizado:** Marzo 2026  
 **Tiempo de lectura:** ~10 minutos
@@ -213,18 +215,12 @@ Usa la tarjeta de prueba de Stripe para recorrer el flujo completo: añadir al c
 
 -----
 
-## Lecciones clave
-
-**El e-commerce se construye sobre confianza, no funcionalidades.**
-Fotos claras de productos, descripciones detalladas, un flujo de pago fluido, emails de confirmación rápidos — estas cosas importan mucho más que si tienes una funcionalidad de código de descuento.
-
-**Empieza con un catálogo pequeño y valida el flujo.**
-El primer día, sube solo 3–5 productos. Confirma que toda la experiencia de compra funciona sin problemas. Expande el catálogo una vez que tengas confianza.
-
-**El servicio al cliente importa más que las funcionalidades.**
-Después de que tus primeros clientes compren, contáctalos y pregunta cómo fue la experiencia. Feedback real de clientes reales vale más que cualquier dato analítico.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
 -----
 
-¿Quieres construir tu propio producto de esta forma?  
+👉 [Volver al índice del curso](../README-es.md)
+
+¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
 👉 **[vibefast.app](https://vibefast.app)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.

@@ -1,5 +1,7 @@
 # La mejor forma de hacer Vibe Coding en Cloudflare
 
+[English](../en/05-the-best-way-to-vibecoding-on-cloudflare-en.md) · [繁中](../zh/05-the-best-way-to-vibecoding-on-cloudflare-zh.md) · [Español](../es/05-the-best-way-to-vibecoding-on-cloudflare-es.md) · [日本語](../jp/05-the-best-way-to-vibecoding-on-cloudflare-jp.md) · [Português (BR)](../pt-br/05-the-best-way-to-vibecoding-on-cloudflare-pt-br.md)
+
 **Autor:** Danko Peng ([@dankopeng](https://x.com/dankopeng))  
 **Fecha:** 7 de marzo de 2026  
 **Tiempo de lectura:** ~7 minutos
@@ -104,10 +106,12 @@ Si quieres la plantilla completa (incluyendo autenticación, blog, pagos con Str
 
 -----
 
-La esencia del VibeCoding es "menos pensar, más probar." Cloudflare te permite pensar menos en el despliegue y más en tu producto.
+**Danko Peng**  
+[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
 
-¿Preguntas? Encuéntrame en X [@dankopeng](https://x.com/dankopeng) o comenta abajo.
+-----
 
-Próximo artículo: **Construye tu primer sistema de autenticación con este stack — de cero a página de login en menos de una hora.**
+👉 [Volver al índice del curso](../README-es.md)
 
-¡Feliz VibeCoding! 🚀
+¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
+👉 **[vibefast.app](https://vibefast.app)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.
