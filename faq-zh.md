@@ -1,6 +1,6 @@
 # 常見問題
 
-[English](./faq.md)
+[English](./faq.md) · [繁中](./faq-zh.md) · [日本語](./faq-jp.md) · [Español](./faq-es.md) · [Português (BR)](./faq-pt-br.md)
 
 -----
 
@@ -34,6 +34,8 @@
 
 前往 [vibefast.app](https://vibefast.app) 完成 Stripe 付款後，系統會自動發送 GitHub 邀請到你的信箱，接受邀請即可存取 private repo。整個流程全自動，通常在幾分鐘內完成。
 
+如果超過 10 分鐘未收到邀請，請檢查垃圾信箱或聯絡 [hello@dankoai.com](mailto:hello@dankoai.com)。
+
 ### 早鳥價是限時優惠嗎？
 
 是的，限時優惠。2026 年 6 月 1 日前維持 $99，之後漲至 $199。現在買和 6 月後買，差 $100。
@@ -64,7 +66,11 @@ $99 包含：private repo 存取權限、完整原始碼、所有買家文件，
 
 ### 我買了之後可以用在多個專案上嗎？
 
-是的，目前的授權支持多專案授權。你可以自由在多個專案使用。
+是的，目前的授權支持多專案使用。你可以自由在多個個人或客戶專案中使用，包含接案工作。
+
+### VibeFast 和其他模板（如 ShipFast、Supastarter）有什麼不同？
+
+VibeFast 原生建構在 Cloudflare 全棧上（Remix + Workers + D1 + R2）。核心差異：真正的一鍵部署（`npm run setup`）、邊緣運算零冷啟動、不需要額外的資料庫託管、前後端通過 Service Binding 零 CORS 內部通訊。這不是通用型模板，是一套有明確主張、經過生產環境驗證的架構。
 
 -----
 
@@ -77,6 +83,10 @@ $99 包含：private repo 存取權限、完整原始碼、所有買家文件，
 - 信箱：[hello@dankoai.com](mailto:hello@dankoai.com)
 - X：[@dankopeng](https://x.com/dankopeng)
 
+### VibeFast 多久更新一次？
+
+VibeFast 採用持續更新模式。所有更新都會推送到 private repo，買家無需額外付費。
+
 ### 我想先了解 Vibe Coding 的方法論，從哪裡開始？
 
 從這裡開始：
@@ -84,6 +94,12 @@ $99 包含：private repo 存取權限、完整原始碼、所有買家文件，
 - [什麼是 Vibe Coding？](./zh/01-what-is-vibecoding-zh.md) — 核心概念與關鍵術語
 - [為什麼 Cloudflare 是 Vibe Coding 的最佳選擇？](./zh/05-the-best-way-to-vibecoding-on-cloudflare-zh.md) — 實戰介紹
 
+### 我剛買了，第一步該做什麼？
+
+跟著 [快速上手指南](./quickstart-zh.md) 走一遍，10 分鐘內就能從 clone 到上線。
+
 -----
 
-還有其他問題？歡迎在 [GitHub Issues](https://github.com/vibefast-app/vibefast-docs/issues) 提問，或直接聯絡 [@dankopeng](https://x.com/dankopeng)。
+一般問題歡迎在 [GitHub Issues](https://github.com/vibefast-app/vibefast-docs/issues) 提問。  
+購買後的技術問題請在 private repo 開 issue 或信箱聯絡 [hello@dankoai.com](mailto:hello@dankoai.com)。  
+或直接聯絡 [@dankopeng](https://x.com/dankopeng)。

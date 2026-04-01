@@ -1,6 +1,6 @@
 # FAQ
 
-[中文](./faq-zh.md)
+[English](./faq.md) · [繁中](./faq-zh.md) · [日本語](./faq-jp.md) · [Español](./faq-es.md) · [Português (BR)](./faq-pt-br.md)
 
 -----
 
@@ -34,6 +34,8 @@ No. This repo covers public-facing introductions and tutorials only. Full archit
 
 Go to [vibefast.app](https://vibefast.app) and complete the Stripe checkout. After payment, the system automatically sends a GitHub invitation to your email. Accept the invitation to access the private repo. The entire process is automated and typically completes within a few minutes.
 
+If you haven't received the invitation after 10 minutes, check your spam folder or contact [hello@dankoai.com](mailto:hello@dankoai.com).
+
 ### Is the early bird price limited by time or quantity?
 
 Time. The $99 price is available until June 1, 2026, then goes up to $199. Buying now versus buying after June 1 is a $100 difference.
@@ -64,7 +66,11 @@ VibeFast is focused on the Cloudflare full-stack (Remix + Workers + D1 + R2) —
 
 ### Can I use VibeFast across multiple projects?
 
-Yes. The current license supports multi-project use. You can use it freely across as many projects as you want.
+Yes. The current license supports multi-project use. You can use it freely across as many personal or client projects as you want — including agency work.
+
+### How is VibeFast different from other boilerplates like ShipFast or Supastarter?
+
+VibeFast is built natively on Cloudflare's full stack (Remix + Workers + D1 + R2). The key differences: true one-command deploy (`npm run setup`), zero cold starts on the edge, no separate database hosting, and Service Binding between frontend and API with zero CORS overhead. It's not a generic starter — it's an opinionated, production-tested architecture.
 
 -----
 
@@ -77,6 +83,10 @@ You can reach us at:
 - Email: [hello@dankoai.com](mailto:hello@dankoai.com)
 - X: [@dankopeng](https://x.com/dankopeng)
 
+### How often is VibeFast updated?
+
+VibeFast follows a continuous improvement model. All updates are pushed to the private repo and included in your purchase at no extra cost.
+
 ### I want to understand Vibe Coding before buying. Where do I start?
 
 Start here:
@@ -84,6 +94,12 @@ Start here:
 - [What Is Vibe Coding?](./en/01-what-is-vibecoding-en.md) — core concepts and key terms
 - [Why Cloudflare Is the Best Choice for Vibe Coding](./en/05-the-best-way-to-vibecoding-on-cloudflare-en.md) — practical introduction
 
+### I just bought it. What's the first thing I should do?
+
+Follow the [Quickstart Guide](./quickstart.md) — you'll go from clone to a live app in under 10 minutes.
+
 -----
 
-More questions? Open an issue on [GitHub](https://github.com/vibefast-app/vibefast-docs/issues) or reach out directly at [@dankopeng](https://x.com/dankopeng).
+General questions? Open an issue on [GitHub](https://github.com/vibefast-app/vibefast-docs/issues).  
+Technical issues after purchase? Open an issue in the private repo or email [hello@dankoai.com](mailto:hello@dankoai.com).  
+Or reach out directly at [@dankopeng](https://x.com/dankopeng).
