@@ -243,11 +243,11 @@ AIは完全ではないが、明らかな問題を指摘してくれることが
 -----
 
 **Danko Peng**  
-[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+[X](https://x.com/dankopeng) · [YouTube](https://www.youtube.com/@DankoPeng) · [Threads](https://www.threads.com/@dankopeng)
 
 -----
 
 👉 [チュートリアルトップに戻る](../README-jp.md)
 
 完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
-👉 **[vibefast.app](https://vibefast.app)** — アーリーバード $99、2026年6月1日より $199 に値上がり。
+👉 **[vibefast.app](https://vibefast.app/pricing)** — アーリーバード $99、2026年6月1日より $199 に値上がり。

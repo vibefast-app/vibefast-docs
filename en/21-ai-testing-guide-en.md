@@ -170,11 +170,11 @@ A few seconds to confirm all your main features are still working — no need to
 -----
 
 **Danko Peng**  
-[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+[X](https://x.com/dankopeng) · [YouTube](https://www.youtube.com/@DankoPeng) · [Threads](https://www.threads.com/@dankopeng)
 
 -----
 
 👉 [Back to course index](../README.md)
 
 Ready to skip the setup and start building?  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, price increases to $199 on June 1, 2026.
+👉 **[vibefast.app](https://vibefast.app/pricing)** — Early bird $99, price increases to $199 on June 1, 2026.

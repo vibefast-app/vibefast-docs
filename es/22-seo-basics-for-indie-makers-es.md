@@ -232,11 +232,11 @@ Una vez que esto esté en su lugar, lo principal que queda es paciencia — el S
 -----
 
 **Danko Peng**  
-[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+[X](https://x.com/dankopeng) · [YouTube](https://www.youtube.com/@DankoPeng) · [Threads](https://www.threads.com/@dankopeng)
 
 -----
 
 👉 [Volver al índice del curso](../README-es.md)
 
 ¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
-👉 **[vibefast.app](https://vibefast.app)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.
+👉 **[vibefast.app](https://vibefast.app/pricing)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.

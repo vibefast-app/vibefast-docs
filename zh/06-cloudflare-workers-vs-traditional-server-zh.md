@@ -129,11 +129,11 @@ Workers 不是所有場景的最佳選擇，但對大多數 web app 和 API 來�
 -----
 
 **Danko Peng**  
-[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+[X](https://x.com/dankopeng) · [YouTube](https://www.youtube.com/@DankoPeng) · [Threads](https://www.threads.com/@dankopeng)
 
 -----
 
 👉 [回到教程首頁](../README-zh.md)
 
 想直接上手完整的 Cloudflare 全棧模板？  
-👉 **[vibefast.app](https://vibefast.app)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。
+👉 **[vibefast.app](https://vibefast.app/pricing)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。

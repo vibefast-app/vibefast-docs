@@ -164,11 +164,11 @@ Ponto mais importante: **Você é o diretor, a IA é o executor.** Em cada passo
 -----
 
 **Danko Peng**  
-[@dankopeng](https://x.com/dankopeng) · [vibefast.app](https://vibefast.app)
+[X](https://x.com/dankopeng) · [YouTube](https://www.youtube.com/@DankoPeng) · [Threads](https://www.threads.com/@dankopeng)
 
 -----
 
 👉 [Voltar ao índice do curso](../README-pt-br.md)
 
 Pronto para começar com um template completo Cloudflare full-stack?  
-👉 **[vibefast.app](https://vibefast.app)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.
+👉 **[vibefast.app](https://vibefast.app/pricing)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.
