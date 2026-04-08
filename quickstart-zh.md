@@ -45,14 +45,16 @@ npm run setup
 
 不需要相信文字描述。
 
-[vibefast.app](https://vibefast.app) 這個網站本身就是用 vibefast.app template 建的——行銷首頁、blog、定價頁面、用戶登入、dashboard，全部都是。
+[vibefast.app](https://vibefast.app) 這個網站本身就是用 vibefast.app template 建的——行銷首頁、blog、定價頁面、用戶登入、live backend，全部都是。
 
-**免費註冊一個帳號**，登入後你會看到：
+**免費註冊一個帳號**，登入後你可以直接體驗：
 
-- 過去 7 天的真實流量數據
+- live backend 裡的 Analytics
+- 正式站點裡的 Blog 與 Media 工作流
+- limited-access mode 下的 Business / User sample 頁面
 - 你是第幾個註冊用戶
 
-你體驗到的 auth 流程、dashboard UI、頁面速度，就是你買到的東西。不是 demo，是真實的正式環境。
+你體驗到的 auth 流程、live backend UI、頁面速度，就是你買到的東西。不是 demo，是真實的正式環境。
 
 ![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
@@ -88,7 +90,7 @@ npm run dev
 - 定價頁面
 - Blog 系統
 - 用戶註冊和登入流程
-- Admin 後台入口
+- live backend 入口
 
 這不是 demo 頁面，是真實可用的功能，每一個都接好了，可以直接使用。
 
@@ -99,7 +101,7 @@ npm run dev
 把你的 Stripe API key 和 Resend API key 填入設定，跑一次 `npm run deploy`，然後：
 
 1. 用你設定的 admin 信箱註冊帳號
-1. 打開 `/admin` 確認後台可以進入
+1. 打開 `/admin` 確認 live backend 可以進入
 1. 跑一次 Stripe 測試付款，確認 Webhook 收到
 1. 確認購買確認信和管理員通知信都有發出
 

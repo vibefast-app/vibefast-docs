@@ -60,7 +60,7 @@ npm run setup
 
 vibefast.app 這個網站本身就是用 vibefast.app template 建的。每天真實運營，真實流量，真實用戶。你看到的，就是 template 能做出來的效果。
 
-免費註冊，進入 Dashboard，看到網站的真實 7 天流量數據。Auth、Dashboard、Blog CMS、Media Library、Analytics——全部在那裡，等你體驗。
+免費註冊後可直接進入 live backend，體驗 Analytics、Blog、Media，以及 limited-access mode 下的 Business / User sample 頁面。
 
 👉 **[免費體驗 — vibefast.app](https://vibefast.app)**
 

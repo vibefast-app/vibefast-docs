@@ -60,7 +60,7 @@ Next.jsは不要。Vercelは不要。AWSも不要。1つのプラットフォー
 
 このサイトは vibefast.app template で構築されています。毎日リアルな運営、リアルなトラフィック、リアルなユーザー。あなたが見ているものが、template で作れるものそのものです。
 
-無料登録してDashboardに入り、サイトのリアルな7日間のトラフィックデータを確認してください。Auth、Dashboard、Blog CMS、Media Library、Analytics——すべてそこにあり、体験を待っています。
+無料登録すると live backend に入れます。Analytics、Blog、Media を直接体験でき、limited-access mode では Business / User の sample view も確認できます。
 
 👉 **[無料で体験 — vibefast.app](https://vibefast.app)**
 

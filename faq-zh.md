@@ -44,6 +44,10 @@
 
 $99 包含：private repo 存取權限、完整原始碼、所有買家文件，以及所有未來的模板更新。沒有月費，沒有隱藏費用。
 
+### 購買前我可以在 live demo 裡看到什麼？
+
+你可以免費註冊並進入 live backend。裡面可以直接體驗 Analytics、Blog、Media。Business 和 User 區域會在 limited-access mode 下以 sample data 顯示，而需要改動正式資料的操作仍然會受到保護。
+
 ### 有退款政策嗎？
 
 因為這是數位產品，付款後即可存取原始碼，原則上不提供退款。如果購買後遇到技術問題，請先聯絡 [hello@dankoai.com](mailto:hello@dankoai.com)，我們會盡力協助解決。

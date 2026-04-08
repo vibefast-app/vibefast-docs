@@ -44,6 +44,10 @@ Time. The $99 price is available until June 1, 2026, then goes up to $199. Buyin
 
 $99 includes: access to the private repo, the complete source code, all buyer documentation, and all future template updates. No monthly fee. No hidden costs.
 
+### What can I see in the live demo before buying?
+
+You can sign up for free and enter the live backend. Inside, you can explore Analytics, Blog, and Media directly. Business and User areas are shown with sample data in limited-access mode, while protected actions remain restricted.
+
 ### What’s the refund policy?
 
 Because this is a digital product with immediate source code access upon purchase, refunds are not offered as a general policy. If you run into technical problems after purchasing, contact [hello@dankoai.com](mailto:hello@dankoai.com) first — we’ll do our best to help resolve the issue.

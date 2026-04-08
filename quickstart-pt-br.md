@@ -45,14 +45,16 @@ Não tem conta Cloudflare? [Cadastre-se gratuitamente aqui](https://dash.cloudfl
 
 Não precisa confiar na descrição.
 
-[vibefast.app](https://vibefast.app) é construído inteiramente com o vibefast.app template — a página de marketing, blog, página de preços, login de usuários e dashboard são todas funcionalidades reais deste template rodando em produção.
+[vibefast.app](https://vibefast.app) é construído inteiramente com o vibefast.app template — a página de marketing, blog, página de preços, login de usuários e live backend são todas funcionalidades reais deste template rodando em produção.
 
-**Cadastre-se com uma conta gratuita** e após fazer login, você verá:
+**Cadastre-se com uma conta gratuita** e, depois de fazer login, você poderá explorar:
 
-- Dados reais de tráfego dos últimos 7 dias
+- Analytics dentro do live backend
+- Fluxos de Blog e Media rodando no site em produção
+- Views sample de Business e User em limited-access mode
 - Seu número de registro — qual usuário você é
 
-O fluxo de autenticação que você acabou de experimentar, a interface do dashboard, a velocidade da página — é exatamente isso que você está comprando. Não é demo. É real.
+O fluxo de autenticação que você acabou de experimentar, a UI do live backend e a velocidade da página — é exatamente isso que você está comprando. Não é demo. É real.
 
 ![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
@@ -88,7 +90,7 @@ Um comando inicia frontend e backend. Abra a URL local impressa no seu terminal 
 - Uma página de preços
 - Um sistema de blog
 - Registro e login de usuários
-- Um ponto de entrada para o painel de administração
+- Um ponto de entrada para o live backend
 
 Não são telas de placeholder. Cada funcionalidade está conectada e funcionando.
 
@@ -99,7 +101,7 @@ Não são telas de placeholder. Cada funcionalidade está conectada e funcionand
 Adicione sua API key do Stripe e sua API key do Resend na configuração, execute `npm run deploy`, depois:
 
 1. Registre uma conta usando seu email de administrador configurado
-1. Abra `/admin` e confirme que consegue acessar o dashboard
+1. Abra `/admin` e confirme que consegue acessar o live backend
 1. Execute um pagamento de teste no Stripe e confirme que o webhook dispara
 1. Confirme que tanto o email de confirmação de compra quanto a notificação do admin chegaram
 

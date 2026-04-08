@@ -60,7 +60,7 @@ Outras templates só te dão um site de demonstração.
 
 Este site foi construído inteiramente com o vibefast.app template. Tráfego real, usuários reais, todo dia. O que você vê é exatamente o que a template pode produzir.
 
-Cadastre-se gratuitamente, entre no Dashboard e veja 7 dias de dados de tráfego real. Auth, Dashboard, Blog CMS, Media Library, Analytics — tudo lá, esperando você explorar.
+Cadastre-se grátis e entre no live backend. Explore Analytics, Blog e Media diretamente, além de views sample de Business e User em limited-access mode.
 
 👉 **[Experimente grátis — vibefast.app](https://vibefast.app)**
 

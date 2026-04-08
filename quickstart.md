@@ -45,14 +45,16 @@ No Cloudflare account yet? [Sign up free here](https://dash.cloudflare.com/sign-
 
 Don't take the description at face value.
 
-[vibefast.app](https://vibefast.app) is built entirely on the vibefast.app template — the marketing homepage, blog, pricing page, user login, and dashboard are all real features from this template running in production.
+[vibefast.app](https://vibefast.app) is built entirely on the vibefast.app template — the marketing homepage, blog, pricing page, user login, and live backend are all real features from this template running in production.
 
-**Sign up for a free account** and once you're logged in, you'll see:
+**Sign up for a free account** and once you're logged in, you'll be able to explore:
 
-- Real 7-day traffic data for the site
+- Analytics inside the live backend
+- Blog and Media workflows running on the production site
+- Sample Business and User views in limited-access mode
 - Your registration number — which user you are
 
-The auth flow you just went through, the dashboard UI, the page speed — that's exactly what you're buying. Not a demo. The real thing.
+The auth flow you just went through, the live backend UI, and the page speed — that's exactly what you're buying. Not a demo. The real thing.
 
 ![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
@@ -88,7 +90,7 @@ One command starts both frontend and backend. Open the local URL printed in your
 - A pricing page
 - A blog system
 - User registration and login
-- An admin dashboard entry point
+- An admin backend entry point
 
 These aren’t placeholder screens. Every feature is wired together and working.
 
@@ -99,7 +101,7 @@ These aren’t placeholder screens. Every feature is wired together and working.
 Add your Stripe API key and Resend API key to the config, run `npm run deploy`, then:
 
 1. Register an account using your configured admin email
-1. Open `/admin` and confirm you can access the dashboard
+1. Open `/admin` and confirm you can access the live backend
 1. Run a Stripe test payment and confirm the webhook fires
 1. Confirm the purchase confirmation and admin notification emails both arrive
 

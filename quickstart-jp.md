@@ -45,14 +45,16 @@ Cloudflareアカウントがまだですか？[こちらから無料登録](http
 
 説明文を鵜呑みにする必要はありません。
 
-[vibefast.app](https://vibefast.app) は vibefast.app template で完全に構築されています — マーケティングページ、ブログ、料金ページ、ユーザーログイン、ダッシュボードすべてが、このテンプレートの実際の機能として本番環境で動いています。
+[vibefast.app](https://vibefast.app) は vibefast.app template で完全に構築されています — マーケティングページ、ブログ、料金ページ、ユーザーログイン、live backend すべてが、このテンプレートの実際の機能として本番環境で動いています。
 
-**無料アカウントを登録**してログインすると、以下が表示されます：
+**無料アカウントを登録**してログインすると、次のものを体験できます：
 
-- サイトの直近7日間のリアルなトラフィックデータ
+- live backend 内の Analytics
+- 本番サイトで動いている Blog と Media のワークフロー
+- limited-access mode で表示される Business / User の sample view
 - あなたの登録番号 — 何番目のユーザーか
 
-体験した認証フロー、ダッシュボードUI、ページ速度 — それがまさにあなたが購入するものです。デモではありません。本物の本番環境です。
+体験した認証フロー、live backend の UI、ページ速度 — それがまさにあなたが購入するものです。デモではありません。本物の本番環境です。
 
 ![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
@@ -88,7 +90,7 @@ npm run dev
 - 料金ページ
 - ブログシステム
 - ユーザー登録とログイン
-- 管理ダッシュボード
+- live backend
 
 これらはプレースホルダーではありません。すべての機能が接続され、動作しています。
 
@@ -99,7 +101,7 @@ npm run dev
 Stripe APIキーとResend APIキーを設定に追加し、`npm run deploy` を実行してから：
 
 1. 設定した管理者メールでアカウントを登録
-1. `/admin` を開いてダッシュボードにアクセスできることを確認
+1. `/admin` を開いて live backend にアクセスできることを確認
 1. Stripeテスト決済を実行し、Webhookが発火することを確認
 1. 購入確認メールと管理者通知メールの両方が届くことを確認
 

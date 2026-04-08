@@ -45,14 +45,16 @@ Antes de empezar, asegúrate de tener:
 
 No tienes que confiar en la descripción.
 
-[vibefast.app](https://vibefast.app) está construido completamente con la vibefast.app template — la página de marketing, blog, página de precios, login de usuarios y dashboard son todas funciones reales de esta plantilla corriendo en producción.
+[vibefast.app](https://vibefast.app) está construido completamente con la vibefast.app template — la página de marketing, blog, página de precios, login de usuarios y live backend son todas funciones reales de esta plantilla corriendo en producción.
 
-**Regístrate con una cuenta gratuita** y una vez que inicies sesión, verás:
+**Regístrate con una cuenta gratuita** y una vez que inicies sesión, podrás explorar:
 
-- Datos reales de tráfico de los últimos 7 días
+- Analytics dentro del live backend
+- Flujos de Blog y Media funcionando en el sitio en producción
+- Vistas sample de Business y User en limited-access mode
 - Tu número de registro — qué usuario eres
 
-El flujo de autenticación que acabas de experimentar, la interfaz del dashboard, la velocidad de la página — eso es exactamente lo que compras. No es un demo. Es real.
+El flujo de autenticación que acabas de experimentar, la UI del live backend y la velocidad de la página — eso es exactamente lo que compras. No es un demo. Es real.
 
 ![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
@@ -88,7 +90,7 @@ Un comando inicia frontend y backend. Abre la URL local que aparece en tu termin
 - Una página de precios
 - Un sistema de blog
 - Registro e inicio de sesión de usuarios
-- Un punto de entrada al panel de administración
+- Un punto de entrada al live backend
 
 No son pantallas de placeholder. Cada función está conectada y funcionando.
 
@@ -99,7 +101,7 @@ No son pantallas de placeholder. Cada función está conectada y funcionando.
 Agrega tu API key de Stripe y tu API key de Resend a la configuración, ejecuta `npm run deploy`, luego:
 
 1. Registra una cuenta con tu email de administrador configurado
-1. Abre `/admin` y confirma que puedes acceder al dashboard
+1. Abre `/admin` y confirma que puedes acceder al live backend
 1. Ejecuta un pago de prueba con Stripe y confirma que el webhook se activa
 1. Confirma que tanto el email de confirmación de compra como la notificación al admin lleguen
 

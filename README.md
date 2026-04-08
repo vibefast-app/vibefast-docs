@@ -60,7 +60,7 @@ Other templates give you a demo site.
 
 This website is built entirely with the vibefast.app template. Real traffic, real users, every day. What you see is exactly what the template can produce.
 
-Sign up for free, enter the Dashboard, and see 7 days of real traffic data. Auth, Dashboard, Blog CMS, Media Library, Analytics — all there, ready for you to explore.
+Sign up for free and enter the live backend. Explore Analytics, Blog, and Media directly, plus sample Business and User views in limited-access mode.
 
 👉 **[Try it free — vibefast.app](https://vibefast.app)**
 
