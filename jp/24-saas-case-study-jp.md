@@ -1,4 +1,4 @@
-# ケーススタディ：VibeFastでSaaSを作る——InvoiceTrack
+# ケーススタディ：vibefast.appでSaaSを作る——InvoiceTrack
 
 [English](../en/24-saas-case-study-en.md) · [繁中](../zh/24-saas-case-study-zh.md) · [Español](../es/24-saas-case-study-es.md) · [日本語](../jp/24-saas-case-study-jp.md) · [Português (BR)](../pt-br/24-saas-case-study-pt-br.md)
 
@@ -12,7 +12,7 @@
 
 抽象的なチュートリアルより、実際の開発ストーリーを見た方がわかりやすい。
 
-この記事では、フリーランサー向けの請求書管理SaaS「InvoiceTrack」をVibeFastで構築するプロセスを追う。
+この記事では、フリーランサー向けの請求書管理SaaS「InvoiceTrack」をvibefast.appで構築するプロセスを追う。
 
 アイデアから、データベース設計、コア機能の実装、ブランディング、Stripe課金設定まで——実際のVibe Coding開発フローを順番に見ていこう。
 
@@ -45,7 +45,7 @@
 InvoiceTrackというフリーランサー向け請求書管理SaaSを作ります。
 
 ターゲット：10〜50社の顧客を持つフリーランサー
-技術基盤：VibeFast（Remix + Cloudflare Workers + D1 + Stripe + Resend）
+技術基盤：vibefast.app（Remix + Cloudflare Workers + D1 + Stripe + Resend）
 
 MVP機能：
 - 顧客一覧
@@ -114,7 +114,7 @@ CREATE TABLE invoice_items (
 
 ## Layer 1 - 地盤
 - [ ] D1マイグレーション（clients, invoices, invoice_items）
-- [ ] VibeFastのAuth動作確認
+- [ ] vibefast.appのAuth動作確認
 - [ ] 環境変数の整理
 
 ## Layer 2 - コア機能
@@ -145,7 +145,7 @@ npm run deploy  # スキーマを本番にも反映
 
 ## ステップ3：コア機能を段階的に実装する
 
-VibeFastはAuthが実装済みなので、すぐに機能実装から始められる。
+vibefast.appはAuthが実装済みなので、すぐに機能実装から始められる。
 
 **顧客一覧ページ（/clients）の実装：**
 
@@ -156,7 +156,7 @@ Remixで /clients ページを実装してください。
 - テーブル形式で表示（名前、メール、会社名、登録日）
 - 右上に「顧客を追加」ボタン
 - 空の状態（顧客が0件）のUIも実装してください
-- VibeFastの既存スタイル（Tailwind）に合わせてください
+- vibefast.appの既存スタイル（Tailwind）に合わせてください
 ```
 
 **請求書作成フォーム（/invoices/new）の実装：**
@@ -247,7 +247,7 @@ InvoiceTrackのブランドデザインを整えてください。
 フォント：システムフォントスタック（シンプルに）
 
 以下を実装してください：
-- ナビゲーションバー（VibeFastの管理レイアウトを活用）
+- ナビゲーションバー（vibefast.appの管理レイアウトを活用）
 - ダッシュボードのサマリーカードのデザイン改善
 - 請求書一覧テーブルのスタイル改善
 - ステータスバッジ（draft:gray, sent:blue, paid:green, overdue:red）
@@ -257,7 +257,7 @@ InvoiceTrackのブランドデザインを整えてください。
 
 ## ステップ7：Stripe課金の設定
 
-InvoiceTrackはSaaSなので、月額課金モデルを設定する。VibeFastはStripeが設定済みなので、料金プランを設定するだけだ。
+InvoiceTrackはSaaSなので、月額課金モデルを設定する。vibefast.appはStripeが設定済みなので、料金プランを設定するだけだ。
 
 Cloudflare Dashboard環境変数を設定：
 
@@ -268,7 +268,7 @@ STRIPE_CURRENCY = jpy
 STRIPE_PRICE_CENTS = 2000  # 月額 ¥2,000
 ```
 
-VibeFastのSubscription機能が自動的に動作する：
+vibefast.appのSubscription機能が自動的に動作する：
 - ユーザーが「プランに加入」をクリック → Stripe Checkoutに誘導
 - 支払い成功 → Webhookで`user.is_pro = true`に更新
 - 無料枠（例：顧客3社まで）と有料プランの制限を設定
@@ -277,16 +277,16 @@ VibeFastのSubscription機能が自動的に動作する：
 
 ## 完成したプロダクト
 
-VibeFastを使ったことで、通常数週間かかる設定をスキップできた：
+vibefast.appを使ったことで、通常数週間かかる設定をスキップできた：
 
-**VibeFastが提供したもの（最初から動いていた）：**
+**vibefast.appが提供したもの（最初から動いていた）：**
 - ユーザー認証（メール登録、ログイン、パスワードリセット）
 - Stripe Webhookハンドラ
 - Resendメール送信の設定
 - Cloudflare Workers + D1 + R2のインフラ
 - 管理画面の基本レイアウト
 
-**VibeFastの上に実装したもの（今回作ったもの）：**
+**vibefast.appの上に実装したもの（今回作ったもの）：**
 - 顧客管理
 - 請求書CRUD
 - ダッシュボード集計

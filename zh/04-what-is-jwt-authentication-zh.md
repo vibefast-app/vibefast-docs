@@ -109,7 +109,7 @@ HMACSHA256(
 
 **JWT 在邊緣運算（Cloudflare Workers）特別適合**，因為 Workers 是無狀態的——每個請求可能跑在不同的邊緣節點上，沒辦法共享 session 記憶體。JWT 把所有資訊都帶在 token 裡，任何節點收到請求都能自己驗證，不需要查資料庫。
 
-這就是為什麼 VibeFast 選擇 JWT 而不是 Session。
+這就是為什麼 vibefast.app 選擇 JWT 而不是 Session。
 
 -----
 
@@ -144,7 +144,7 @@ token 放在哪裡很重要：
 |HttpOnly Cookie |✅ 較安全，JS 無法讀取 |
 |記憶體（React state）|✅ 安全但重新整理後消失  |
 
-VibeFast 用 HttpOnly Cookie 儲存 token，這是目前最常見的安全做法。
+vibefast.app 用 HttpOnly Cookie 儲存 token，這是目前最常見的安全做法。
 
 ### Payload 不要放敏感資料
 
@@ -180,7 +180,7 @@ JWT 的 payload 是 Base64 編碼，不是加密。任何人只要拿到 token�
 7. 處理請求，回傳結果
 ```
 
-這個流程在 VibeFast 裡已經全部實作好了，你不需要自己寫。
+這個流程在 vibefast.app 裡已經全部實作好了，你不需要自己寫。
 
 -----
 
@@ -190,7 +190,7 @@ JWT 的 payload 是 Base64 編碼，不是加密。任何人只要拿到 token�
 
 這是 JWT 最常被問到的問題。token 一旦發出去，在到期之前很難撤銷（除非你維護一個黑名單，但這樣就失去了 JWT 無狀態的優勢）。
 
-解決方法是：縮短 token 有效期（比如 1 小時），搭配 refresh token 機制自動更新。VibeFast 目前用 7 天有效期，適合大多數 web app。
+解決方法是：縮短 token 有效期（比如 1 小時），搭配 refresh token 機制自動更新。vibefast.app 目前用 7 天有效期，適合大多數 web app。
 
 **Q：一定要用 JWT 嗎？**
 

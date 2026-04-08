@@ -1,4 +1,4 @@
-# 實戰案例：用 VibeFast 做一個 SaaS 產品
+# 實戰案例：用 vibefast.app 做一個 SaaS 產品
 
 [English](../en/24-saas-case-study-en.md) · [繁中](../zh/24-saas-case-study-zh.md) · [Español](../es/24-saas-case-study-es.md) · [日本語](../jp/24-saas-case-study-jp.md) · [Português (BR)](../pt-br/24-saas-case-study-pt-br.md)
 
@@ -8,11 +8,11 @@
 
 -----
 
-## 假設：你買了 VibeFast，想做一個 SaaS
+## 假設：你買了 vibefast.app，想做一個 SaaS
 
-這篇不是介紹 VibeFast 有什麼功能——那在 quickstart 文件裡都有。
+這篇不是介紹 vibefast.app 有什麼功能——那在 quickstart 文件裡都有。
 
-這篇是展示一個真實的流程：**從有一個 SaaS 想法，到用 VibeFast 把它跑起來，整個過程是什麼樣子。**
+這篇是展示一個真實的流程：**從有一個 SaaS 想法，到用 vibefast.app 把它跑起來，整個過程是什麼樣子。**
 
 用的例子是：一個幫 solopreneur 追蹤客戶發票的 SaaS——**InvoiceTrack**。功能很簡單：建立發票、記錄付款狀態、到期自動提醒。
 
@@ -20,7 +20,7 @@
 
 ## 第一步：clone 之後先跑起來
 
-買了 VibeFast 之後，你會拿到 private repo 的 collaborator 邀請。接受邀請，clone 下來：
+買了 vibefast.app 之後，你會拿到 private repo 的 collaborator 邀請。接受邀請，clone 下來：
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git invoicetrack
@@ -28,7 +28,7 @@ cd invoicetrack
 npm install
 ```
 
-按照 quickstart 文件跑 setup，幾分鐘後你有一個完整跑起來的 app，包含登入、付款流程、admin 後台——但都是 VibeFast 的預設內容。
+按照 quickstart 文件跑 setup，幾分鐘後你有一個完整跑起來的 app，包含登入、付款流程、admin 後台——但都是 vibefast.app 的預設內容。
 
 **在這個基礎上開始改，比從零開始快十倍。**
 
@@ -39,7 +39,7 @@ npm install
 在動任何 code 之前，先讓 AI 幫你整理需求（上一篇工作計劃篇有說過這個流程）：
 
 ```
-我想用 VibeFast 做一個幫 solopreneur 管理發票的 SaaS，
+我想用 vibefast.app 做一個幫 solopreneur 管理發票的 SaaS，
 叫 InvoiceTrack。
 
 核心功能（MVP）：
@@ -49,7 +49,7 @@ npm install
 4. 到期前 3 天自動發提醒 email
 5. Dashboard 顯示未收款總額
 
-技術基礎：VibeFast（已有 Auth、Stripe、Resend 整合）
+技術基礎：vibefast.app（已有 Auth、Stripe、Resend 整合）
 這個版本不做：發票 PDF 匯出、多幣別、子帳號
 ```
 
@@ -82,7 +82,7 @@ AI 會給你一份 schema，你逐條確認，不清楚的問清楚，不喜歡�
 
 ```
 □ 建立 clients、invoices、invoice_items 資料表
-□ 確認 VibeFast 的 auth 可以保護所有新的路由
+□ 確認 vibefast.app 的 auth 可以保護所有新的路由
 ```
 
 **Layer 2 — 核心功能**
@@ -109,12 +109,12 @@ AI 會給你一份 schema，你逐條確認，不清楚的問清楚，不喜歡�
 
 ## 第五步：修改品牌
 
-VibeFast 的預設 UI 是你的起點，不是終點。改成 InvoiceTrack 的品牌：
+vibefast.app 的預設 UI 是你的起點，不是終點。改成 InvoiceTrack 的品牌：
 
 告訴 AI：
 
 ```
-幫我把 VibeFast 預設的品牌換成 InvoiceTrack。
+幫我把 vibefast.app 預設的品牌換成 InvoiceTrack。
 包含：
 - 網站標題和 meta title
 - Logo 文字（先用文字，之後再換圖片）
@@ -130,13 +130,13 @@ VibeFast 的預設 UI 是你的起點，不是終點。改成 InvoiceTrack 的�
 
 InvoiceTrack 的定價：每月 $9，最多管理 50 張發票。
 
-VibeFast 已經整合了 Stripe，你只需要：
+vibefast.app 已經整合了 Stripe，你只需要：
 
 1. 在 Stripe Dashboard 建立一個 $9/月的訂閱商品
 1. 把 Stripe Price ID 更新到環境變數
 1. 告訴 AI「幫我修改訂閱邏輯，讓未付費用戶最多只能建立 3 張發票，引導他們升級」
 
-付款流程本身不需要重寫，VibeFast 的 Stripe 整合直接可用。
+付款流程本身不需要重寫，vibefast.app 的 Stripe 整合直接可用。
 
 -----
 
@@ -153,7 +153,7 @@ VibeFast 已經整合了 Stripe，你只需要：
 第 11 天：上線，開始推廣
 ```
 
-十一天從零到上線。不是因為我很厲害，而是因為 VibeFast 把 auth、付款、部署這些最花時間的事都做好了，讓我可以把所有精力放在 InvoiceTrack 的核心功能上。
+十一天從零到上線。不是因為我很厲害，而是因為 vibefast.app 把 auth、付款、部署這些最花時間的事都做好了，讓我可以把所有精力放在 InvoiceTrack 的核心功能上。
 
 -----
 
@@ -161,7 +161,7 @@ VibeFast 已經整合了 Stripe，你只需要：
 
 **不要一次做太多。** 發票 PDF 匯出、多幣別支援——這些都很好，但都不是第一版需要的。先做能解決核心問題的最小版本，上線，有用戶回饋之後再迭代。
 
-**auth 和付款是最難做的部分。** 如果沒有 VibeFast，光是把這兩個做好可能要兩三週。有了模板，這兩個直接跳過，直接做產品核心。
+**auth 和付款是最難做的部分。** 如果沒有 vibefast.app，光是把這兩個做好可能要兩三週。有了模板，這兩個直接跳過，直接做產品核心。
 
 **每天 commit。** 每天結束工作前 commit 一次，哪怕只是做了一小部分。這讓你有回頭的餘地，也讓你清楚每天的進度。
 

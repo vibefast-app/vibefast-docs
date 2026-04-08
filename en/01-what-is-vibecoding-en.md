@@ -89,7 +89,7 @@ When you enter the world of Vibe Coding, you’ll encounter a lot of terminology
 
 **Full-stack** means both frontend and backend combined.
 
-VibeFast is a full-stack template. The frontend uses **Remix**, and both frontend and backend run on **Cloudflare Workers**.
+vibefast.app is a full-stack template. The frontend uses **Remix**, and both frontend and backend run on **Cloudflare Workers**.
 
 -----
 
@@ -99,7 +99,7 @@ Traditional servers are located in a fixed place — say, a data center in the U
 
 **Edge computing** distributes your code and data across nodes around the world. User requests are automatically routed to the nearest node. A user in Hong Kong gets served by a nearby node; a user in Germany gets served by a European node. Everyone gets fast responses.
 
-Cloudflare has 300+ edge nodes globally. When you deploy VibeFast, users everywhere can access it with low latency.
+Cloudflare has 300+ edge nodes globally. When you deploy vibefast.app, users everywhere can access it with low latency.
 
 -----
 
@@ -107,7 +107,7 @@ Cloudflare has 300+ edge nodes globally. When you deploy VibeFast, users everywh
 
 **Workers** is Cloudflare’s edge computing runtime. Your code runs on Workers without you managing any servers.
 
-Workers is versatile — it can run backend API logic, and it can also run frontend SSR (server-side rendering). In VibeFast’s architecture, the frontend (Remix) and the backend API each run in their own Worker. The two Workers communicate internally through Service Binding.
+Workers is versatile — it can run backend API logic, and it can also run frontend SSR (server-side rendering). In vibefast.app’s architecture, the frontend (Remix) and the backend API each run in their own Worker. The two Workers communicate internally through Service Binding.
 
 Traditional backend deployment means renting a virtual machine, installing the environment, configuring firewalls… Workers lets you just write code. Cloudflare handles the rest.
 
@@ -137,7 +137,7 @@ R2’s biggest advantage is **zero egress fees** — traditional cloud storage (
 
 This is a concept unique to Cloudflare.
 
-In VibeFast, the frontend (Remix) and backend (Workers API) are two separate services. The traditional approach has the frontend calling the backend API over the public internet — which creates CORS issues (cross-origin request security restrictions) that need extra configuration.
+In vibefast.app, the frontend (Remix) and backend (Workers API) are two separate services. The traditional approach has the frontend calling the backend API over the public internet — which creates CORS issues (cross-origin request security restrictions) that need extra configuration.
 
 **Service Binding** lets the frontend and backend communicate directly inside Cloudflare’s network, without touching the public internet. The result: zero CORS configuration, faster communication, and the API isn’t exposed externally.
 
@@ -157,7 +157,7 @@ The benefit is not needing to switch between multiple repos, and shared code is 
 
 **Boilerplate** refers to the foundational code every new project needs — things like an authentication system, database connection, deployment configuration.
 
-This code isn’t the core of your product, but you have to set it up every time. Templates like VibeFast have all the boilerplate pre-built so you can start directly from “product features.”
+This code isn’t the core of your product, but you have to set it up every time. Templates like vibefast.app have all the boilerplate pre-built so you can start directly from “product features.”
 
 -----
 
@@ -167,7 +167,7 @@ This code isn’t the core of your product, but you have to set it up every time
 
 After a user logs in, the system gives them an encrypted “pass” (token). Every subsequent request carries this token, and the system verifies it to know “who is this user, what are they allowed to do.”
 
-Templates like VibeFast typically have JWT auth pre-configured — you don’t need to implement it from scratch.
+Templates like vibefast.app typically have JWT auth pre-configured — you don’t need to implement it from scratch.
 
 -----
 

@@ -85,7 +85,7 @@ return new Response(object.body, {
 })
 ```
 
-Fazer proxy do acesso ao R2 através do Workers (em vez de expor URLs públicas diretamente) permite adicionar qualquer lógica no Workers: verificar permissões do usuário, rastrear contagens de download, adicionar controle de cache, etc. Com o VibeFast, a configuração de binding do R2 já está feita, basta usar `env.R2` diretamente no Workers.
+Fazer proxy do acesso ao R2 através do Workers (em vez de expor URLs públicas diretamente) permite adicionar qualquer lógica no Workers: verificar permissões do usuário, rastrear contagens de download, adicionar controle de cache, etc. Com o vibefast.app, a configuração de binding do R2 já está feita, basta usar `env.R2` diretamente no Workers.
 
 -----
 

@@ -89,7 +89,7 @@ Cuando entras en el mundo del Vibe Coding, te encontrarás con mucha terminolog�
 
 **Full-stack** significa frontend y backend combinados.
 
-VibeFast es una plantilla full-stack. El frontend usa **Remix**, y tanto el frontend como el backend corren en **Cloudflare Workers**.
+vibefast.app es una plantilla full-stack. El frontend usa **Remix**, y tanto el frontend como el backend corren en **Cloudflare Workers**.
 
 -----
 
@@ -99,7 +99,7 @@ Los servidores tradicionales están en un lugar fijo — digamos, un centro de d
 
 **Edge computing** distribuye tu código y datos en nodos por todo el mundo. Las peticiones de los usuarios se enrutan automáticamente al nodo más cercano. Un usuario en Madrid se conecta a un nodo europeo; un usuario en Buenos Aires se conecta al nodo más cercano en América. Todos obtienen respuestas rápidas.
 
-Cloudflare tiene más de 300 nodos edge en todo el mundo. Cuando despliegas VibeFast, los usuarios de cualquier parte pueden acceder con baja latencia.
+Cloudflare tiene más de 300 nodos edge en todo el mundo. Cuando despliegas vibefast.app, los usuarios de cualquier parte pueden acceder con baja latencia.
 
 -----
 
@@ -107,7 +107,7 @@ Cloudflare tiene más de 300 nodos edge en todo el mundo. Cuando despliegas Vibe
 
 **Workers** es el entorno de ejecución de edge computing de Cloudflare. Tu código corre en Workers sin que tengas que gestionar ningún servidor.
 
-Workers es versátil — puede ejecutar lógica de API en el backend, y también puede ejecutar SSR (renderizado del lado del servidor) en el frontend. En la arquitectura de VibeFast, el frontend (Remix) y la API del backend corren cada uno en su propio Worker. Los dos Workers se comunican internamente mediante Service Binding.
+Workers es versátil — puede ejecutar lógica de API en el backend, y también puede ejecutar SSR (renderizado del lado del servidor) en el frontend. En la arquitectura de vibefast.app, el frontend (Remix) y la API del backend corren cada uno en su propio Worker. Los dos Workers se comunican internamente mediante Service Binding.
 
 El despliegue tradicional de backend significa alquilar una máquina virtual, instalar el entorno, configurar firewalls… Workers te permite simplemente escribir código. Cloudflare se encarga del resto.
 
@@ -137,7 +137,7 @@ La mayor ventaja de R2 es **cero costes de transferencia de salida** — el alma
 
 Este es un concepto único de Cloudflare.
 
-En VibeFast, el frontend (Remix) y el backend (Workers API) son dos servicios separados. El enfoque tradicional hace que el frontend llame a la API del backend a través de internet público — lo que crea problemas de CORS (restricciones de seguridad para peticiones entre orígenes) que necesitan configuración extra.
+En vibefast.app, el frontend (Remix) y el backend (Workers API) son dos servicios separados. El enfoque tradicional hace que el frontend llame a la API del backend a través de internet público — lo que crea problemas de CORS (restricciones de seguridad para peticiones entre orígenes) que necesitan configuración extra.
 
 **Service Binding** permite que el frontend y el backend se comuniquen directamente dentro de la red de Cloudflare, sin tocar internet público. El resultado: cero configuración de CORS, comunicación más rápida, y la API no queda expuesta externamente.
 
@@ -157,7 +157,7 @@ El beneficio es no tener que cambiar entre múltiples repos, y el código compar
 
 **Boilerplate** se refiere al código base que todo proyecto nuevo necesita — cosas como un sistema de autenticación, conexión a base de datos, configuración de despliegue.
 
-Este código no es el núcleo de tu producto, pero tienes que configurarlo cada vez. Plantillas como VibeFast tienen todo el boilerplate pre-construido para que puedas empezar directamente desde "funcionalidades del producto."
+Este código no es el núcleo de tu producto, pero tienes que configurarlo cada vez. Plantillas como vibefast.app tienen todo el boilerplate pre-construido para que puedas empezar directamente desde "funcionalidades del producto."
 
 -----
 
@@ -167,7 +167,7 @@ Este código no es el núcleo de tu producto, pero tienes que configurarlo cada 
 
 Después de que un usuario inicia sesión, el sistema le da un "pase" encriptado (token). Cada petición posterior lleva este token, y el sistema lo verifica para saber "quién es este usuario, qué tiene permitido hacer."
 
-Plantillas como VibeFast típicamente tienen la autenticación JWT preconfigurada — no necesitas implementarla desde cero.
+Plantillas como vibefast.app típicamente tienen la autenticación JWT preconfigurada — no necesitas implementarla desde cero.
 
 -----
 

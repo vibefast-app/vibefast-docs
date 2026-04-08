@@ -109,7 +109,7 @@ Outro método comum de autenticação é a **Session**:
 
 **JWT é particularmente adequado para edge computing (Cloudflare Workers)** porque Workers são sem estado — cada requisição pode rodar em um nó de edge diferente, não pode compartilhar memória de session. JWT carrega toda a informação no token, qualquer nó que receba uma requisição pode verificá-la independentemente sem consultar um banco de dados.
 
-Por isso o VibeFast escolhe JWT em vez de Session.
+Por isso o vibefast.app escolhe JWT em vez de Session.
 
 -----
 
@@ -144,7 +144,7 @@ Onde você armazena o token importa:
 |HttpOnly Cookie       |✅ Mais seguro, JS não consegue ler|
 |Memória (React state) |✅ Seguro mas desaparece ao atualizar a página|
 
-O VibeFast usa HttpOnly Cookie para armazenar tokens, atualmente a prática segura mais comum.
+O vibefast.app usa HttpOnly Cookie para armazenar tokens, atualmente a prática segura mais comum.
 
 ### O Payload Não Deve Conter Dados Sensíveis
 
@@ -180,7 +180,7 @@ Percorra o fluxo inteiro em linguagem simples:
 7. Processa a requisição, retorna resultado
 ```
 
-Todo esse fluxo já está implementado no VibeFast, você não precisa escrever você mesmo.
+Todo esse fluxo já está implementado no vibefast.app, você não precisa escrever você mesmo.
 
 -----
 
@@ -190,7 +190,7 @@ Todo esse fluxo já está implementado no VibeFast, você não precisa escrever 
 
 Essa é a pergunta mais frequente sobre JWT. Uma vez que um token é emitido, é difícil revogá-lo antes de expirar (a menos que você mantenha uma lista negra, mas isso perde a vantagem sem estado do JWT).
 
-Solução: encurte a validade do token (ex: 1 hora), combine com mecanismo de refresh token para renovação automática. O VibeFast atualmente usa validade de 7 dias, adequada para a maioria dos apps web.
+Solução: encurte a validade do token (ex: 1 hora), combine com mecanismo de refresh token para renovação automática. O vibefast.app atualmente usa validade de 7 dias, adequada para a maioria dos apps web.
 
 **P: Devo obrigatoriamente usar JWT?**
 

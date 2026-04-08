@@ -27,7 +27,7 @@ Os dois elementos de SEO mais importantes em qualquer página:
 **Title:** Aparece na aba do navegador e como o link azul nos resultados de busca do Google.
 
 ```html
-<title>VibeFast — Template de App Web Nativo no Cloudflare</title>
+<title>vibefast.app — Template de App Web Nativo no Cloudflare</title>
 ```
 
 - Mantenha entre 50–60 caracteres
@@ -50,7 +50,7 @@ Definindo no Remix:
 // app/routes/_index.tsx
 export function meta() {
   return [
-    { title: "VibeFast — Template de App Web Nativo no Cloudflare" },
+    { title: "vibefast.app — Template de App Web Nativo no Cloudflare" },
     { name: "description", content: "Construa apps full-stack rapidamente com Remix + Cloudflare Workers." },
   ]
 }
@@ -139,11 +139,11 @@ Sua página de FAQ deve responder as perguntas que seus usuários realmente busc
 
 Se você vende sabonetes artesanais, potenciais clientes podem buscar "melhor sabonete artesanal natural," "benefícios do sabonete de lavanda," ou "diferença entre sabonete artesanal e industrial." As respostas a essas perguntas são seu conteúdo de SEO.
 
-### Usando o Blog Integrado do VibeFast para Gerar Tráfego
+### Usando o Blog Integrado do vibefast.app para Gerar Tráfego
 
 A maior barreira para escrever conteúdo de SEO geralmente é "eu precisaria construir um sistema de blog primeiro" — tabelas de banco de dados, editor admin, exibição frontend, meta title e description por artigo… só montar essa infraestrutura leva um tempo significativo.
 
-O VibeFast tem tudo isso integrado. O recurso de Blog incluído cobre:
+O vibefast.app tem tudo isso integrado. O recurso de Blog incluído cobre:
 
 - **Gerenciamento de artigos no admin**: crie, edite, publique e despublique posts sem tocar no código
 - **Editor Markdown**: escreva diretamente no painel admin com preview ao vivo
@@ -154,7 +154,7 @@ O fluxo de trabalho prático:
 
 1. Peça à IA para encontrar palavras-chave de cauda longa que seus usuários-alvo buscam (coberto na próxima seção)
 1. Peça à IA para rascunhar o conteúdo do artigo
-1. Abra o admin do VibeFast, cole no editor Markdown, refine
+1. Abra o admin do vibefast.app, cole no editor Markdown, refine
 1. Preencha o meta title e description do artigo
 1. Publique
 

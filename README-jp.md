@@ -1,11 +1,11 @@
-# VibeFast 🚀
+# vibefast.app 🚀
 
 [English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **コードを書けなくても、本物のWebアプリが作れる。**  
 **3つのコマンドで、5分以内にグローバルデプロイ完了。**
 
-無料オープンソースコース + 有料フルスタックテンプレート。学習から本番リリースまで、これ一つで完結。
+無料オープンソース vibefast.app course + 有料フルスタック vibefast.app template。学習から本番リリースまで、これ一つで完結。
 
 ⭐ 7,000人以上の開発者がこの旅をフォロー中  
 📚 25本の実践チュートリアル、概念から本番まで  
@@ -18,11 +18,11 @@
 
 -----
 
-## VibeFastとは
+## vibefast.appとは
 
-VibeFastは、同じ問題を解決する2つの部分で構成されています：
+vibefast.appは、同じ問題を解決する2つの部分で構成されています：
 
-### 無料オープンソースコース
+### 無料オープンソース vibefast.app course
 
 このコンテンツは、以前は1人あたり**2,000ドル**で教えていました。今は完全無料で公開しています。
 
@@ -34,9 +34,9 @@ Cloudflareフルスタック、AIワークフロー、ゼロからデプロイ�
 
 👉 **[全チュートリアル無料で読む — vibefast.app/learn](https://vibefast.app/learn)**
 
-### 有料フルスタックテンプレート
+### 有料フルスタック vibefast.app template
 
-コースは「どうやるか」を教えます。テンプレートは「もっと速く」を実現します。
+コースは「どうやるか」を教えます。vibefast.app template は「もっと速く」を実現します。
 
 認証、データベース、決済、メール、Analytics——すべて設定済み。3つのコマンドで、あなたのWebアプリが世界300以上のノードでライブになります。
 
@@ -54,11 +54,11 @@ Next.jsは不要。Vercelは不要。AWSも不要。1つのプラットフォー
 
 ## 今すぐ体験できます
 
-他のテンプレートはデモサイトを提供します。
+他の template はデモサイトしか提供しません。
 
-**VibeFastのデモは、自分自身の公式サイトです。**
+**vibefast.app の live demo は、自分自身の公式サイトです。**
 
-vibefast.appはVibeFastテンプレートで構築されています。毎日リアルな運営、リアルなトラフィック、リアルなユーザー。あなたが見ているものが、テンプレートで作れるものそのものです。
+このサイトは vibefast.app template で構築されています。毎日リアルな運営、リアルなトラフィック、リアルなユーザー。あなたが見ているものが、template で作れるものそのものです。
 
 無料登録してDashboardに入り、サイトのリアルな7日間のトラフィックデータを確認してください。Auth、Dashboard、Blog CMS、Media Library、Analytics——すべてそこにあり、体験を待っています。
 
@@ -131,8 +131,8 @@ vibefast.appはVibeFastテンプレートで構築されています。毎日リ
 - [x] 21 — [AIを使ったテストの書き方](./jp/21-ai-testing-guide-jp.md)
 - [x] 22 — [SEO基礎：Googleにプロダクトを見つけてもらう](./jp/22-seo-basics-for-indie-makers-jp.md)
 - [x] 23 — [アナリティクスとユーザートラッキング](./jp/23-analytics-and-user-tracking-jp.md)
-- [x] 24 — [実践ケーススタディ：VibeFastでSaaSプロダクトを作る](./jp/24-saas-case-study-jp.md)
-- [x] 25 — [実践ケーススタディ：VibeFastでECサイトを作る](./jp/25-ecommerce-case-study-jp.md)
+- [x] 24 — [実践ケーススタディ：vibefast.app templateでSaaSプロダクトを作る](./jp/24-saas-case-study-jp.md)
+- [x] 25 — [実践ケーススタディ：vibefast.app templateでECサイトを作る](./jp/25-ecommerce-case-study-jp.md)
 
 -----
 
@@ -147,7 +147,7 @@ vibefast.appはVibeFastテンプレートで構築されています。毎日リ
 
 チュートリアルコンテンツは [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) ライセンスの下で提供されています（表示・非営利・継承）。
 
-VibeFast商業テンプレートは**プロプライエタリソフトウェア**であり、このリポジトリには**含まれていません**。
+vibefast.app 商業 template は**プロプライエタリソフトウェア**であり、このリポジトリには**含まれていません**。
 
 -----
 

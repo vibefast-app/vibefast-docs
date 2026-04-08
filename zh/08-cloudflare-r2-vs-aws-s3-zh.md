@@ -85,7 +85,7 @@ return new Response(object.body, {
 })
 ```
 
-透過 Workers 代理存取 R2（而不是直接暴露公開 URL），讓你可以在 Workers 裡加入任何邏輯：驗證用戶是否有權限、記錄下載次數、加入快取控制等。使用 VibeFast 的話，R2 的 binding 設定已經處理好，直接在 Worker 裡用 `env.R2` 就能存取。
+透過 Workers 代理存取 R2（而不是直接暴露公開 URL），讓你可以在 Workers 裡加入任何邏輯：驗證用戶是否有權限、記錄下載次數、加入快取控制等。使用 vibefast.app 的話，R2 的 binding 設定已經處理好，直接在 Worker 裡用 `env.R2` 就能存取。
 
 -----
 

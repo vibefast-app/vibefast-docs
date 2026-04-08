@@ -84,9 +84,9 @@ API 請求有四種常見的動作，對應不同的 HTTP 方法：
 
 -----
 
-## VibeFast 的 API 架構
+## vibefast.app 的 API 架構
 
-VibeFast 用 **Service Binding** 讓前端和後端直接在 Cloudflare 內部溝通，不走公開網路。
+vibefast.app 用 **Service Binding** 讓前端和後端直接在 Cloudflare 內部溝通，不走公開網路。
 
 ```
 瀏覽器

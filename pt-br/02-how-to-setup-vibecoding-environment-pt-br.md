@@ -12,7 +12,7 @@
 
 Muitas pessoas travam nessa etapa — não porque seja difícil demais, mas porque não sabem o que fazer nem em que ordem.
 
-Este guia percorre cada pré-requisito, um passo de cada vez. Ao final, você terá um ambiente de Vibe Coding completo configurado, com o VibeFast já implantado e rodando no Cloudflare.
+Este guia percorre cada pré-requisito, um passo de cada vez. Ao final, você terá um ambiente de Vibe Coding completo configurado, com o vibefast.app já implantado e rodando no Cloudflare.
 
 O que você precisa instalar: Node.js, Git, Cursor. O que você precisa fazer: clonar o repositório, rodar `npm install`, rodar `npm run setup`. É isso.
 
@@ -95,11 +95,11 @@ git --version
 
 Acesse [cloudflare.com](https://cloudflare.com) e cadastre-se para uma conta gratuita.
 
-O VibeFast faz deploy no Cloudflare, então você precisará de uma conta para completar a configuração. Os limites do plano gratuito são mais do que suficientes para um novo app.
+O vibefast.app faz deploy no Cloudflare, então você precisará de uma conta para completar a configuração. Os limites do plano gratuito são mais do que suficientes para um novo app.
 
 ### Ativar o R2 (Requer Cartão de Crédito)
 
-O VibeFast usa o Cloudflare R2 para armazenar arquivos e imagens. **O R2 está desativado por padrão** e precisa ser ativado manualmente — o Cloudflare vai pedir um cartão de crédito quando você fizer isso.
+O vibefast.app usa o Cloudflare R2 para armazenar arquivos e imagens. **O R2 está desativado por padrão** e precisa ser ativado manualmente — o Cloudflare vai pedir um cartão de crédito quando você fizer isso.
 
 Passos:
 
@@ -111,9 +111,9 @@ Passos:
 
 -----
 
-## Passo 4: Clonar o VibeFast
+## Passo 4: Clonar o vibefast.app
 
-Após comprar o VibeFast, você receberá um convite de colaborador para o repositório privado. Aceite o convite e execute:
+Após comprar o vibefast.app, você receberá um convite de colaborador para o repositório privado. Aceite o convite e execute:
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git meu-app
@@ -217,7 +217,7 @@ Após completar esses sete passos, você tem:
 - ✅ Node.js e npm instalados
 - ✅ Git instalado
 - ✅ Uma conta no Cloudflare
-- ✅ VibeFast implantado em produção e acessível mundialmente
+- ✅ vibefast.app implantado em produção e acessível mundialmente
 - ✅ Cursor instalado e pronto para Vibe Coding
 
 Continue para o próximo tutorial e comece a construir as funcionalidades que você quer.

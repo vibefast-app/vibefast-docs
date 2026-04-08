@@ -84,9 +84,9 @@ APIリクエストには4種類の一般的な操作があり、それぞれ異�
 
 -----
 
-## VibeFastのAPIアーキテクチャ
+## vibefast.appのAPIアーキテクチャ
 
-VibeFastは **Service Binding** を使ってフロントエンドとバックエンドをCloudflare内部で直接通信させ、公開ネットワークを経由しない。
+vibefast.appは **Service Binding** を使ってフロントエンドとバックエンドをCloudflare内部で直接通信させ、公開ネットワークを経由しない。
 
 ```
 ブラウザ

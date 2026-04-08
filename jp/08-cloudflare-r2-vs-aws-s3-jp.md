@@ -100,7 +100,7 @@ const s3 = new S3Client({
 
 ## WorkersからR2を操作する（ネイティブバインディング）
 
-VibeFastのようにCloudflare Workers上でアプリを動かしている場合、S3 API互換の方法より**さらに簡単な方法**がある。WorkersのネイティブR2バインディングだ：
+vibefast.appのようにCloudflare Workers上でアプリを動かしている場合、S3 API互換の方法より**さらに簡単な方法**がある。WorkersのネイティブR2バインディングだ：
 
 ```typescript
 // ファイルのアップロード
@@ -128,9 +128,9 @@ HTTPリクエストもAPIキーも必要ない。R2はWorkersの環境変数と�
 
 -----
 
-## VibeFastでのR2の使い方
+## vibefast.appでのR2の使い方
 
-VibeFastには**メディアライブラリ**機能が内蔵されている。
+vibefast.appには**メディアライブラリ**機能が内蔵されている。
 
 管理画面からファイルをアップロードすると、自動的にR2に保存される。画像のURLを取得してデータベースに保存し、フロントエンドで表示する——このフローがすでに実装済みだ。
 

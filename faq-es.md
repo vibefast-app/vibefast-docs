@@ -6,21 +6,21 @@
 
 ## Sobre el producto
 
-### ¿VibeFast es open source?
+### ¿vibefast.app es open source?
 
-No. VibeFast es un producto comercial. Este repositorio público sirve únicamente como introducción y punto de entrada a recursos de aprendizaje.
+No. vibefast.app template es un producto comercial. Este repositorio público sirve únicamente como introducción y punto de entrada a recursos de aprendizaje.
 
 ### ¿Cuál es la diferencia entre el repositorio público y el privado?
 
 El repositorio público contiene la introducción del producto y tutoriales de Vibe Coding. El repositorio privado contiene el código fuente completo y toda la documentación para compradores — se entrega después de la compra.
 
-### ¿Puedo usar VibeFast para mi propio producto?
+### ¿Puedo usar vibefast.app template para mi propio producto?
 
 Sí — ese es el caso de uso principal. La mayoría de los compradores lo rebrandean directamente como su propio producto, o lo usan como base para un SaaS o web app personalizado.
 
 ### ¿Tengo que mantener todos los módulos predeterminados?
 
-No. VibeFast se entrega como un producto de referencia completo, pero puedes mantener, ajustar o eliminar módulos según lo que necesites. Si no necesitas el blog, por ejemplo, puedes eliminarlo sin afectar nada más.
+No. vibefast.app template se entrega como un producto de referencia completo, pero puedes mantener, ajustar o eliminar módulos según lo que necesites. Si no necesitas el blog, por ejemplo, puedes eliminarlo sin afectar nada más.
 
 ### ¿Se publicarán aquí todos los detalles técnicos?
 
@@ -52,25 +52,25 @@ Dado que es un producto digital con acceso inmediato al código fuente tras la c
 
 ## Sobre la tecnología
 
-### ¿Cuánto conocimiento técnico necesito para usar VibeFast?
+### ¿Cuánto conocimiento técnico necesito para usar vibefast.app template?
 
-Lo suficiente para leer y seguir los tutoriales de este repositorio. VibeFast está diseñado para ser amigable con los vibe coders — combinado con herramientas de IA como Cursor o Claude, personas sin experiencia profunda en ingeniería pueden ponerlo a funcionar. Si puedes ejecutar `npm install` y entender lo que el código generado por IA está haciendo, es suficiente.
+Lo suficiente para leer y seguir los tutoriales de este repositorio. vibefast.app template está diseñado para ser amigable con los vibe coders — combinado con herramientas de IA como Cursor o Claude, personas sin experiencia profunda en ingeniería pueden ponerlo a funcionar. Si puedes ejecutar `npm install` y entender lo que el código generado por IA está haciendo, es suficiente.
 
 ### ¿Necesito una cuenta de Cloudflare de pago?
 
 No. El plan gratuito de Cloudflare es más que suficiente para lanzar una app real — Workers con 100K solicitudes/día, D1 con 100K lecturas/día, R2 con 1M operaciones/mes. Puedes actualizar cuando tu app realmente tenga el tráfico que lo justifique.
 
-### ¿VibeFast soportará otros stacks en el futuro?
+### ¿vibefast.app template soportará otros stacks en el futuro?
 
-VibeFast está enfocado en el full-stack de Cloudflare (Remix + Workers + D1 + R2) — esa es su posición central. Soportar otros stacks o plataformas de despliegue no está en el roadmap actual.
+vibefast.app template está enfocado en el full-stack de Cloudflare (Remix + Workers + D1 + R2) — esa es su posición central. Soportar otros stacks o plataformas de despliegue no está en el roadmap actual.
 
-### ¿Puedo usar VibeFast en múltiples proyectos?
+### ¿Puedo usar vibefast.app template en múltiples proyectos?
 
 Sí. La licencia actual soporta uso en múltiples proyectos. Puedes usarlo libremente en tantos proyectos personales o de clientes como quieras — incluyendo trabajo de agencia.
 
-### ¿En qué se diferencia VibeFast de otros boilerplates como ShipFast o Supastarter?
+### ¿En qué se diferencia vibefast.app template de otros boilerplates como ShipFast o Supastarter?
 
-VibeFast está construido nativamente sobre el full-stack de Cloudflare (Remix + Workers + D1 + R2). Las diferencias clave: verdadero despliegue con un solo comando (`npm run setup`), cero cold starts en el edge, sin hosting de base de datos separado, y Service Binding entre frontend y API con cero overhead de CORS. No es un starter genérico — es una arquitectura con opinión, probada en producción.
+vibefast.app template está construido nativamente sobre el full-stack de Cloudflare (Remix + Workers + D1 + R2). Las diferencias clave: verdadero despliegue con un solo comando (`npm run setup`), cero cold starts en el edge, sin hosting de base de datos separado, y Service Binding entre frontend y API con cero overhead de CORS. No es una template genérica — es una arquitectura con opinión, probada en producción.
 
 -----
 
@@ -83,9 +83,9 @@ Puedes contactarnos en:
 - Email: [hello@dankoai.com](mailto:hello@dankoai.com)
 - X: [@dankopeng](https://x.com/dankopeng)
 
-### ¿Con qué frecuencia se actualiza VibeFast?
+### ¿Con qué frecuencia se actualiza vibefast.app template?
 
-VibeFast sigue un modelo de mejora continua. Todas las actualizaciones se publican en el repositorio privado y están incluidas en tu compra sin costo adicional.
+vibefast.app template sigue un modelo de mejora continua. Todas las actualizaciones se publican en el repositorio privado y están incluidas en tu compra sin costo adicional.
 
 ### Quiero entender Vibe Coding antes de comprar. ¿Por dónde empiezo?
 

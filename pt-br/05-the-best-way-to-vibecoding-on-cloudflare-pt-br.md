@@ -100,7 +100,7 @@ Acesse [vibefast.app](https://vibefast.app) e cadastre-se gratuitamente. Após f
 - Os **dados reais de tráfego do site dos últimos 7 dias**
 - **Qual número de usuário cadastrado** você é no vibefast.app
 
-Esse dashboard em si foi construído com o template VibeFast. O fluxo de autenticação, exibição de dados, design de UI que você experimenta — é isso que você recebe.
+Esse dashboard em si foi construído com o template vibefast.app. O fluxo de autenticação, exibição de dados, design de UI que você experimenta — é isso que você recebe.
 
 Se você quer o template completo (incluindo autenticação, blog, pagamentos Stripe, backend admin, migrations D1), **licença vitalícia por $99**, repositório privado + todas as atualizações futuras incluídas.
 

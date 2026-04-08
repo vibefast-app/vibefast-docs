@@ -1,4 +1,4 @@
-# Estudo de Caso: Construindo um Produto SaaS com VibeFast
+# Estudo de Caso: Construindo um Produto SaaS com vibefast.app
 
 [English](../en/24-saas-case-study-en.md) · [繁中](../zh/24-saas-case-study-zh.md) · [Español](../es/24-saas-case-study-es.md) · [日本語](../jp/24-saas-case-study-jp.md) · [Português (BR)](../pt-br/24-saas-case-study-pt-br.md)
 
@@ -8,11 +8,11 @@
 
 -----
 
-## O Ponto de Partida: Você Comprou o VibeFast e Tem uma Ideia de SaaS
+## O Ponto de Partida: Você Comprou o vibefast.app e Tem uma Ideia de SaaS
 
-Este tutorial não é sobre as funcionalidades do VibeFast — a documentação de início rápido cobre isso.
+Este tutorial não é sobre as funcionalidades do vibefast.app — a documentação de início rápido cobre isso.
 
-É sobre mostrar um fluxo de trabalho real: **como é realmente ir de uma ideia de SaaS a um produto funcionando com o VibeFast?**
+É sobre mostrar um fluxo de trabalho real: **como é realmente ir de uma ideia de SaaS a um produto funcionando com o vibefast.app?**
 
 O exemplo: um SaaS que ajuda solopreneurs a rastrear faturas de clientes — **InvoiceTrack**. Conjunto de funcionalidades simples: criar faturas, rastrear status de pagamento, enviar lembretes automáticos antes das datas de vencimento.
 
@@ -20,7 +20,7 @@ O exemplo: um SaaS que ajuda solopreneurs a rastrear faturas de clientes — **I
 
 ## Passo 1: Clone e Coloque para Rodar Primeiro
 
-Após comprar o VibeFast, você receberá um convite de colaborador para o repo privado. Aceite e então clone:
+Após comprar o vibefast.app, você receberá um convite de colaborador para o repo privado. Aceite e então clone:
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git invoicetrack
@@ -28,7 +28,7 @@ cd invoicetrack
 npm install
 ```
 
-Siga a documentação de início rápido para rodar o setup. Em poucos minutos você tem um app completamente funcional — login, fluxo de pagamento, painel admin — tudo rodando com o conteúdo padrão do VibeFast.
+Siga a documentação de início rápido para rodar o setup. Em poucos minutos você tem um app completamente funcional — login, fluxo de pagamento, painel admin — tudo rodando com o conteúdo padrão do vibefast.app.
 
 **Construir em cima disso é dez vezes mais rápido do que começar do zero.**
 
@@ -39,7 +39,7 @@ Siga a documentação de início rápido para rodar o setup. Em poucos minutos v
 Antes de tocar em qualquer código, peça à IA para ajudar a organizar seus requisitos (o tutorial de planejamento de trabalho cobre esse processo em detalhe):
 
 ```
-Quero construir um SaaS de gerenciamento de faturas para solopreneurs usando VibeFast.
+Quero construir um SaaS de gerenciamento de faturas para solopreneurs usando vibefast.app.
 O produto se chama InvoiceTrack.
 
 Funcionalidades centrais (MVP):
@@ -49,7 +49,7 @@ Funcionalidades centrais (MVP):
 4. Enviar automaticamente e-mails de lembrete 3 dias antes do vencimento
 5. Dashboard mostrando total de saldo em aberto
 
-Base técnica: VibeFast (Auth, Stripe e Resend já integrados)
+Base técnica: vibefast.app (Auth, Stripe e Resend já integrados)
 Não nesta versão: exportação de PDF, multi-moeda, sub-contas
 ```
 
@@ -82,7 +82,7 @@ Com a estrutura de dados confirmada, trabalhe em camadas:
 
 ```
 □ Criar tabelas clients, invoices e invoice_items
-□ Confirmar que o auth do VibeFast protege todas as novas rotas
+□ Confirmar que o auth do vibefast.app protege todas as novas rotas
 ```
 
 **Camada 2 — Funcionalidades Centrais**
@@ -109,12 +109,12 @@ Cada funcionalidade segue o mesmo ciclo: discuta primeiro → confirme no modo P
 
 ## Passo 5: Rebranding
 
-A UI padrão do VibeFast é seu ponto de partida, não seu produto final. Substitua pela marca do InvoiceTrack:
+A UI padrão do vibefast.app é seu ponto de partida, não seu produto final. Substitua pela marca do InvoiceTrack:
 
 Diga à IA:
 
 ```
-Substitua o branding padrão do VibeFast pelo InvoiceTrack.
+Substitua o branding padrão do vibefast.app pelo InvoiceTrack.
 Isso inclui:
 - Título do site e meta title
 - Texto do logo (texto por agora, imagem depois)
@@ -130,13 +130,13 @@ O rebranding geralmente leva menos de uma hora.
 
 Precificação do InvoiceTrack: R$45/mês, até 50 faturas.
 
-O VibeFast já tem o Stripe integrado. Você só precisa:
+O vibefast.app já tem o Stripe integrado. Você só precisa:
 
 1. Criar um produto de assinatura mensal no Stripe Dashboard
 1. Atualizar o Stripe Price ID nas suas variáveis de ambiente
 1. Dizer à IA: "Modifique a lógica de assinatura para que usuários gratuitos só possam criar 3 faturas, então apareça um prompt para upgrade"
 
-O fluxo de pagamento em si não precisa ser reescrito — a integração Stripe do VibeFast funciona out of the box.
+O fluxo de pagamento em si não precisa ser reescrito — a integração Stripe do vibefast.app funciona out of the box.
 
 -----
 
@@ -153,7 +153,7 @@ Dia 10:     Testes, correção de bugs, deploy
 Dia 11:     Lançamento, começar a promover
 ```
 
-Onze dias do zero ao ar. Não por nenhuma habilidade especial — porque o VibeFast já tinha auth, pagamentos e deploy tratados. Todo o tempo foi para as funcionalidades reais do produto InvoiceTrack.
+Onze dias do zero ao ar. Não por nenhuma habilidade especial — porque o vibefast.app já tinha auth, pagamentos e deploy tratados. Todo o tempo foi para as funcionalidades reais do produto InvoiceTrack.
 
 -----
 

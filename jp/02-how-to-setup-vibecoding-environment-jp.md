@@ -12,7 +12,7 @@
 
 多くの人がこのステップで詰まる——難しいからではなく、何をどの順番でやればいいかわからないからだ。
 
-この記事ではすべての前提条件を一つひとつ説明する。やり終えれば、完全なVibe Coding開発環境が整い、VibeFastがCloudflare上でデプロイされて動いている状態になる。
+この記事ではすべての前提条件を一つひとつ説明する。やり終えれば、完全なVibe Coding開発環境が整い、vibefast.appがCloudflare上でデプロイされて動いている状態になる。
 
 インストールするものはNode.js、Git、Cursor。やることはリポジトリのclone、npm install、npm run setupだけだ。
 
@@ -95,11 +95,11 @@ git --version
 
 [cloudflare.com](https://cloudflare.com) にアクセスして無料でアカウントを作成する。
 
-VibeFastはCloudflare上にデプロイするため、セットアップを完了するにはアカウントが必要だ。無料プランの枠は起動したてのアプリには十分すぎるほどだ。
+vibefast.appはCloudflare上にデプロイするため、セットアップを完了するにはアカウントが必要だ。無料プランの枠は起動したてのアプリには十分すぎるほどだ。
 
 ### R2の利用を有効化する（クレジットカードが必要）
 
-VibeFastはファイルや画像の保存にCloudflare R2を使用する。**R2はデフォルトで無効**になっており、手動で有効化する必要がある——その際、Cloudflareはクレジットカードの入力を求める。
+vibefast.appはファイルや画像の保存にCloudflare R2を使用する。**R2はデフォルトで無効**になっており、手動で有効化する必要がある——その際、Cloudflareはクレジットカードの入力を求める。
 
 手順：
 
@@ -111,9 +111,9 @@ VibeFastはファイルや画像の保存にCloudflare R2を使用する。**R2�
 
 -----
 
-## ステップ4：VibeFastをClone
+## ステップ4：vibefast.appをClone
 
-VibeFastを購入すると、プライベートリポジトリのコラボレーター招待が届く。招待を承認し、ターミナルで実行：
+vibefast.appを購入すると、プライベートリポジトリのコラボレーター招待が届く。招待を承認し、ターミナルで実行：
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git my-app
@@ -217,7 +217,7 @@ npm run dev
 - ✅ Node.jsとnpmのインストール完了
 - ✅ Gitのインストール完了
 - ✅ Cloudflareアカウント
-- ✅ VibeFastが本番環境にデプロイ済み、世界中からアクセス可能
+- ✅ vibefast.appが本番環境にデプロイ済み、世界中からアクセス可能
 - ✅ Cursorのインストール完了、Vibe Codingを始める準備完了
 
 次の記事に進んで、Vibe Codingで欲しい機能を作る方法を学ぼう。

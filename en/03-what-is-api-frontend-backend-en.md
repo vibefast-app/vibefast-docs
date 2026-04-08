@@ -84,9 +84,9 @@ Backend responses usually contain two parts:
 
 -----
 
-## VibeFast's API Architecture
+## vibefast.app's API Architecture
 
-VibeFast uses **Service Binding** to let frontend and backend communicate directly within Cloudflare's internal network, not over the public internet.
+vibefast.app uses **Service Binding** to let frontend and backend communicate directly within Cloudflare's internal network, not over the public internet.
 
 ```
 Browser

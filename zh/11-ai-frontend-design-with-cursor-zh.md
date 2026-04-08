@@ -44,7 +44,7 @@ export default function ProductCard({ name, price }) {
 
 ### Remix 是什麼？
 
-**Remix** 是建立在 React 上的全棧框架，VibeFast 用它來做前端。Remix 的特色是：
+**Remix** 是建立在 React 上的全棧框架，vibefast.app 用它來做前端。Remix 的特色是：
 
 - **loader**：頁面載入時，從後端取資料的函式
 - **action**：表單送出時，處理用戶操作的函式
@@ -54,7 +54,7 @@ export default function ProductCard({ name, price }) {
 
 ### Tailwind CSS
 
-**Tailwind** 是 VibeFast 用的 CSS 框架。你不需要自己寫 CSS，而是用 class 名稱直接在 HTML 上描述樣式：
+**Tailwind** 是 vibefast.app 用的 CSS 框架。你不需要自己寫 CSS，而是用 class 名稱直接在 HTML 上描述樣式：
 
 ```tsx
 // 不用 Tailwind
@@ -129,9 +129,9 @@ Tailwind 的 class 名稱很直觀：`bg-orange-500` 是橙色背景，`px-6` �
 
 -----
 
-## 實戰：一步步做出 VibeFast 風格的首頁 Hero
+## 實戰：一步步做出 vibefast.app 風格的首頁 Hero
 
-我用 VibeFast 自己的首頁設計當例子，示範完整的 prompt 流程。
+我用 vibefast.app 自己的首頁設計當例子，示範完整的 prompt 流程。
 
 ### 第一輪：建立基本結構
 
@@ -187,7 +187,7 @@ AI 會生成一個完整的 JSX 結構。
 - 用 Tailwind CSS
 - Remix 的 JSX 格式
 - 保留我現在的 zinc-950 深色主題
-- 把文字內容換成 VibeFast 的定價資訊：$99 早鳥價，包含 private repo、終身更新
+- 把文字內容換成 vibefast.app 的定價資訊：$99 早鳥價，包含 private repo、終身更新
 ```
 
 Cursor 有視覺理解能力，它能看懂截圖裡的設計，然後用你的技術棧重新實作。
@@ -246,7 +246,7 @@ Cursor 有視覺理解能力，它能看懂截圖裡的設計，然後用你的�
 
 ## 幾個讓設計立刻提升的小技巧
 
-這些是我在做 VibeFast 首頁時學到的，每一個單獨看都很小，但加在一起效果很明顯。
+這些是我在做 vibefast.app 首頁時學到的，每一個單獨看都很小，但加在一起效果很明顯。
 
 **加入過渡動畫**
 

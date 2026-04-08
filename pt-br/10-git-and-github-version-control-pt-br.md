@@ -35,7 +35,7 @@ Seu repo pode ser:
 - **Público**: Qualquer pessoa pode ver, adequado para projetos open source ou conteúdo educacional
 - **Privado**: Só você e pessoas convidadas podem ver, adequado para código-fonte de produto comercial
 
-O repo vibefast-docs é público, qualquer um pode ver o conteúdo dos tutoriais. O código-fonte do template VibeFast está em outro repo privado, somente clientes pagantes podem acessar — assim é como muitos templates comerciais são entregues.
+O repo vibefast-docs é público, qualquer um pode ver o conteúdo dos tutoriais. O código-fonte do template vibefast.app está em outro repo privado, somente clientes pagantes podem acessar — assim é como muitos templates comerciais são entregues.
 
 ### Clone
 
@@ -133,7 +133,7 @@ git push -u origin main
 
 ### Cenário 2: Projeto clonado do GitHub
 
-Se você clonou do GitHub (como clonar o VibeFast), o Git já conectou origin automaticamente, só use:
+Se você clonou do GitHub (como clonar o vibefast.app), o Git já conectou origin automaticamente, só use:
 
 ```bash
 git add .
@@ -300,7 +300,7 @@ dist/
 
 Se você fizer `git add .` primeiro e depois criar `.gitignore`, o `.env` pode já estar rastreado, adicionar ao `.gitignore` depois não vai ajudar. A ordem importa.
 
-O `.gitignore` do VibeFast já está configurado, você não precisa adicionar manualmente. Lembre-se desse passo quando criar novos projetos você mesmo.
+O `.gitignore` do vibefast.app já está configurado, você não precisa adicionar manualmente. Lembre-se desse passo quando criar novos projetos você mesmo.
 
 -----
 

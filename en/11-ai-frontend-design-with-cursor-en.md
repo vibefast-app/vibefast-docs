@@ -44,7 +44,7 @@ The curly braces `{}` contain JavaScript expressions. Everything else looks like
 
 ### What is Remix?
 
-**Remix** is a full-stack framework built on React — the frontend framework VibeFast uses. Key concepts:
+**Remix** is a full-stack framework built on React — the frontend framework vibefast.app uses. Key concepts:
 
 - **loader**: a function that fetches data from the backend when a page loads
 - **action**: a function that handles user actions when a form is submitted
@@ -54,7 +54,7 @@ You don’t need to fully understand these. When you encounter something confusi
 
 ### What is Tailwind CSS?
 
-**Tailwind** is the CSS framework VibeFast uses. Instead of writing CSS, you apply style directly using class names in your HTML:
+**Tailwind** is the CSS framework vibefast.app uses. Instead of writing CSS, you apply style directly using class names in your HTML:
 
 ```tsx
 // Without Tailwind
@@ -130,7 +130,7 @@ If you’re not sure, just say “suggest a font pairing that suits a SaaS produ
 
 ## Walkthrough: Building a Hero Section Step by Step
 
-I’ll use VibeFast’s own homepage design as an example to demonstrate the full prompt flow.
+I’ll use vibefast.app’s own homepage design as an example to demonstrate the full prompt flow.
 
 ### Round 1: Establish the Basic Structure
 
@@ -188,7 +188,7 @@ Technical requirements:
 - Tailwind CSS
 - Remix JSX format
 - Keep my existing zinc-950 dark theme
-- Replace the text content with VibeFast's pricing: $99 early bird, includes private repo and lifetime updates
+- Replace the text content with vibefast.app's pricing: $99 early bird, includes private repo and lifetime updates
 ```
 
 Cursor has visual understanding — it can read the design from your screenshot and reimplement it in your tech stack.
@@ -247,7 +247,7 @@ Do not modify anything else.
 
 ## Small Techniques That Immediately Improve Design Quality
 
-These are things I learned building VibeFast’s homepage. Each one is minor, but combined they make a noticeable difference.
+These are things I learned building vibefast.app’s homepage. Each one is minor, but combined they make a noticeable difference.
 
 **Add transition animations**
 

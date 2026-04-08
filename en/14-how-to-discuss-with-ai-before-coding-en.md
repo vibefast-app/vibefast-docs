@@ -71,7 +71,7 @@ My login is broken, fix it.
 ```
 Don't code yet.
 
-I'm making a subscription app built with VibeFast.
+I'm making a subscription app built with vibefast.app.
 Problem: After users log in, refreshing the page logs them out.
 Already tried: Confirmed JWT token generates correctly, cookie is also set.
 Goal: Login state should persist after refresh.
@@ -94,7 +94,7 @@ Don't just ask "how to do it," ask "what are the approaches, what are their trad
 # Better question
 "I want to add user notification feature, don't code yet.
 What are the implementation approaches? What's the complexity and tradeoffs of each?
-My app currently uses VibeFast architecture (Remix + Cloudflare Workers + D1),
+My app currently uses vibefast.app architecture (Remix + Cloudflare Workers + D1),
 scale is still small, only me maintaining it."
 ```
 
@@ -145,7 +145,7 @@ Below is an excerpt from a complete conversation in a real scenario, demonstrati
 ```
 Don't code yet.
 
-I'm using VibeFast to make an app selling digital products.
+I'm using vibefast.app to make an app selling digital products.
 Problem: I want buyers to be able to repeatedly download files they purchased,
 but I don't want non-paying people to directly access download links.
 

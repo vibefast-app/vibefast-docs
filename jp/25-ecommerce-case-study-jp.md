@@ -1,4 +1,4 @@
-# ケーススタディ：VibeFastでEコマースサイトを作る——SoapCo
+# ケーススタディ：vibefast.appでEコマースサイトを作る——SoapCo
 
 [English](../en/25-ecommerce-case-study-en.md) · [繁中](../zh/25-ecommerce-case-study-zh.md) · [Español](../es/25-ecommerce-case-study-es.md) · [日本語](../jp/25-ecommerce-case-study-jp.md) · [Português (BR)](../pt-br/25-ecommerce-case-study-pt-br.md)
 
@@ -127,7 +127,7 @@ EコマースのUI設計で最も重要な判断の一つが「カートをど�
 
 **選択肢とトレードオフ：**
 
-**Cookieベース（VibeFastの採用方式）**
+**Cookieベース（vibefast.appの採用方式）**
 
 ```
 ユーザーのブラウザのCookieにカートデータを保存する
@@ -291,7 +291,7 @@ Stripe checkout.session.completed Webhookを処理するハンドラを実装し
 
 ## ステップ6：管理画面での注文管理・在庫管理
 
-VibeFastの管理画面（`/admin`）に追加する：
+vibefast.appの管理画面（`/admin`）に追加する：
 
 ```
 管理画面に以下のページを追加してください：
@@ -340,7 +340,7 @@ Eコマースで信頼性の表示が重要な理由：ユーザーはクレジ�
 
 ## SaaSとEコマース、共通のベース
 
-SoapCoとInvoiceTrack、異なるプロダクトだが、共通して使ったVibeFastの機能：
+SoapCoとInvoiceTrack、異なるプロダクトだが、共通して使ったvibefast.appの機能：
 
 **両方で使ったもの：**
 - Cloudflare Workers（バックエンドAPI実行）
@@ -358,7 +358,7 @@ SoapCoとInvoiceTrack、異なるプロダクトだが、共通して使ったVi
 - Cookieベースのカート管理
 - 在庫管理ロジック
 
-VibeFastはこれらの共通基盤を提供していて、プロダクト固有の部分だけを自分で作ればいい。
+vibefast.appはこれらの共通基盤を提供していて、プロダクト固有の部分だけを自分で作ればいい。
 
 -----
 

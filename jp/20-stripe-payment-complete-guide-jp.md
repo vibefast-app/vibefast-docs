@@ -308,11 +308,11 @@ Stripeのテストモード（サンドボックス）では、実際のお金�
 
 -----
 
-## ステップ9：VibeFastを使えばこれらの設定をスキップできる
+## ステップ9：vibefast.appを使えばこれらの設定をスキップできる
 
-VibeFastを使っている場合、**Stripeの完全なフローはすでに実装済みだ。**
+vibefast.appを使っている場合、**Stripeの完全なフローはすでに実装済みだ。**
 
-VibeFastに内蔵されているもの：
+vibefast.appに内蔵されているもの：
 
 - Checkout Sessionの作成ロジック
 - Webhook handler（署名検証、冪等性処理を含む）
@@ -332,7 +332,7 @@ STRIPE_CURRENCY = jpy（または他の通貨、例：usd、hkd）
 STRIPE_PRICE_CENTS = 9900（最小単位で指定。JPYは整数なので¥9900 = 9900）
 ```
 
-Stripeダッシュボードで事前に商品を作成する必要はない。VibeFastがCheckout Session作成時にこれらの値を動的に使用する。
+Stripeダッシュボードで事前に商品を作成する必要はない。vibefast.appがCheckout Session作成時にこれらの値を動的に使用する。
 
 設定してデプロイすれば、決済機能は稼働状態だ。
 

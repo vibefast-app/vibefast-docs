@@ -71,7 +71,7 @@ Mi login está roto, arréglalo.
 ```
 No escribas código todavía.
 
-Estoy haciendo una app de suscripción construida con VibeFast.
+Estoy haciendo una app de suscripción construida con vibefast.app.
 Problema: Después de que los usuarios inician sesión, al refrescar la página se desloguean.
 Ya intenté: Confirmé que el token JWT se genera correctamente, la cookie también se establece.
 Objetivo: El estado de login debería persistir después de refrescar.
@@ -94,7 +94,7 @@ No solo preguntes "cómo hacerlo," pregunta "cuáles son los enfoques, cuáles s
 # Mejor pregunta
 "Quiero añadir funcionalidad de notificaciones de usuario, no escribas código todavía.
 ¿Cuáles son los enfoques de implementación? ¿Cuál es la complejidad y los trade-offs de cada uno?
-Mi app actualmente usa la arquitectura VibeFast (Remix + Cloudflare Workers + D1),
+Mi app actualmente usa la arquitectura vibefast.app (Remix + Cloudflare Workers + D1),
 la escala todavía es pequeña, solo yo la mantengo."
 ```
 
@@ -145,7 +145,7 @@ A continuación hay un extracto de una conversación completa en un escenario re
 ```
 No escribas código todavía.
 
-Estoy usando VibeFast para hacer una app que vende productos digitales.
+Estoy usando vibefast.app para hacer una app que vende productos digitales.
 Problema: Quiero que los compradores puedan descargar repetidamente los archivos que compraron,
 pero no quiero que personas que no han pagado accedan directamente a los enlaces de descarga.
 

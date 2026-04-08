@@ -184,7 +184,7 @@ ORDER BY orders.created_at DESC
 
 ## WorkersコードからD1を操作する
 
-VibeFastのバックエンドWorkersから実際にD1を使うパターン：
+vibefast.appのバックエンドWorkersから実際にD1を使うパターン：
 
 ```typescript
 // 全商品の取得
@@ -221,7 +221,7 @@ AIにこのパターンを見せておくと、D1を使うコードを正確に�
 
 アプリが成長するにつれ、テーブルの構造を変える必要が出てくる（新しいカラムを追加するなど）。これを**マイグレーション**と呼ぶ。
 
-VibeFastではマイグレーションファイルを`migrations/`フォルダに管理する：
+vibefast.appではマイグレーションファイルを`migrations/`フォルダに管理する：
 
 ```sql
 -- migrations/0001_add_description_to_products.sql

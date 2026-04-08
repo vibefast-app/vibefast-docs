@@ -1,4 +1,4 @@
-# VibeFast クイックスタートガイド
+# vibefast.app クイックスタートガイド
 
 [English](./quickstart.md) · [繁中](./quickstart-zh.md) · [日本語](./quickstart-jp.md) · [Español](./quickstart-es.md) · [Português (BR)](./quickstart-pt-br.md)
 
@@ -17,7 +17,7 @@ npm run setup
 
 以上です。
 
-`npm run setup` はVibeFast体験の核心です。手動で行うはずだったすべてを自動で処理します：
+`npm run setup` は vibefast.app template 体験の核心です。手動で行うはずだったすべてを自動で処理します：
 
 - Cloudflareにログインし、アカウントを確認
 - D1データベースを作成し、bootstrap SQLを実行、すべてのテーブルを自動構築
@@ -45,7 +45,7 @@ Cloudflareアカウントがまだですか？[こちらから無料登録](http
 
 説明文を鵜呑みにする必要はありません。
 
-[vibefast.app](https://vibefast.app) はVibeFastで完全に構築されています — マーケティングページ、ブログ、料金ページ、ユーザーログイン、ダッシュボードすべてが、このテンプレートの実際の機能として本番環境で動いています。
+[vibefast.app](https://vibefast.app) は vibefast.app template で完全に構築されています — マーケティングページ、ブログ、料金ページ、ユーザーログイン、ダッシュボードすべてが、このテンプレートの実際の機能として本番環境で動いています。
 
 **無料アカウントを登録**してログインすると、以下が表示されます：
 
@@ -54,13 +54,13 @@ Cloudflareアカウントがまだですか？[こちらから無料登録](http
 
 体験した認証フロー、ダッシュボードUI、ページ速度 — それがまさにあなたが購入するものです。デモではありません。本物の本番環境です。
 
-![VibeFast traffic analytics dashboard](./asset/analytics_light.png)
+![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
 -----
 
 ## 最初の1時間でできること
 
-VibeFastの設計目標はひとつ：**購入者が最初の1時間で、セットアップからカスタマイズされたライブアプリまで到達できること。**
+vibefast.app template の設計目標はひとつ：**購入者が最初の1時間で、セットアップからカスタマイズされたライブアプリまで到達できること。**
 
 ### 0〜10分：インストールとデプロイ
 
@@ -92,7 +92,7 @@ npm run dev
 
 これらはプレースホルダーではありません。すべての機能が接続され、動作しています。
 
-![VibeFast signup flow](./asset/signup.png)
+![vibefast.app signup flow](./asset/signup.png)
 
 ### 15〜40分：Stripe、Resend、ブランディング
 
@@ -105,9 +105,9 @@ Stripe APIキーとResend APIキーを設定に追加し、`npm run deploy` を�
 
 エンドツーエンドのフローが通れば、あなたのアプリは準備完了です。
 
-ブランディングも簡単です — VibeFastは変更が必要なすべてのテキストを1つの設定ファイルに集約しています：サイト名、ドメイン、料金コピー、ホームページコピー、SEO設定。変更して `npm run deploy` を実行すれば、すべて更新されます。
+ブランディングも簡単です — vibefast.app template は変更が必要なすべてのテキストを1つの設定ファイルに集約しています：サイト名、ドメイン、料金コピー、ホームページコピー、SEO設定。変更して `npm run deploy` を実行すれば、すべて更新されます。
 
-![VibeFast blog editor](./asset/blogedit.png)
+![vibefast.app blog editor](./asset/blogedit.png)
 
 -----
 

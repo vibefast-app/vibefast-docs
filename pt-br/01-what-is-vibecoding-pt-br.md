@@ -89,7 +89,7 @@ Ao entrar no mundo do Vibe Coding, você vai encontrar muita terminologia. Aqui 
 
 **Full-stack** significa frontend e backend combinados.
 
-O VibeFast é um template full-stack. O frontend usa **Remix**, e tanto o frontend quanto o backend rodam no **Cloudflare Workers**.
+O vibefast.app é um template full-stack. O frontend usa **Remix**, e tanto o frontend quanto o backend rodam no **Cloudflare Workers**.
 
 -----
 
@@ -99,7 +99,7 @@ Servidores tradicionais ficam em um lugar fixo — digamos, um data center na Co
 
 **Edge computing** distribui seu código e dados em nós ao redor do mundo. As requisições dos usuários são automaticamente roteadas para o nó mais próximo. Um usuário em São Paulo é atendido por um nó próximo; um usuário na Alemanha é atendido por um nó europeu. Todos recebem respostas rápidas.
 
-O Cloudflare tem mais de 300 nós de edge globalmente. Quando você faz deploy do VibeFast, usuários em qualquer lugar podem acessá-lo com baixa latência.
+O Cloudflare tem mais de 300 nós de edge globalmente. Quando você faz deploy do vibefast.app, usuários em qualquer lugar podem acessá-lo com baixa latência.
 
 -----
 
@@ -107,7 +107,7 @@ O Cloudflare tem mais de 300 nós de edge globalmente. Quando você faz deploy d
 
 **Workers** é o runtime de edge computing do Cloudflare. Seu código roda no Workers sem você gerenciar nenhum servidor.
 
-O Workers é versátil — pode rodar lógica de API backend, e também pode rodar SSR (server-side rendering) do frontend. Na arquitetura do VibeFast, o frontend (Remix) e a API backend rodam cada um em seu próprio Worker. Os dois Workers se comunicam internamente através do Service Binding.
+O Workers é versátil — pode rodar lógica de API backend, e também pode rodar SSR (server-side rendering) do frontend. Na arquitetura do vibefast.app, o frontend (Remix) e a API backend rodam cada um em seu próprio Worker. Os dois Workers se comunicam internamente através do Service Binding.
 
 Deploy de backend tradicional significa alugar uma máquina virtual, instalar o ambiente, configurar firewalls… O Workers deixa você apenas escrever código. O Cloudflare cuida do resto.
 
@@ -137,7 +137,7 @@ A maior vantagem do R2 é **zero taxas de egresso** — armazenamento em nuvem t
 
 Esse é um conceito único do Cloudflare.
 
-No VibeFast, o frontend (Remix) e o backend (Workers API) são dois serviços separados. A abordagem tradicional faz o frontend chamar a API do backend pela internet pública — o que cria problemas de CORS (restrições de segurança de requisições entre origens) que precisam de configuração extra.
+No vibefast.app, o frontend (Remix) e o backend (Workers API) são dois serviços separados. A abordagem tradicional faz o frontend chamar a API do backend pela internet pública — o que cria problemas de CORS (restrições de segurança de requisições entre origens) que precisam de configuração extra.
 
 **Service Binding** permite que frontend e backend se comuniquem diretamente dentro da rede interna do Cloudflare, sem tocar a internet pública. Resultado: zero configuração de CORS, comunicação mais rápida, e a API não fica exposta externamente.
 
@@ -157,7 +157,7 @@ O benefício é não precisar alternar entre múltiplos repositórios, e o códi
 
 **Boilerplate** é o código base que todo novo projeto precisa — coisas como um sistema de autenticação, conexão com banco de dados, configuração de deploy.
 
-Esse código não é o núcleo do seu produto, mas você precisa configurá-lo toda vez. Templates como o VibeFast têm todo o boilerplate pré-construído para você começar diretamente pelas "funcionalidades do produto."
+Esse código não é o núcleo do seu produto, mas você precisa configurá-lo toda vez. Templates como o vibefast.app têm todo o boilerplate pré-construído para você começar diretamente pelas "funcionalidades do produto."
 
 -----
 
@@ -167,7 +167,7 @@ Esse código não é o núcleo do seu produto, mas você precisa configurá-lo t
 
 Após o usuário fazer login, o sistema dá a ele um "passe" criptografado (token). Cada requisição subsequente carrega esse token, e o sistema o verifica para saber "quem é esse usuário, o que ele pode fazer."
 
-Templates como o VibeFast geralmente têm autenticação JWT pré-configurada — você não precisa implementar do zero.
+Templates como o vibefast.app geralmente têm autenticação JWT pré-configurada — você não precisa implementar do zero.
 
 -----
 

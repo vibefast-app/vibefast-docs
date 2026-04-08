@@ -100,7 +100,7 @@ Ve a [vibefast.app](https://vibefast.app) y regístrate gratis. Después de inic
 - Los **datos reales de tráfico del sitio de los últimos 7 días**
 - **Qué número de usuario registrado** eres en vibefast.app
 
-Este dashboard fue construido con la plantilla VibeFast. El flujo de autenticación, la visualización de datos, el diseño de UI que experimentas — eso es lo que obtienes.
+Este dashboard fue construido con la plantilla vibefast.app. El flujo de autenticación, la visualización de datos, el diseño de UI que experimentas — eso es lo que obtienes.
 
 Si quieres la plantilla completa (incluyendo autenticación, blog, pagos con Stripe, panel de administración, migraciones D1), **licencia de por vida por $99**, repositorio privado + todas las actualizaciones futuras incluidas.
 

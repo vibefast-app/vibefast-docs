@@ -44,7 +44,7 @@ Las llaves `{}` contienen expresiones JavaScript. Todo lo demás parece HTML.
 
 ### ¿Qué es Remix?
 
-**Remix** es un framework full-stack construido sobre React — el framework frontend que usa VibeFast. Conceptos clave:
+**Remix** es un framework full-stack construido sobre React — el framework frontend que usa vibefast.app. Conceptos clave:
 
 - **loader**: una función que obtiene datos del backend cuando se carga una página
 - **action**: una función que maneja acciones del usuario cuando se envía un formulario
@@ -54,7 +54,7 @@ No necesitas entender todo esto completamente. Cuando encuentres algo confuso, p
 
 ### ¿Qué es Tailwind CSS?
 
-**Tailwind** es el framework CSS que usa VibeFast. En lugar de escribir CSS, aplicas estilos directamente usando nombres de clase en tu HTML:
+**Tailwind** es el framework CSS que usa vibefast.app. En lugar de escribir CSS, aplicas estilos directamente usando nombres de clase en tu HTML:
 
 ```tsx
 // Sin Tailwind
@@ -130,7 +130,7 @@ Si no estás seguro, simplemente di "sugiere un emparejamiento de fuentes que en
 
 ## Recorrido: Construyendo una sección Hero paso a paso
 
-Usaré el diseño de la propia homepage de VibeFast como ejemplo para demostrar el flujo completo de prompts.
+Usaré el diseño de la propia homepage de vibefast.app como ejemplo para demostrar el flujo completo de prompts.
 
 ### Ronda 1: Establecer la estructura básica
 
@@ -188,7 +188,7 @@ Requisitos técnicos:
 - Tailwind CSS
 - Formato JSX de Remix
 - Mantener mi tema oscuro zinc-950 existente
-- Reemplazar el contenido de texto con los precios de VibeFast: $99 early bird, incluye repo privado y actualizaciones de por vida
+- Reemplazar el contenido de texto con los precios de vibefast.app: $99 early bird, incluye repo privado y actualizaciones de por vida
 ```
 
 Cursor tiene comprensión visual — puede leer el diseño de tu captura y reimplementarlo en tu stack tecnológico.
@@ -247,7 +247,7 @@ No modifiques nada más.
 
 ## Pequeñas técnicas que mejoran inmediatamente la calidad del diseño
 
-Estas son cosas que aprendí construyendo la homepage de VibeFast. Cada una es menor, pero combinadas hacen una diferencia notable.
+Estas son cosas que aprendí construyendo la homepage de vibefast.app. Cada una es menor, pero combinadas hacen una diferencia notable.
 
 **Añadir animaciones de transición**
 

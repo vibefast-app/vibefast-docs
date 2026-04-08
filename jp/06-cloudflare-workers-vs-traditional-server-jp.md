@@ -87,9 +87,9 @@ Workers Freeでは128MB、Workers Paidでは128MBまで。大きなオブジェ�
 
 -----
 
-## VibeFastのアーキテクチャでWorkersをどう使うか
+## vibefast.appのアーキテクチャでWorkersをどう使うか
 
-VibeFastでは2つのWorkerが動いている：
+vibefast.appでは2つのWorkerが動いている：
 
 **フロントエンドWorker（Remix）**
 - ユーザーがアクセスするWebページをSSRで生成

@@ -52,7 +52,7 @@ AIに伝える：
 - 多通貨対応
 - サブアカウント
 
-技術基盤：VibeFast（Auth、Stripe、Resend統合済み）
+技術基盤：vibefast.app（Auth、Stripe、Resend統合済み）
 
 需要分析書の形式で整理してください。
 不明点があれば質問してください。
@@ -106,7 +106,7 @@ AIと一緒に作る需要分析書の基本構成：
 
 ```
 □ データベーススキーマの設計と作成（D1マイグレーション）
-□ VibeFastの認証設定を確認（auth周りの動作確認）
+□ vibefast.appの認証設定を確認（auth周りの動作確認）
 □ 必要な環境変数を整理・設定
 □ 基本的なルーティング設定
 ```
@@ -150,7 +150,7 @@ AIと作業計画を作ったら、プロジェクトのルートに`PLAN.md`と
 ## Layer 1 - 地盤
 - [x] D1スキーマ設計（clients, invoices, invoice_items）
 - [x] マイグレーション実行
-- [ ] VibeFast Auth動作確認
+- [ ] vibefast.app Auth動作確認
 - [ ] 環境変数整理
 
 ## Layer 2 - コア機能

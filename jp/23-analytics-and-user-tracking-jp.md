@@ -83,7 +83,7 @@ Cloudflareが1行のJavaScriptタグを提供する：
 
 ### ステップ2：Remixにタグを追加する
 
-VibeFastのRemixアプリで、`app/root.tsx`の`<head>`に追加する：
+vibefast.appのRemixアプリで、`app/root.tsx`の`<head>`に追加する：
 
 ```typescript
 export function links() {
@@ -127,9 +127,9 @@ Cloudflare Web Analyticsは**クッキーを使わず、個人を識別しない
 
 -----
 
-## VibeFastの管理画面：統合アナリティクスダッシュボード
+## vibefast.appの管理画面：統合アナリティクスダッシュボード
 
-VibeFastにはアプリ内の管理画面（`/admin`）にトラフィック分析ダッシュボードが内蔵されている。
+vibefast.appにはアプリ内の管理画面（`/admin`）にトラフィック分析ダッシュボードが内蔵されている。
 
 **表示されるもの：**
 - 過去7日間・30日間のリクエスト数の推移グラフ
@@ -137,7 +137,7 @@ VibeFastにはアプリ内の管理画面（`/admin`）にトラフィック分�
 - 平均レスポンスタイム
 - 最もリクエストされているエンドポイントのトップ10
 
-Cloudflare DashboardとVibeFastの管理画面を行き来する必要なく、アプリ内でトラフィック状況を一目で把握できる。
+Cloudflare Dashboardとvibefast.appの管理画面を行き来する必要なく、アプリ内でトラフィック状況を一目で把握できる。
 
 -----
 

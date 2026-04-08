@@ -89,7 +89,7 @@ Vibe Coding 的核心是 AI 輔助，常用工具有：
 
 **全棧（Fullstack）** 是前端加後端都包含。
 
-VibeFast 是一個全棧模板，前端用 **Remix**，後端用 **Cloudflare Workers**。
+vibefast.app 是一個全棧模板，前端用 **Remix**，後端用 **Cloudflare Workers**。
 
 -----
 
@@ -99,7 +99,7 @@ VibeFast 是一個全棧模板，前端用 **Remix**，後端用 **Cloudflare Wo
 
 **Edge（邊緣）** 的概念是：把你的 code 和資料分散部署到全球各地的節點，用戶的請求自動導向最近的節點處理。香港的用戶就近處理，美國的用戶也就近處理，速度都很快。
 
-Cloudflare 有 300+ 個邊緣節點，VibeFast 部署上去之後，全球用戶都能快速訪問。
+Cloudflare 有 300+ 個邊緣節點，vibefast.app 部署上去之後，全球用戶都能快速訪問。
 
 -----
 
@@ -107,7 +107,7 @@ Cloudflare 有 300+ 個邊緣節點，VibeFast 部署上去之後，全球用戶
 
 **Workers** 是 Cloudflare 提供的邊緣運算執行環境。你的 code 跑在 Workers 上，不需要自己管伺服器。
 
-Workers 的用途很廣——可以跑後端 API 邏輯，也可以跑前端的 SSR（伺服器端渲染）。在 VibeFast 的架構裡，前端（Remix）和後端 API 都分別跑在各自的 Worker 上，兩個 Worker 透過 Service Binding 在 Cloudflare 內部溝通。
+Workers 的用途很廣——可以跑後端 API 邏輯，也可以跑前端的 SSR（伺服器端渲染）。在 vibefast.app 的架構裡，前端（Remix）和後端 API 都分別跑在各自的 Worker 上，兩個 Worker 透過 Service Binding 在 Cloudflare 內部溝通。
 
 傳統後端要租一台虛擬機、安裝環境、設定防火牆……Workers 讓你只需要寫 code，其他都 Cloudflare 幫你處理。
 
@@ -137,7 +137,7 @@ R2 最大的優勢是**零出站費用**——傳統雲端儲存（如 AWS S3）
 
 這是 Cloudflare 特有的概念。
 
-在 VibeFast 裡，前端（Remix）和後端（Workers API）是兩個獨立的服務。傳統做法，前端要通過公開網路呼叫後端 API，這會有 CORS 問題（跨域請求的安全限制），需要額外設定。
+在 vibefast.app 裡，前端（Remix）和後端（Workers API）是兩個獨立的服務。傳統做法，前端要通過公開網路呼叫後端 API，這會有 CORS 問題（跨域請求的安全限制），需要額外設定。
 
 **Service Binding** 讓前端和後端在 Cloudflare 內部直接溝通，不走公開網路。結果是：零 CORS 設定、速度更快、API 不暴露在外面。
 
@@ -157,7 +157,7 @@ R2 最大的優勢是**零出站費用**——傳統雲端儲存（如 AWS S3）
 
 **Boilerplate** 指的是每個新專案都需要重複設定的基礎 code——例如登入系統、資料庫連線、部署設定。
 
-這些 code 不是你的產品核心，但每次都要重寫，很花時間。VibeFast 這類模板就是幫你把 boilerplate 都準備好，讓你直接從「產品功能」開始。
+這些 code 不是你的產品核心，但每次都要重寫，很花時間。vibefast.app 這類模板就是幫你把 boilerplate 都準備好，讓你直接從「產品功能」開始。
 
 -----
 
@@ -167,7 +167,7 @@ R2 最大的優勢是**零出站費用**——傳統雲端儲存（如 AWS S3）
 
 用戶登入之後，系統給他一個加密的「通行證」（token），之後每次請求都帶著這個通行證，系統驗證後知道「這個用戶是誰、有什麼權限」。
 
-VibeFast 這類模板通常已經把 JWT auth 設定好，你不需要自己從零實作。
+vibefast.app 這類模板通常已經把 JWT auth 設定好，你不需要自己從零實作。
 
 -----
 

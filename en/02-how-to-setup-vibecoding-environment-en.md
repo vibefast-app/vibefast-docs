@@ -12,7 +12,7 @@
 
 A lot of people get stuck at this stage — not because it’s too hard, but because they don’t know what to do or in what order.
 
-This guide walks through every prerequisite, one step at a time. By the end, you’ll have a complete Vibe Coding development environment set up, with VibeFast already deployed and running on Cloudflare.
+This guide walks through every prerequisite, one step at a time. By the end, you’ll have a complete Vibe Coding development environment set up, with vibefast.app already deployed and running on Cloudflare.
 
 What you need to install: Node.js, Git, Cursor. What you need to do: clone the repo, run `npm install`, run `npm run setup`. That’s it.
 
@@ -95,11 +95,11 @@ git --version
 
 Go to [cloudflare.com](https://cloudflare.com) and sign up for a free account.
 
-VibeFast deploys to Cloudflare, so you'll need an account to complete the setup. The free plan's limits are more than enough for a new app.
+vibefast.app deploys to Cloudflare, so you'll need an account to complete the setup. The free plan's limits are more than enough for a new app.
 
 ### Enable R2 (Requires a Credit Card)
 
-VibeFast uses Cloudflare R2 to store files and images. **R2 is disabled by default** and must be enabled manually — Cloudflare will ask for a credit card when you do.
+vibefast.app uses Cloudflare R2 to store files and images. **R2 is disabled by default** and must be enabled manually — Cloudflare will ask for a credit card when you do.
 
 Steps:
 
@@ -111,9 +111,9 @@ Steps:
 
 -----
 
-## Step 4: Clone VibeFast
+## Step 4: Clone vibefast.app
 
-After purchasing VibeFast, you’ll receive a collaborator invitation to the private repo. Accept the invitation, then run:
+After purchasing vibefast.app, you’ll receive a collaborator invitation to the private repo. Accept the invitation, then run:
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git my-app
@@ -217,7 +217,7 @@ After completing these seven steps, you have:
 - ✅ Node.js and npm installed
 - ✅ Git installed
 - ✅ A Cloudflare account
-- ✅ VibeFast deployed to production and accessible worldwide
+- ✅ vibefast.app deployed to production and accessible worldwide
 - ✅ Cursor installed and ready for Vibe Coding
 
 Continue to the next tutorial and start building the features you want.

@@ -109,7 +109,7 @@ Otro método de autenticación común es la **Sesión**:
 
 **JWT es especialmente adecuado para edge computing (Cloudflare Workers)** porque Workers no tiene estado — cada petición puede ejecutarse en un nodo edge diferente, no pueden compartir memoria de sesión. JWT lleva toda la información en el token, cualquier nodo que reciba una petición puede verificarlo independientemente sin consultar una base de datos.
 
-Por eso VibeFast elige JWT en lugar de Sesiones.
+Por eso vibefast.app elige JWT en lugar de Sesiones.
 
 -----
 
@@ -144,7 +144,7 @@ Dónde almacenas el token importa:
 |Cookie HttpOnly            |✅ Más seguro, JS no puede leerlo|
 |Memoria (estado de React)  |✅ Seguro pero desaparece al refrescar|
 
-VibeFast usa Cookie HttpOnly para almacenar tokens, actualmente la práctica segura más común.
+vibefast.app usa Cookie HttpOnly para almacenar tokens, actualmente la práctica segura más común.
 
 ### El payload no debe contener datos sensibles
 
@@ -180,7 +180,7 @@ Recorramos todo el flujo en lenguaje sencillo:
 7. Procesa la petición, devuelve el resultado
 ```
 
-Todo este flujo ya está implementado en VibeFast, no necesitas escribirlo tú mismo.
+Todo este flujo ya está implementado en vibefast.app, no necesitas escribirlo tú mismo.
 
 -----
 
@@ -190,7 +190,7 @@ Todo este flujo ya está implementado en VibeFast, no necesitas escribirlo tú m
 
 Esta es la pregunta más frecuente sobre JWT. Una vez que se emite un token, es difícil revocarlo antes de que expire (a menos que mantengas una lista negra, pero eso pierde la ventaja de JWT de no tener estado).
 
-Solución: acortar la validez del token (ej. 1 hora), combinarlo con un mecanismo de refresh token para renovación automática. VibeFast actualmente usa una validez de 7 días, adecuada para la mayoría de web apps.
+Solución: acortar la validez del token (ej. 1 hora), combinarlo con un mecanismo de refresh token para renovación automática. vibefast.app actualmente usa una validez de 7 días, adecuada para la mayoría de web apps.
 
 **P: ¿Es obligatorio usar JWT?**
 

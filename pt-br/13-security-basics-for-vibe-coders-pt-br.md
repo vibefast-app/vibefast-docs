@@ -32,7 +32,7 @@ const token = jwt.sign(payload, env.JWT_SECRET)
 
 Por que isso é tão grave? Porque seu código geralmente vai para o GitHub. Enquanto o repo for público, ou se um dia acidentalmente for tornado público, qualquer pessoa pode ver sua chave secreta, então forjar a identidade de qualquer usuário e burlar toda a autenticação.
 
-**Como o VibeFast lida com isso:** `npm run setup` automaticamente gera o JWT secret e o escreve nas variáveis de ambiente do Cloudflare Workers. Você nunca vai ver o valor da chave secreta no código.
+**Como o vibefast.app lida com isso:** `npm run setup` automaticamente gera o JWT secret e o escreve nas variáveis de ambiente do Cloudflare Workers. Você nunca vai ver o valor da chave secreta no código.
 
 **O que você precisa confirmar:**
 
@@ -63,7 +63,7 @@ const result = await db.prepare(
 ).bind(userInput).first()
 ```
 
-D1 suporta queries parametrizadas, todas as operações de banco de dados do VibeFast usam esse método. Se você escrever SQL você mesmo, sempre use placeholders `?`, nunca concatenação de strings.
+D1 suporta queries parametrizadas, todas as operações de banco de dados do vibefast.app usam esse método. Se você escrever SQL você mesmo, sempre use placeholders `?`, nunca concatenação de strings.
 
 ### XSS (Cross-Site Scripting)
 

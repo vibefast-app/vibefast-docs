@@ -40,12 +40,12 @@ The requirements document is the first document of the entire Vibe Coding projec
 
 If this is your first time making a product, you might not know how to turn vague ideas in your head into a complete document. This is completely normal—just let AI help you draft.
 
-Say you bought the VibeFast template, want to make an e-commerce site selling handmade soap. You have a vague idea in your head, but don't know how to organize it into a document.
+Say you bought the vibefast.app template, want to make an e-commerce site selling handmade soap. You have a vague idea in your head, but don't know how to organize it into a document.
 
 Open Claude or ChatGPT, directly state your idea:
 
 ```
-I want to use the VibeFast template (Remix + Cloudflare fullstack)
+I want to use the vibefast.app template (Remix + Cloudflare fullstack)
 to make an e-commerce site selling handmade soap.
 I make soap myself, want to sell online, customers can order, pay, receive shipping notifications.
 Inventory isn't large, each time about 20–30 items.
@@ -53,7 +53,7 @@ Inventory isn't large, each time about 20–30 items.
 Please help me write a requirements document, including:
 1. Who are the target users, what are their pain points
 2. MVP core features (maximum five)
-3. Tech stack (based on VibeFast's existing architecture)
+3. Tech stack (based on vibefast.app's existing architecture)
 4. What this version won't do
 5. Development task list, divided into foundation/core/polish layers
 
@@ -77,12 +77,12 @@ AI might generate a draft like this:
 4. Auto-send notification email after shipping
 5. Admin backend to manage products and orders
 
-## Tech Stack (Based on VibeFast)
-- Frontend/Backend: VibeFast existing architecture (Remix + Cloudflare Workers)
+## Tech Stack (Based on vibefast.app)
+- Frontend/Backend: vibefast.app existing architecture (Remix + Cloudflare Workers)
 - Database: D1 (products, orders, users)
 - Image storage: R2 (product images)
-- Payment: Stripe (VibeFast already integrated)
-- Email: Resend (VibeFast already integrated)
+- Payment: Stripe (vibefast.app already integrated)
+- Email: Resend (vibefast.app already integrated)
 
 ## This Version Won't Do
 - Member points system
@@ -150,14 +150,14 @@ This list is your MVP. Before launch, these five done is enough. Other features 
 
 ### 3. Tech Stack
 
-VibeFast already decided most tech stack for you, you just need to confirm which services to use:
+vibefast.app already decided most tech stack for you, you just need to confirm which services to use:
 
 ```
-Frontend/Backend: VibeFast existing architecture (Remix + Cloudflare Workers)
+Frontend/Backend: vibefast.app existing architecture (Remix + Cloudflare Workers)
 Database: D1 (products, orders)
 Image storage: R2 (product images)
-Payment: Stripe (VibeFast already integrated)
-Email: Resend (VibeFast already integrated)
+Payment: Stripe (vibefast.app already integrated)
+Email: Resend (vibefast.app already integrated)
 ```
 
 Once tech stack is decided, don't switch midway. Switching tech costs a lot, and usually not because of the tech itself, but because you're not familiar yet.
@@ -258,7 +258,7 @@ In Cursor's Chat panel, switch to **Plan** mode, enter:
 I want to implement handmade soap e-commerce's product list and detail pages.
 
 Background:
-- This is a VibeFast-based e-commerce app (Remix + Cloudflare Workers + D1)
+- This is a vibefast.app-based e-commerce app (Remix + Cloudflare Workers + D1)
 - D1 already has products table, fields: id, name, slug, description, price, stock, image_url
 - Product images stored in R2
 

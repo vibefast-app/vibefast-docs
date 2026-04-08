@@ -85,11 +85,11 @@ Una vez que tengas tráfico estable, empieza a profundizar en datos a nivel de p
 
 -----
 
-## Analíticas integradas de VibeFast: Directo en el Dashboard
+## Analíticas integradas de vibefast.app: Directo en el Dashboard
 
-Si estás usando VibeFast, las analíticas de tráfico ya están incorporadas.
+Si estás usando vibefast.app, las analíticas de tráfico ya están incorporadas.
 
-Inicia sesión en el panel de admin de VibeFast y la página principal del Dashboard muestra gráficos de tráfico directamente — sin necesidad de abrir el Cloudflare Dashboard, sin configuración requerida. Los datos de tráfico de tu app están justo frente a ti.
+Inicia sesión en el panel de admin de vibefast.app y la página principal del Dashboard muestra gráficos de tráfico directamente — sin necesidad de abrir el Cloudflare Dashboard, sin configuración requerida. Los datos de tráfico de tu app están justo frente a ti.
 
 Para una app web en etapa temprana, esto es más que suficiente. Puedes:
 
@@ -115,7 +115,7 @@ El orden para empezar:
 
 1. **Cloudflare Workers Analytics**: gratuito, sin configuración, disponible en el momento que despliegas — empieza con volumen de peticiones y tasa de errores
 1. **Cloudflare Web Analytics**: se habilita automáticamente para cualquier dominio en Cloudflare — vistas de página y fuentes de tráfico sin configuración
-1. **Dashboard de VibeFast**: si estás usando VibeFast, los gráficos de tráfico están directo en la homepage del admin
+1. **Dashboard de vibefast.app**: si estás usando vibefast.app, los gráficos de tráfico están directo en la homepage del admin
 
 Las decisiones basadas en datos no son solo para grandes empresas. Saber lo que tus usuarios realmente hacen supera adivinar cada vez.
 

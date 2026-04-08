@@ -109,7 +109,7 @@ Another common authentication method is **Session**:
 
 **JWT is particularly suitable for edge computing (Cloudflare Workers)** because Workers are stateless—each request might run on a different edge node, can't share session memory. JWT carries all information in the token, any node receiving a request can verify it independently without checking a database.
 
-This is why VibeFast chooses JWT over Session.
+This is why vibefast.app chooses JWT over Session.
 
 -----
 
@@ -144,7 +144,7 @@ Where you store the token matters:
 |HttpOnly Cookie     |✅ Safer, JS can't read|
 |Memory (React state)|✅ Safe but disappears on refresh|
 
-VibeFast uses HttpOnly Cookie to store tokens, currently the most common secure practice.
+vibefast.app uses HttpOnly Cookie to store tokens, currently the most common secure practice.
 
 ### Payload Shouldn't Contain Sensitive Data
 
@@ -180,7 +180,7 @@ Walk through the entire flow in plain language:
 7. Process request, return result
 ```
 
-This entire flow is already implemented in VibeFast, you don't need to write it yourself.
+This entire flow is already implemented in vibefast.app, you don't need to write it yourself.
 
 -----
 
@@ -190,7 +190,7 @@ This entire flow is already implemented in VibeFast, you don't need to write it 
 
 This is JWT's most asked question. Once a token is issued, it's hard to revoke before expiration (unless you maintain a blacklist, but that loses JWT's stateless advantage).
 
-Solution: shorten token validity (e.g., 1 hour), pair with refresh token mechanism for automatic renewal. VibeFast currently uses 7-day validity, suitable for most web apps.
+Solution: shorten token validity (e.g., 1 hour), pair with refresh token mechanism for automatic renewal. vibefast.app currently uses 7-day validity, suitable for most web apps.
 
 **Q: Must I use JWT?**
 

@@ -313,11 +313,11 @@ After switching, make one real payment with a small amount (e.g. $1) to confirm 
 
 -----
 
-## Step 9: Using VibeFast — Skip All of This
+## Step 9: Using vibefast.app — Skip All of This
 
-If you’re using VibeFast, the good news is: **the entire Stripe flow is already built.**
+If you’re using vibefast.app, the good news is: **the entire Stripe flow is already built.**
 
-VibeFast includes:
+vibefast.app includes:
 
 - Checkout Session creation logic
 - Webhook handler (with signature verification and idempotency handling)
@@ -337,7 +337,7 @@ STRIPE_CURRENCY = usd (or hkd, eur, etc.)
 STRIPE_PRICE_CENTS = 9900 (in cents — 9900 = $99.00)
 ```
 
-No need to create a product in Stripe Dashboard first. VibeFast generates the price dynamically when creating the Checkout Session.
+No need to create a product in Stripe Dashboard first. vibefast.app generates the price dynamically when creating the Checkout Session.
 
 Set the variables, deploy, and payments are live.
 

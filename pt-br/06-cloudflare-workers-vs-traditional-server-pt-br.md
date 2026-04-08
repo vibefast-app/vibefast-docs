@@ -104,7 +104,7 @@ Cada instância de Worker tem limite de 128MB de memória, a maioria dos apps we
 
 -----
 
-## Por Que o VibeFast Escolhe Workers?
+## Por Que o vibefast.app Escolhe Workers?
 
 Para Vibe Coders, a maior vantagem do Workers não é só velocidade:
 

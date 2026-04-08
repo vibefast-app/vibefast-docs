@@ -40,12 +40,12 @@ O documento de requisitos é o primeiro documento do projeto inteiro de Vibe Cod
 
 Se é a primeira vez que você faz um produto, pode não saber como transformar ideias vagas na sua cabeça em um documento completo. Isso é completamente normal — só deixe a IA ajudar a rascunhar.
 
-Digamos que você comprou o template VibeFast e quer fazer um e-commerce vendendo sabonetes artesanais. Você tem uma ideia vaga na cabeça, mas não sabe como organizá-la em um documento.
+Digamos que você comprou o template vibefast.app e quer fazer um e-commerce vendendo sabonetes artesanais. Você tem uma ideia vaga na cabeça, mas não sabe como organizá-la em um documento.
 
 Abra o Claude ou o ChatGPT, declare diretamente sua ideia:
 
 ```
-Quero usar o template VibeFast (Remix + Cloudflare full-stack)
+Quero usar o template vibefast.app (Remix + Cloudflare full-stack)
 para fazer um e-commerce vendendo sabonetes artesanais.
 Faço sabonetes eu mesmo, quero vender online, clientes podem pedir, pagar, receber notificações de envio.
 O estoque não é grande, cada vez cerca de 20–30 itens.
@@ -53,7 +53,7 @@ O estoque não é grande, cada vez cerca de 20–30 itens.
 Por favor me ajude a escrever um documento de requisitos, incluindo:
 1. Quem são os usuários-alvo, quais são suas dores
 2. Funcionalidades centrais do MVP (máximo cinco)
-3. Stack técnico (baseado na arquitetura existente do VibeFast)
+3. Stack técnico (baseado na arquitetura existente do vibefast.app)
 4. O que esta versão não vai fazer
 5. Lista de tarefas de desenvolvimento, dividida em camadas base/central/polimento
 
@@ -77,12 +77,12 @@ A IA pode gerar um rascunho assim:
 4. Envio automático de e-mail de notificação após envio
 5. Backend admin para gerenciar produtos e pedidos
 
-## Stack Técnico (Baseado no VibeFast)
-- Frontend/Backend: Arquitetura existente do VibeFast (Remix + Cloudflare Workers)
+## Stack Técnico (Baseado no vibefast.app)
+- Frontend/Backend: Arquitetura existente do vibefast.app (Remix + Cloudflare Workers)
 - Banco de dados: D1 (produtos, pedidos, usuários)
 - Armazenamento de imagens: R2 (imagens de produtos)
-- Pagamento: Stripe (já integrado no VibeFast)
-- E-mail: Resend (já integrado no VibeFast)
+- Pagamento: Stripe (já integrado no vibefast.app)
+- E-mail: Resend (já integrado no vibefast.app)
 
 ## Esta Versão Não Vai Fazer
 - Sistema de pontos de membro
@@ -203,7 +203,7 @@ No painel Chat do Cursor, mude para o modo **Plan**, insira:
 Quero implementar as páginas de lista e detalhe de produtos do e-commerce de sabonetes artesanais.
 
 Contexto:
-- Este é um app de e-commerce baseado em VibeFast (Remix + Cloudflare Workers + D1)
+- Este é um app de e-commerce baseado em vibefast.app (Remix + Cloudflare Workers + D1)
 - D1 já tem tabela products, campos: id, name, slug, description, price, stock, image_url
 - Imagens de produtos armazenadas no R2
 

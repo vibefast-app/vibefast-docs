@@ -12,7 +12,7 @@
 
 很多人在這一步卡住——不是因為太難，而是不知道要做什麼、按什麼順序做。
 
-這篇把所有前置條件一步一步說清楚。跟著做完，你就有一個完整的 Vibe Coding 開發環境，而且 VibeFast 已經部署到 Cloudflare 上跑起來了。
+這篇把所有前置條件一步一步說清楚。跟著做完，你就有一個完整的 Vibe Coding 開發環境，而且 vibefast.app 已經部署到 Cloudflare 上跑起來了。
 
 需要安裝的東西：Node.js、Git、Cursor。需要做的事：clone repo、npm install、npm run setup。就這些。
 
@@ -95,11 +95,11 @@ git --version
 
 前往 [cloudflare.com](https://cloudflare.com) 免費註冊帳號。
 
-VibeFast 部署在 Cloudflare 上，你需要一個帳號才能完成 setup。免費方案的額度對起步的 app 完全夠用。
+vibefast.app 部署在 Cloudflare 上，你需要一個帳號才能完成 setup。免費方案的額度對起步的 app 完全夠用。
 
 ### 開通 R2 使用權限（需要信用卡）
 
-VibeFast 使用 Cloudflare R2 來儲存檔案和圖片。**R2 預設是關閉的**，需要手動開通，而且開通時 Cloudflare 會要求你綁定信用卡。
+vibefast.app 使用 Cloudflare R2 來儲存檔案和圖片。**R2 預設是關閉的**，需要手動開通，而且開通時 Cloudflare 會要求你綁定信用卡。
 
 步驟：
 
@@ -111,9 +111,9 @@ VibeFast 使用 Cloudflare R2 來儲存檔案和圖片。**R2 預設是關閉的
 
 -----
 
-## 第四步：Clone VibeFast
+## 第四步：Clone vibefast.app
 
-買了 VibeFast 之後，你會收到 private repo 的 collaborator 邀請。接受邀請，然後在終端機執行：
+買了 vibefast.app 之後，你會收到 private repo 的 collaborator 邀請。接受邀請，然後在終端機執行：
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git my-app
@@ -217,7 +217,7 @@ npm run dev
 - ✅ Node.js 和 npm 安裝好
 - ✅ Git 安裝好
 - ✅ Cloudflare 帳號
-- ✅ VibeFast 部署到正式環境，全球可以訪問
+- ✅ vibefast.app 部署到正式環境，全球可以訪問
 - ✅ Cursor 安裝好，可以開始 Vibe Coding
 
 接下來，繼續讀下一篇，開始學怎麼用 Vibe Coding 做出你想要的功能。

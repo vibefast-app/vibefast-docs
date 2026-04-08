@@ -71,7 +71,7 @@ Meu login está quebrado, conserte.
 ```
 Não programe ainda.
 
-Estou fazendo um app de assinatura construído com VibeFast.
+Estou fazendo um app de assinatura construído com vibefast.app.
 Problema: Após os usuários fazerem login, atualizar a página os desloga.
 Já tentei: Confirmei que o JWT token gera corretamente, o cookie também está definido.
 Objetivo: O estado de login deve persistir após atualização.
@@ -94,7 +94,7 @@ Não pergunte apenas "como fazer isso," pergunte "quais são as abordagens, quai
 # Pergunta melhor
 "Quero adicionar funcionalidade de notificação de usuário, não programe ainda.
 Quais são as abordagens de implementação? Qual é a complexidade e trade-offs de cada uma?
-Meu app atualmente usa arquitetura VibeFast (Remix + Cloudflare Workers + D1),
+Meu app atualmente usa arquitetura vibefast.app (Remix + Cloudflare Workers + D1),
 escala ainda é pequena, só eu mantendo."
 ```
 
@@ -145,7 +145,7 @@ Abaixo está um trecho de uma conversa completa em um cenário real, demonstrand
 ```
 Não programe ainda.
 
-Estou usando VibeFast para fazer um app vendendo produtos digitais.
+Estou usando vibefast.app para fazer um app vendendo produtos digitais.
 Problema: Quero que compradores possam baixar repetidamente os arquivos que compraram,
 mas não quero que pessoas que não pagaram acessem diretamente os links de download.
 

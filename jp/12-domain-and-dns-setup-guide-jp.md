@@ -151,9 +151,9 @@ yourapp.com にリダイレクトするにはどう設定しますか？
 
 -----
 
-## VibeFastでの設定例
+## vibefast.appでの設定例
 
-VibeFastはフロントエンドとバックエンドの2つのWorkerを使う。独自ドメインを設定する典型的な構成：
+vibefast.appはフロントエンドとバックエンドの2つのWorkerを使う。独自ドメインを設定する典型的な構成：
 
 ```
 yourapp.com → フロントエンドWorker（Remix）

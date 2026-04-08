@@ -1,11 +1,11 @@
-# VibeFast 🚀
+# vibefast.app 🚀
 
 [English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **You don’t need to know how to code to build a real web app.**  
 **3 commands. Deployed globally in 5 minutes.**
 
-Free open-source course + paid full-stack starter kit. From learning to shipping, all in one place.
+Free open-source vibefast.app course + paid full-stack vibefast.app template. From learning to shipping, all in one place.
 
 ⭐ 7,000+ developers following this journey  
 📚 25 hands-on tutorials, from concept to deployment  
@@ -18,11 +18,11 @@ Free open-source course + paid full-stack starter kit. From learning to shipping
 
 -----
 
-## What Is VibeFast
+## What Is vibefast.app
 
-VibeFast has two parts that solve the same problem:
+vibefast.app has two parts that solve the same problem:
 
-### Free Open-Source Course
+### Free Open-Source vibefast.app course
 
 I used to charge **$2,000 USD** per person to teach this content. Now it’s completely free.
 
@@ -34,9 +34,9 @@ Never written a line of code? That’s fine. This course was designed for you.
 
 👉 **[Read the full course free — vibefast.app/learn](https://vibefast.app/learn)**
 
-### Paid Full-Stack Starter Kit
+### Paid Full-Stack vibefast.app template
 
-The course teaches you how. The starter kit lets you move faster.
+The course teaches you how. The template helps you ship faster.
 
 Auth, database, payments, email, analytics — all configured. Three commands and your web app is live on 300+ global nodes.
 
@@ -54,11 +54,11 @@ After purchase, you’ll immediately receive a GitHub invitation to the private 
 
 ## Experience It Right Now
 
-Other starter kits give you a demo site.
+Other templates give you a demo site.
 
-**VibeFast’s demo is its own production website.**
+**The vibefast.app live demo is its own production website.**
 
-vibefast.app is built entirely with the VibeFast starter kit. Real traffic, real users, every day. What you see is exactly what the starter kit can produce.
+This website is built entirely with the vibefast.app template. Real traffic, real users, every day. What you see is exactly what the template can produce.
 
 Sign up for free, enter the Dashboard, and see 7 days of real traffic data. Auth, Dashboard, Blog CMS, Media Library, Analytics — all there, ready for you to explore.
 
@@ -66,7 +66,7 @@ Sign up for free, enter the Dashboard, and see 7 days of real traffic data. Auth
 
 -----
 
-## Get VibeFast
+## Get the vibefast.app template
 
 Early bird pricing is for the first people who believe in this.
 
@@ -131,8 +131,8 @@ One-time payment · Lifetime updates · Immediate access to private GitHub repo
 - [x] 21 — [How to Write Tests with AI](./en/21-ai-testing-guide-en.md)
 - [x] 22 — [SEO Basics: Getting Your Product Found on Google](./en/22-seo-basics-for-indie-makers-en.md)
 - [x] 23 — [Analytics and User Tracking](./en/23-analytics-and-user-tracking-en.md)
-- [x] 24 — [Case Study: Building a SaaS Product with VibeFast](./en/24-saas-case-study-en.md)
-- [x] 25 — [Case Study: Building an E-commerce Site with VibeFast](./en/25-ecommerce-case-study-en.md)
+- [x] 24 — [Case Study: Building a SaaS Product with the vibefast.app template](./en/24-saas-case-study-en.md)
+- [x] 25 — [Case Study: Building an E-commerce Site with the vibefast.app template](./en/25-ecommerce-case-study-en.md)
 
 -----
 
@@ -147,7 +147,7 @@ One-time payment · Lifetime updates · Immediate access to private GitHub repo
 
 Tutorial content is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Attribution, Non-Commercial, Share Alike).
 
-The VibeFast commercial starter kit is **proprietary software** and is **not included** in this repository.
+The vibefast.app commercial template is **proprietary software** and is **not included** in this repository.
 
 -----
 

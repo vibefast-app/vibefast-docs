@@ -1,4 +1,4 @@
-# VibeFast 快速上手指南
+# vibefast.app 快速上手指南
 
 [English](./quickstart.md) · [繁中](./quickstart-zh.md) · [日本語](./quickstart-jp.md) · [Español](./quickstart-es.md) · [Português (BR)](./quickstart-pt-br.md)
 
@@ -17,7 +17,7 @@ npm run setup
 
 就這樣。
 
-`npm run setup` 是整個 VibeFast 體驗的核心——它在背後自動完成了所有你不想手動處理的事：
+`npm run setup` 是整個 vibefast.app template 體驗的核心——它在背後自動完成了所有你不想手動處理的事：
 
 - 登入 Cloudflare，確認帳號設定
 - 建立 D1 資料庫，執行 bootstrap SQL，自動建好所有資料表
@@ -45,7 +45,7 @@ npm run setup
 
 不需要相信文字描述。
 
-[vibefast.app](https://vibefast.app) 這個網站本身就是用 VibeFast 建的——行銷首頁、blog、定價頁面、用戶登入、dashboard，全部都是。
+[vibefast.app](https://vibefast.app) 這個網站本身就是用 vibefast.app template 建的——行銷首頁、blog、定價頁面、用戶登入、dashboard，全部都是。
 
 **免費註冊一個帳號**，登入後你會看到：
 
@@ -54,13 +54,13 @@ npm run setup
 
 你體驗到的 auth 流程、dashboard UI、頁面速度，就是你買到的東西。不是 demo，是真實的正式環境。
 
-![VibeFast traffic analytics dashboard](./asset/analytics_light.png)
+![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
 -----
 
 ## 第一個小時你能做到什麼
 
-VibeFast 設計的目標是：**買家在第一個小時內就能完成從上線到客製化的完整流程。**
+vibefast.app template 設計的目標是：**買家在第一個小時內就能完成從上線到客製化的完整流程。**
 
 ### 0–10 分鐘：安裝和一鍵部署
 
@@ -92,7 +92,7 @@ npm run dev
 
 這不是 demo 頁面，是真實可用的功能，每一個都接好了，可以直接使用。
 
-![VibeFast signup flow](./asset/signup.png)
+![vibefast.app signup flow](./asset/signup.png)
 
 ### 15–40 分鐘：設定 Stripe、Resend，完成品牌替換
 
@@ -105,9 +105,9 @@ npm run dev
 
 整個端到端流程跑通，你的 app 就準備好了。
 
-品牌替換也很直接——VibeFast 把所有需要改的文字集中在一個設定檔裡：網站名稱、域名、定價文案、首頁文案、SEO 設定，改完跑 `npm run deploy`，全部更新。
+品牌替換也很直接——vibefast.app template 把所有需要改的文字集中在一個設定檔裡：網站名稱、域名、定價文案、首頁文案、SEO 設定，改完跑 `npm run deploy`，全部更新。
 
-![VibeFast blog editor](./asset/blogedit.png)
+![vibefast.app blog editor](./asset/blogedit.png)
 
 -----
 

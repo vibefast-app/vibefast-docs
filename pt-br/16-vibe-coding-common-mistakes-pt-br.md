@@ -10,7 +10,7 @@
 
 ## Mais de Um Ano de Vibe Coding, Muitas Armadilhas
 
-Comecei a usar ferramentas de IA a sério para construir produtos no final de 2024. O VibeFast é o resultado de mais de um ano de acumulação, mas nesse processo, caí em muitas armadilhas desnecessárias.
+Comecei a usar ferramentas de IA a sério para construir produtos no final de 2024. O vibefast.app é o resultado de mais de um ano de acumulação, mas nesse processo, caí em muitas armadilhas desnecessárias.
 
 Este artigo é o que eu gostaria que alguém tivesse me dito desde o início.
 

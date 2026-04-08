@@ -315,11 +315,11 @@ Stripe 的測試模式（沙箱）讓你在不動用真實金錢的情況下，�
 
 -----
 
-## 第九步：用 VibeFast 跳過所有這些設定
+## 第九步：用 vibefast.app 跳過所有這些設定
 
-如果你用的是 VibeFast，好消息是：**Stripe 的完整流程已經做好了。**
+如果你用的是 vibefast.app，好消息是：**Stripe 的完整流程已經做好了。**
 
-VibeFast 內建：
+vibefast.app 內建：
 
 - Checkout Session 的建立邏輯
 - Webhook handler（含簽名驗證、冪等性處理）
@@ -339,7 +339,7 @@ STRIPE_CURRENCY = usd（或其他貨幣，例如 hkd、twd）
 STRIPE_PRICE_CENTS = 9900（以分為單位，9900 = $99.00）
 ```
 
-不需要在 Stripe Dashboard 預先建立商品，VibeFast 在建立 Checkout Session 時會直接用這些值動態生成價格。
+不需要在 Stripe Dashboard 預先建立商品，vibefast.app 在建立 Checkout Session 時會直接用這些值動態生成價格。
 
 設定完，部署，收款功能就上線了。
 
@@ -371,7 +371,7 @@ Stripe 收款的完整流程：
 1. 部署到 Cloudflare，用測試信用卡走完整流程
 1. 確認每個環節正常，切換到正式 key
 
-用 VibeFast 的話：設定三個環境變數，收款功能直接上線。
+用 vibefast.app 的話：設定三個環境變數，收款功能直接上線。
 
 最容易被忽略的是第 4 步——沒有 Webhook，你的 app 不知道誰付了錢。
 

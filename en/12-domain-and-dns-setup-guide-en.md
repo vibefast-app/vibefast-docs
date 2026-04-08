@@ -94,7 +94,7 @@ After DNS is managed by Cloudflare, go into your Worker’s settings to bind the
 
 1. Log into [Cloudflare Dashboard](https://dash.cloudflare.com)
 1. Click “Workers & Pages” in the left sidebar
-1. Click your **frontend Worker** (in VibeFast, this is the web worker, not the API worker)
+1. Click your **frontend Worker** (in vibefast.app, this is the web worker, not the API worker)
 1. Go to “Settings” → “Domains & Routes”
 1. Click “Add” → “Custom Domain”
 1. Select your domain from the dropdown — it will list domains already registered in your Cloudflare account

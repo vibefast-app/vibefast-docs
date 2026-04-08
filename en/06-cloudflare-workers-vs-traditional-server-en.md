@@ -104,7 +104,7 @@ Each Worker instance has 128MB memory limit, most web apps won't hit this limit.
 
 -----
 
-## Why Does VibeFast Choose Workers?
+## Why Does vibefast.app Choose Workers?
 
 For Vibe Coders, Workers' biggest advantage isn't just speed:
 

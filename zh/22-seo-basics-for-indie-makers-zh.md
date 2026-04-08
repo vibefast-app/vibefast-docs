@@ -27,7 +27,7 @@
 **Title**：出現在瀏覽器標籤和 Google 搜尋結果的藍色連結。
 
 ```html
-<title>VibeFast — Cloudflare 全棧 Web App 模板</title>
+<title>vibefast.app — Cloudflare 全棧 Web App 模板</title>
 ```
 
 - 長度控制在 50-60 字元
@@ -50,7 +50,7 @@
 // app/routes/_index.tsx
 export function meta() {
   return [
-    { title: "VibeFast — Cloudflare 全棧 Web App 模板" },
+    { title: "vibefast.app — Cloudflare 全棧 Web App 模板" },
     { name: "description", content: "用 Remix + Cloudflare Workers 快速建立全棧 app。" },
   ]
 }
@@ -139,11 +139,11 @@ Sitemap: https://yoursite.com/sitemap.xml
 
 假設你在賣手工皂，潛在用戶可能搜尋「天然手工皂推薦」、「薰衣草皂好處」、「手工皂和工廠皂差別」——這些問題的答案，就是你的 SEO 內容。
 
-### 用 VibeFast 內建的 Blog 功能寫引流文章
+### 用 vibefast.app 內建的 Blog 功能寫引流文章
 
 寫 SEO 內容最大的阻力通常是「要自己搭一個 blog 系統」——資料表、後台編輯、前台顯示、文章的 meta title 和 description……光是把這些做好就要花不少時間。
 
-VibeFast 已經把這些都做好了。內建的 Blog 功能包含：
+vibefast.app 已經把這些都做好了。內建的 Blog 功能包含：
 
 - **後台文章管理**：建立、編輯、發布、下架文章，不需要動 code
 - **Markdown 編輯器**：直接在後台用 Markdown 寫文章，所見即所得
@@ -154,7 +154,7 @@ VibeFast 已經把這些都做好了。內建的 Blog 功能包含：
 
 1. 用 AI 找出你的目標用戶會搜尋的長尾關鍵字（下一節有說明）
 1. 用 AI 起草文章內容
-1. 進 VibeFast 後台，貼進 Markdown 編輯器，調整
+1. 進 vibefast.app 後台，貼進 Markdown 編輯器，調整
 1. 填入針對這篇文章的 meta title 和 description
 1. 發布
 

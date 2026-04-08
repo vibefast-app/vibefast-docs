@@ -1,4 +1,4 @@
-# Case Study: Building an E-Commerce Site with VibeFast
+# Case Study: Building an E-Commerce Site with vibefast.app
 
 [English](../en/25-ecommerce-case-study-en.md) · [繁中](../zh/25-ecommerce-case-study-zh.md) · [Español](../es/25-ecommerce-case-study-es.md) · [日本語](../jp/25-ecommerce-case-study-jp.md) · [Português (BR)](../pt-br/25-ecommerce-case-study-pt-br.md)
 
@@ -8,9 +8,9 @@
 
 -----
 
-## The Starting Point: You Bought VibeFast and Want to Build a Store
+## The Starting Point: You Bought vibefast.app and Want to Build a Store
 
-This tutorial uses a concrete scenario to show what it actually looks like: **going from an e-commerce idea to a running product with VibeFast.**
+This tutorial uses a concrete scenario to show what it actually looks like: **going from an e-commerce idea to a running product with vibefast.app.**
 
 The example: a handmade soap e-commerce site — **SoapCo**. Making soap and selling it directly. No complex inventory system needed. A small catalog — around 20–30 SKUs at any given time.
 
@@ -22,7 +22,7 @@ The previous tutorial (23) was a SaaS — users pay a monthly fee to use your to
 
 E-commerce is different: **users buy physical products, each transaction is one-time, and you need to manage products, orders, and fulfillment.**
 
-This changes the data structure and business logic. But VibeFast’s foundation — auth, Stripe, Resend — works the same way in both cases.
+This changes the data structure and business logic. But vibefast.app’s foundation — auth, Stripe, Resend — works the same way in both cases.
 
 -----
 
@@ -37,7 +37,7 @@ You don’t need to change anything at this step. You’re just confirming the s
 ## Step 2: Write a Requirements Document
 
 ```
-I want to build a handmade soap e-commerce site using VibeFast.
+I want to build a handmade soap e-commerce site using vibefast.app.
 The store is called SoapCo. I make the soap and sell it myself.
 Small catalog — around 20–30 SKUs.
 
@@ -48,7 +48,7 @@ Core features (MVP):
 4. Automatic order confirmation email
 5. Admin panel for managing products and orders
 
-Technical foundation: VibeFast (Auth, Stripe, and Resend already integrated)
+Technical foundation: vibefast.app (Auth, Stripe, and Resend already integrated)
 Not in this version: loyalty points, product reviews, multi-language, discount codes
 ```
 
@@ -84,16 +84,16 @@ Once confirmed, ask AI to generate the SQL and run it.
 
 E-commerce needs product images — the biggest difference from a SaaS build.
 
-The good news: **VibeFast includes a full media library** — image upload, management, and display are all built in. You don’t need to design this flow yourself.
+The good news: **vibefast.app includes a full media library** — image upload, management, and display are all built in. You don’t need to design this flow yourself.
 
-When creating or editing a product in the admin panel, just use VibeFast’s media library to select or upload the image. Storing it to R2, generating a URL, displaying it on the frontend — all handled.
+When creating or editing a product in the admin panel, just use vibefast.app’s media library to select or upload the image. Storing it to R2, generating a URL, displaying it on the frontend — all handled.
 
 All you need to do is add an `image_url` column to the `products` table and wire it to the existing media library component:
 
 ```
 Add an image_url column to the products table.
 In the product create and edit pages in the admin panel,
-connect VibeFast's existing media library component to let the user pick an image.
+connect vibefast.app's existing media library component to let the user pick an image.
 Save the selected image URL into this column.
 ```
 
@@ -133,7 +133,7 @@ Discuss first, confirm the direction, then implement.
 
 ## Step 6: Stripe Checkout
 
-VibeFast already has Stripe integrated. E-commerce checkout is slightly different from a SaaS subscription — this is a one-time payment and the cart may have multiple products.
+vibefast.app already has Stripe integrated. E-commerce checkout is slightly different from a SaaS subscription — this is a one-time payment and the cart may have multiple products.
 
 Tell AI:
 
@@ -158,7 +158,7 @@ List the plan and which files will be affected before writing any code.
 
 E-commerce needs a simple admin area to manage products and orders.
 
-VibeFast already has the admin panel structure in place. What you need to add:
+vibefast.app already has the admin panel structure in place. What you need to add:
 
 - Product management (create, edit, publish/unpublish, set stock levels)
 - Order list (view all orders and their status)
@@ -170,7 +170,7 @@ These are all standard CRUD operations. Ask AI to implement them one by one.
 
 ## Step 8: Branding and Design
 
-Replace VibeFast’s default UI with SoapCo’s visual identity.
+Replace vibefast.app’s default UI with SoapCo’s visual identity.
 
 Visuals matter a lot in e-commerce — especially product photos and overall quality of presentation. It’s worth spending extra time here:
 
@@ -198,7 +198,7 @@ Day 13:     Test every flow end-to-end, fix bugs
 Day 14:     Deploy, prepare to launch
 ```
 
-Two weeks from zero to live. If you had to build auth and Stripe from scratch, those two alone would take over a week. VibeFast skips all of that — the full two weeks goes into the store itself.
+Two weeks from zero to live. If you had to build auth and Stripe from scratch, those two alone would take over a week. vibefast.app skips all of that — the full two weeks goes into the store itself.
 
 -----
 

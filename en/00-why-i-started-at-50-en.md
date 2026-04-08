@@ -53,7 +53,7 @@ For a solopreneur, every service you don’t have to manage is one less thing pu
 
 -----
 
-## How VibeFast Came to Be
+## How vibefast.app Came to Be
 
 After building a few projects on Cloudflare, I noticed I kept doing the same things at the start of every new project: set up auth, set up the database, set up Stripe, set up email, wire the frontend and backend together.
 
@@ -63,7 +63,7 @@ I started consolidating all of that setup into a reusable starting point — som
 
 Then I thought: if this starting point is useful for me, it’s probably useful for other Vibe Coders too.
 
-That became VibeFast.
+That became vibefast.app.
 
 -----
 
@@ -91,7 +91,7 @@ AI tools have lowered the barrier significantly. You don’t need to learn a pro
 
 Everything in the vibefast-docs repo is me taking what I’ve learned and writing it in language that anyone can follow. The course is free because I want this door to be open to more people.
 
-If you want a starting point that’s already configured — so you can focus on building your product instead of wiring up infrastructure — that’s what VibeFast is for.
+If you want a starting point that’s already configured — so you can focus on building your product instead of wiring up infrastructure — that’s what vibefast.app is for.
 
 -----
 

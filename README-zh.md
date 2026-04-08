@@ -1,11 +1,11 @@
-# VibeFast 🚀
+# vibefast.app 🚀
 
 [English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **你不需要會寫 code，也能做出真實的 Web App。**  
 **3 條命令，5 分鐘就完成全球部署上線。**
 
-免費開源課程 + 付費全棧模板，從學習到上線，一套搞定。
+免費開源 vibefast.app course + 付費全棧 vibefast.app template，從學習到上線，一套搞定。
 
 ⭐ 7,000+ 開發者正在追蹤這個旅程  
 📚 25 篇實戰教程，從概念到上線  
@@ -18,11 +18,11 @@
 
 -----
 
-## VibeFast 是什麼
+## vibefast.app 是什麼
 
-VibeFast 有兩個部分，解決同一個問題：
+vibefast.app 有兩個部分，解決同一個問題：
 
-### 免費開源課程
+### 免費開源 vibefast.app course
 
 這套內容，我以前一個人收一萬五港幣。現在全部免費開源。
 
@@ -34,9 +34,9 @@ VibeFast 有兩個部分，解決同一個問題：
 
 👉 **[免費閱讀全部教程 — vibefast.app/learn/zh](https://vibefast.app/learn/zh)**
 
-### 付費全棧模板
+### 付費全棧 vibefast.app template
 
-課程教你怎麼做。模板讓你做得更快。
+課程教你怎麼做。vibefast.app template 讓你做得更快。
 
 Auth、資料庫、收款、郵件、Analytics——全部設定好。三個指令，你的 Web App 就在全球 300+ 個節點上線。
 
@@ -54,11 +54,11 @@ npm run setup
 
 ## 你現在就可以體驗
 
-其他模板給你一個 demo 網站。
+其他 template 只給你一個 demo 網站。
 
-**VibeFast 的 demo，就是它自己的官網。**
+**vibefast.app 的 live demo，就是它自己的官網。**
 
-vibefast.app 本身就是用 VibeFast 模板建的。每天真實運營，真實流量，真實用戶。你看到的，就是模板能做出來的效果。
+vibefast.app 這個網站本身就是用 vibefast.app template 建的。每天真實運營，真實流量，真實用戶。你看到的，就是 template 能做出來的效果。
 
 免費註冊，進入 Dashboard，看到網站的真實 7 天流量數據。Auth、Dashboard、Blog CMS、Media Library、Analytics——全部在那裡，等你體驗。
 
@@ -131,8 +131,8 @@ vibefast.app 本身就是用 VibeFast 模板建的。每天真實運營，真實
 - [x] 21 — [如何用 AI 寫測試](./zh/21-ai-testing-guide-zh.md)
 - [x] 22 — [SEO 基礎：讓你的產品被 Google 找到](./zh/22-seo-basics-for-indie-makers-zh.md)
 - [x] 23 — [Analytics 和用戶追蹤](./zh/23-analytics-and-user-tracking-zh.md)
-- [x] 24 — [實戰案例：用 VibeFast 做一個 SaaS 產品](./zh/24-saas-case-study-zh.md)
-- [x] 25 — [實戰案例：用 VibeFast 做一個電商網站](./zh/25-ecommerce-case-study-zh.md)
+- [x] 24 — [實戰案例：用 vibefast.app template 做一個 SaaS 產品](./zh/24-saas-case-study-zh.md)
+- [x] 25 — [實戰案例：用 vibefast.app template 做一個電商網站](./zh/25-ecommerce-case-study-zh.md)
 
 -----
 
@@ -147,7 +147,7 @@ vibefast.app 本身就是用 VibeFast 模板建的。每天真實運營，真實
 
 教程內容採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 授權（署名、非商業使用、相同方式共享）。
 
-VibeFast 商業模板為**商業軟體**，**不包含**在本 repo 中。
+vibefast.app 商業 template 為**商業軟體**，**不包含**在本 repo 中。
 
 -----
 

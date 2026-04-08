@@ -1,11 +1,11 @@
-# VibeFast 🚀
+# vibefast.app 🚀
 
 [English](./README.md) · [繁中](./README-zh.md) · [日本語](./README-jp.md) · [Español](./README-es.md) · [Português (BR)](./README-pt-br.md)
 
 **No necesitas saber programar para crear una aplicación web real.**  
 **3 comandos. Desplegado globalmente en 5 minutos.**
 
-Curso gratuito de código abierto + plantilla full-stack de pago. Del aprendizaje al lanzamiento, todo en un solo lugar.
+Curso open source de vibefast.app + vibefast.app template full-stack de pago. Del aprendizaje al lanzamiento, todo en un solo lugar.
 
 ⭐ Más de 7,000 desarrolladores siguiendo este viaje  
 📚 25 tutoriales prácticos, del concepto al despliegue  
@@ -18,11 +18,11 @@ Curso gratuito de código abierto + plantilla full-stack de pago. Del aprendizaj
 
 -----
 
-## Qué es VibeFast
+## Qué es vibefast.app
 
-VibeFast tiene dos partes que resuelven el mismo problema:
+vibefast.app tiene dos partes que resuelven el mismo problema:
 
-### Curso gratuito de código abierto
+### vibefast.app course gratuito de código abierto
 
 Antes cobraba **$2,000 USD** por persona para enseñar este contenido. Ahora es completamente gratis.
 
@@ -34,7 +34,7 @@ Antes cobraba **$2,000 USD** por persona para enseñar este contenido. Ahora es 
 
 👉 **[Lee el curso completo gratis — vibefast.app/learn](https://vibefast.app/learn)**
 
-### Plantilla full-stack de pago
+### vibefast.app template full-stack de pago
 
 El curso te enseña cómo hacerlo. La plantilla te permite hacerlo más rápido.
 
@@ -54,11 +54,11 @@ Después de la compra, recibirás inmediatamente una invitación a GitHub para a
 
 ## Experiméntalo ahora mismo
 
-Otras plantillas te dan un sitio de demostración.
+Otras templates solo te dan un sitio de demostración.
 
-**La demo de VibeFast es su propio sitio web en producción.**
+**La live demo de vibefast.app es su propio sitio web en producción.**
 
-vibefast.app está construido completamente con la plantilla VibeFast. Tráfico real, usuarios reales, cada día. Lo que ves es exactamente lo que la plantilla puede producir.
+Este sitio está construido completamente con la vibefast.app template. Tráfico real, usuarios reales, cada día. Lo que ves es exactamente lo que la template puede producir.
 
 Regístrate gratis, entra al Dashboard y ve 7 días de datos de tráfico real. Auth, Dashboard, Blog CMS, Media Library, Analytics — todo ahí, listo para que lo explores.
 
@@ -66,7 +66,7 @@ Regístrate gratis, entra al Dashboard y ve 7 días de datos de tráfico real. A
 
 -----
 
-## Obtén VibeFast
+## Obtén la vibefast.app template
 
 El precio early bird es para los primeros en creer en esto.
 
@@ -131,8 +131,8 @@ Pago único · Actualizaciones de por vida · Acceso inmediato al repositorio pr
 - [x] 21 — [Cómo escribir tests con IA](./es/21-ai-testing-guide-es.md)
 - [x] 22 — [SEO básico: que Google encuentre tu producto](./es/22-seo-basics-for-indie-makers-es.md)
 - [x] 23 — [Analytics y seguimiento de usuarios](./es/23-analytics-and-user-tracking-es.md)
-- [x] 24 — [Caso de estudio: construyendo un SaaS con VibeFast](./es/24-saas-case-study-es.md)
-- [x] 25 — [Caso de estudio: construyendo un e-commerce con VibeFast](./es/25-ecommerce-case-study-es.md)
+- [x] 24 — [Caso de estudio: construyendo un SaaS con la vibefast.app template](./es/24-saas-case-study-es.md)
+- [x] 25 — [Caso de estudio: construyendo un e-commerce con la vibefast.app template](./es/25-ecommerce-case-study-es.md)
 
 -----
 
@@ -147,7 +147,7 @@ Pago único · Actualizaciones de por vida · Acceso inmediato al repositorio pr
 
 El contenido del tutorial está licenciado bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Atribución, No Comercial, Compartir Igual).
 
-La plantilla comercial de VibeFast es **software propietario** y **no está incluida** en este repositorio.
+La vibefast.app template comercial es **software propietario** y **no está incluida** en este repositorio.
 
 -----
 

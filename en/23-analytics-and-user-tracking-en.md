@@ -85,11 +85,11 @@ Once you have stable traffic, start digging into page-level data.
 
 -----
 
-## VibeFast’s Built-In Analytics: Right There on the Dashboard
+## vibefast.app’s Built-In Analytics: Right There on the Dashboard
 
-If you’re using VibeFast, traffic analytics is already built in.
+If you’re using vibefast.app, traffic analytics is already built in.
 
-Log into the VibeFast admin panel and the homepage Dashboard shows traffic charts directly — no need to open Cloudflare Dashboard, no configuration required. Your app’s traffic data is right in front of you.
+Log into the vibefast.app admin panel and the homepage Dashboard shows traffic charts directly — no need to open Cloudflare Dashboard, no configuration required. Your app’s traffic data is right in front of you.
 
 For an early-stage web app, this is more than enough. You can:
 

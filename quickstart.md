@@ -1,4 +1,4 @@
-# VibeFast Quickstart
+# vibefast.app Quickstart
 
 [English](./quickstart.md) · [繁中](./quickstart-zh.md) · [日本語](./quickstart-jp.md) · [Español](./quickstart-es.md) · [Português (BR)](./quickstart-pt-br.md)
 
@@ -17,7 +17,7 @@ npm run setup
 
 That’s it.
 
-`npm run setup` is the core of the VibeFast experience. It handles everything you’d otherwise do manually:
+`npm run setup` is the core of the vibefast.app template experience. It handles everything you’d otherwise do manually:
 
 - Log into Cloudflare and verify your account
 - Create a D1 database, run bootstrap SQL, build all tables automatically
@@ -45,7 +45,7 @@ No Cloudflare account yet? [Sign up free here](https://dash.cloudflare.com/sign-
 
 Don't take the description at face value.
 
-[vibefast.app](https://vibefast.app) is built entirely on VibeFast — the marketing homepage, blog, pricing page, user login, and dashboard are all real features from this template running in production.
+[vibefast.app](https://vibefast.app) is built entirely on the vibefast.app template — the marketing homepage, blog, pricing page, user login, and dashboard are all real features from this template running in production.
 
 **Sign up for a free account** and once you're logged in, you'll see:
 
@@ -54,13 +54,13 @@ Don't take the description at face value.
 
 The auth flow you just went through, the dashboard UI, the page speed — that's exactly what you're buying. Not a demo. The real thing.
 
-![VibeFast traffic analytics dashboard](./asset/analytics_light.png)
+![vibefast.app traffic analytics dashboard](./asset/analytics_light.png)
 
 -----
 
 ## What You Can Do in the First Hour
 
-VibeFast is designed with one goal: **buyers should be able to go from setup to a customized, live app within their first hour.**
+The vibefast.app template is designed with one goal: **buyers should be able to go from setup to a customized, live app within their first hour.**
 
 ### 0–10 Minutes: Install and Deploy
 
@@ -92,7 +92,7 @@ One command starts both frontend and backend. Open the local URL printed in your
 
 These aren’t placeholder screens. Every feature is wired together and working.
 
-![VibeFast signup flow](./asset/signup.png)
+![vibefast.app signup flow](./asset/signup.png)
 
 ### 15–40 Minutes: Stripe, Resend, and Branding
 
@@ -105,9 +105,9 @@ Add your Stripe API key and Resend API key to the config, run `npm run deploy`, 
 
 Once the end-to-end flow works, your app is ready.
 
-Branding is straightforward — VibeFast centralizes all the copy you’ll want to change in a single config file: site name, domain, pricing copy, homepage copy, SEO settings. Change them, run `npm run deploy`, everything updates.
+Branding is straightforward — the vibefast.app template centralizes all the copy you’ll want to change in a single config file: site name, domain, pricing copy, homepage copy, SEO settings. Change them, run `npm run deploy`, everything updates.
 
-![VibeFast blog editor](./asset/blogedit.png)
+![vibefast.app blog editor](./asset/blogedit.png)
 
 -----
 

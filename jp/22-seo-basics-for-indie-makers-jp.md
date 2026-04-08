@@ -27,7 +27,7 @@ SEOをとても複雑なものとして捉え、アルゴリズム、被リン�
 **Title**：ブラウザのタブとGoogle検索結果の青いリンクに表示される。
 
 ```html
-<title>VibeFast — Cloudflareフルスタック Webアプリテンプレート</title>
+<title>vibefast.app — Cloudflareフルスタック Webアプリテンプレート</title>
 ```
 
 - 長さは50〜60文字に収める
@@ -50,7 +50,7 @@ Remixでの設定：
 // app/routes/_index.tsx
 export function meta() {
   return [
-    { title: "VibeFast — Cloudflareフルスタック Webアプリテンプレート" },
+    { title: "vibefast.app — Cloudflareフルスタック Webアプリテンプレート" },
     { name: "description", content: "Remix + Cloudflare Workersでフルスタックアプリをスピード作成。" },
   ]
 }
@@ -139,11 +139,11 @@ FAQページが実際にユーザーが検索する質問に答えているこ�
 
 天然手工芸品を売っている場合、潜在的なユーザーは「天然ハンドメイドソープ おすすめ」「ラベンダーソープ 効能」「ハンドメイドソープと市販品の違い」などを検索するかもしれない——これらの質問への答えが、SEOコンテンツになる。
 
-### VibeFastの内蔵ブログ機能で集客記事を書く
+### vibefast.appの内蔵ブログ機能で集客記事を書く
 
 SEOコンテンツを書く際の最大のハードルは通常「自分でブログシステムを構築しなければならない」こと——テーブル設計、バックエンド編集画面、フロントエンド表示、記事ごとのmetaタイトルとdescription……これらを整備するだけで相当な時間がかかる。
 
-VibeFastはこれらをすべて実装済みだ。内蔵のブログ機能には以下が含まれる：
+vibefast.appはこれらをすべて実装済みだ。内蔵のブログ機能には以下が含まれる：
 
 - **管理画面での記事管理**：記事の作成・編集・公開・下書きをコードなしで実行
 - **Markdownエディタ**：管理画面でMarkdownで記事を書く、WYSIWYGプレビュー付き
@@ -154,7 +154,7 @@ VibeFastはこれらをすべて実装済みだ。内蔵のブログ機能には
 
 1. AIを使ってターゲットユーザーが検索するロングテールキーワードを見つける（次のセクション参照）
 2. AIで記事の下書きを作成する
-3. VibeFastの管理画面でMarkdownエディタに貼り付けて調整する
+3. vibefast.appの管理画面でMarkdownエディタに貼り付けて調整する
 4. その記事用のmeta titleとdescriptionを入力する
 5. 公開する
 

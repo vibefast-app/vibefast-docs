@@ -35,7 +35,7 @@ Git 是一個**版本控制工具**——它記錄你每一次「存檔」的狀
 - **Public（公開）**：任何人都能看到，適合開源專案或教學內容
 - **Private（私有）**：只有你和你邀請的人能看到，適合商業產品的原始碼
 
-vibefast-docs 這個 repo 是公開的，裡面的教學內容任何人都能看。VibeFast 模板的原始碼放在另一個 private repo，只有付費買家才能存取——這也是很多商業模板的交付方式。
+vibefast-docs 這個 repo 是公開的，裡面的教學內容任何人都能看。vibefast.app 模板的原始碼放在另一個 private repo，只有付費買家才能存取——這也是很多商業模板的交付方式。
 
 ### Clone
 
@@ -133,7 +133,7 @@ git push -u origin main
 
 ### 情境二：從 GitHub clone 下來的專案
 
-如果你是從 GitHub clone 的（比如 clone 了 VibeFast），Git 已經自動幫你連好 origin 了，直接用：
+如果你是從 GitHub clone 的（比如 clone 了 vibefast.app），Git 已經自動幫你連好 origin 了，直接用：
 
 ```bash
 git add .
@@ -300,7 +300,7 @@ dist/
 
 如果你先 `git add .` 再建 `.gitignore`，`.env` 可能已經被加進追蹤了，之後加進 `.gitignore` 也沒用。順序很重要。
 
-VibeFast 的 `.gitignore` 已經設定好了，你不需要手動加。自己建新專案時記得這個步驟。
+vibefast.app 的 `.gitignore` 已經設定好了，你不需要手動加。自己建新專案時記得這個步驟。
 
 -----
 

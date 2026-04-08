@@ -313,11 +313,11 @@ Después de cambiar, haz un pago real con un monto pequeño (ej. $1) para confir
 
 -----
 
-## Paso 9: Usando VibeFast — Sáltate todo esto
+## Paso 9: Usando vibefast.app — Sáltate todo esto
 
-Si estás usando VibeFast, la buena noticia es: **todo el flujo de Stripe ya está construido.**
+Si estás usando vibefast.app, la buena noticia es: **todo el flujo de Stripe ya está construido.**
 
-VibeFast incluye:
+vibefast.app incluye:
 
 - Lógica de creación de Checkout Session
 - Handler de webhook (con verificación de firma y manejo de idempotencia)
@@ -337,7 +337,7 @@ STRIPE_CURRENCY = usd (o eur, mxn, etc.)
 STRIPE_PRICE_CENTS = 9900 (en centavos — 9900 = $99.00)
 ```
 
-No es necesario crear un producto en Stripe Dashboard primero. VibeFast genera el precio dinámicamente al crear la Checkout Session.
+No es necesario crear un producto en Stripe Dashboard primero. vibefast.app genera el precio dinámicamente al crear la Checkout Session.
 
 Configura las variables, despliega, y los pagos están en vivo.
 
@@ -369,7 +369,7 @@ El flujo completo de pagos con Stripe:
 1. Despliega en Cloudflare, recorre todo el flujo con tarjetas de prueba
 1. Confirma que cada paso funciona, luego cambia a claves en vivo
 
-Con VibeFast: configura cuatro variables de entorno y los pagos están en vivo inmediatamente.
+Con vibefast.app: configura cuatro variables de entorno y los pagos están en vivo inmediatamente.
 
 El paso que más se olvida es el paso 4 — sin webhooks, tu app nunca se entera de quién pagó.
 

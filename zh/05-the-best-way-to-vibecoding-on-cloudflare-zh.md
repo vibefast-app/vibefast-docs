@@ -100,7 +100,7 @@ Cloudflare R2 是 S3 相容的儲存服務，意思是你用 S3 的方式操作�
 - 網站過去 **7 天的真實流量數據**
 - 你是 vibefast.app 的**第幾個註冊用戶**
 
-這個儀表板本身就是用 VibeFast 模板建的，你體驗到的 auth 流程、資料顯示、UI 設計，就是你買到的東西。
+這個儀表板本身就是用 vibefast.app 模板建的，你體驗到的 auth 流程、資料顯示、UI 設計，就是你買到的東西。
 
 如果想直接拿到完整模板（包含 auth、blog、Stripe 收款、admin 後台、D1 migrations），**$99 終身買斷**，private repo + 所有未來更新都在裡面。
 

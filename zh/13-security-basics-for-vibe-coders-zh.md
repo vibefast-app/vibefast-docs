@@ -32,7 +32,7 @@ const token = jwt.sign(payload, env.JWT_SECRET)
 
 為什麼這麼嚴重？因為你的 code 通常會推到 GitHub。只要 repo 是公開的，或者有一天不小心設成公開，任何人都能看到你的 secret key，然後偽造任何用戶的身份、繞過所有驗證。
 
-**VibeFast 怎麼處理：** `npm run setup` 自動生成 JWT secret 並寫入 Cloudflare Workers 的環境變數。你永遠不會在 code 裡看到 secret key 的值。
+**vibefast.app 怎麼處理：** `npm run setup` 自動生成 JWT secret 並寫入 Cloudflare Workers 的環境變數。你永遠不會在 code 裡看到 secret key 的值。
 
 **你要確認：**
 
@@ -63,7 +63,7 @@ const result = await db.prepare(
 ).bind(userInput).first()
 ```
 
-D1 支援參數化查詢，VibeFast 的所有資料庫操作都用這個方式。如果你自己寫 SQL，永遠用 `?` 佔位符，不要用字串拼接。
+D1 支援參數化查詢，vibefast.app 的所有資料庫操作都用這個方式。如果你自己寫 SQL，永遠用 `?` 佔位符，不要用字串拼接。
 
 ### XSS（跨站腳本攻擊）
 

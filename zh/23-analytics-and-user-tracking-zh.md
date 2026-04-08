@@ -85,11 +85,11 @@ Cloudflare Workers Analytics 記錄的是所有 HTTP 請求（包含 API）。�
 
 -----
 
-## VibeFast 內建流量分析：Dashboard 直接看
+## vibefast.app 內建流量分析：Dashboard 直接看
 
-如果你用的是 VibeFast，流量分析功能已經做好了。
+如果你用的是 vibefast.app，流量分析功能已經做好了。
 
-登入 VibeFast 的 admin 後台，首頁 Dashboard 就能直接看到流量分析圖表——不需要打開 Cloudflare Dashboard，不需要設定任何東西，你的 app 的流量數據就在眼前。
+登入 vibefast.app 的 admin 後台，首頁 Dashboard 就能直接看到流量分析圖表——不需要打開 Cloudflare Dashboard，不需要設定任何東西，你的 app 的流量數據就在眼前。
 
 這對剛起步的 web app 來說完全夠用。你可以：
 
@@ -115,7 +115,7 @@ Analytics 的目標不是收集數據，是用數據做決定。
 
 1. **Cloudflare Workers Analytics**：免費、零設定，部署完就有，先看請求量和錯誤率
 1. **Cloudflare Web Analytics**：domain 加入 Cloudflare 自動啟用，追蹤頁面瀏覽量和流量來源
-1. **VibeFast Dashboard**：如果用 VibeFast，流量圖表直接在 admin 首頁
+1. **vibefast.app Dashboard**：如果用 vibefast.app，流量圖表直接在 admin 首頁
 
 數據驅動不是大公司的專利。知道用戶在做什麼，比猜測要有效得多。
 

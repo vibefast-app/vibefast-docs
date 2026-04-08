@@ -102,7 +102,7 @@ Workers 跑在 V8 環境，不是 Node.js。很多 Node.js 的內建模組（如
 
 -----
 
-## 為什麼 VibeFast 選擇 Workers？
+## 為什麼 vibefast.app 選擇 Workers？
 
 對 Vibe Coder 來說，Workers 的最大優勢不只是速度：
 

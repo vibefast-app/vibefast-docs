@@ -53,7 +53,7 @@ Para un emprendedor en solitario, cada servicio que no tienes que gestionar es u
 
 -----
 
-## Cómo nació VibeFast
+## Cómo nació vibefast.app
 
 Después de construir varios proyectos en Cloudflare, noté que siempre hacía lo mismo al inicio de cada proyecto nuevo: configurar autenticación, configurar la base de datos, configurar Stripe, configurar el email, conectar el frontend con el backend.
 
@@ -63,7 +63,7 @@ Empecé a consolidar toda esa configuración en un punto de partida reutilizable
 
 Luego pensé: si este punto de partida me es útil a mí, probablemente también les sea útil a otros Vibe Coders.
 
-Así nació VibeFast.
+Así nació vibefast.app.
 
 -----
 
@@ -91,7 +91,7 @@ Las herramientas de IA han bajado la barrera significativamente. No necesitas ap
 
 Todo lo que hay en el repositorio vibefast-docs es lo que he aprendido, escrito en un lenguaje que cualquiera puede seguir. El curso es gratuito porque quiero que esta puerta esté abierta para más personas.
 
-Si quieres un punto de partida ya configurado — para que puedas enfocarte en construir tu producto en lugar de montar infraestructura — para eso existe VibeFast.
+Si quieres un punto de partida ya configurado — para que puedas enfocarte en construir tu producto en lugar de montar infraestructura — para eso existe vibefast.app.
 
 -----
 

@@ -40,12 +40,12 @@ Vibe Coder 的優勢是速度——但速度也是陷阱。AI 讓你「做任何
 
 如果你是第一次做產品，可能不知道怎麼把腦子裡模糊的想法變成一份完整的文件。這完全正常——讓 AI 幫你起草就好。
 
-假設你買了 VibeFast 模板，想做一個賣手工皂的電商網站。你腦子裡有個模糊的想法，但不知道怎麼整理成文件。
+假設你買了 vibefast.app 模板，想做一個賣手工皂的電商網站。你腦子裡有個模糊的想法，但不知道怎麼整理成文件。
 
 打開 Claude 或 ChatGPT，直接說出你的想法：
 
 ```
-我想用 VibeFast 模板（Remix + Cloudflare 全棧）
+我想用 vibefast.app 模板（Remix + Cloudflare 全棧）
 做一個賣手工皂的電商網站。
 我自己做皂，想在網路上賣，顧客可以下單、付款、收到出貨通知。
 庫存不多，每次大概 20–30 個品項。
@@ -53,7 +53,7 @@ Vibe Coder 的優勢是速度——但速度也是陷阱。AI 讓你「做任何
 請幫我寫一份需求分析書，包含：
 1. 目標用戶是誰、他們的痛點是什麼
 2. MVP 核心功能（最多五個）
-3. 技術選型（基於 VibeFast 的現有架構）
+3. 技術選型（基於 vibefast.app 的現有架構）
 4. 這個版本不做什麼
 5. 開發任務清單，分成地基/核心/完善三層
 
@@ -77,12 +77,12 @@ AI 可能會生成這樣的草稿：
 4. 出貨後自動發送通知 email
 5. 後台管理商品和訂單
 
-## 技術選型（基於 VibeFast）
-- 前端/後端：VibeFast 現有架構（Remix + Cloudflare Workers）
+## 技術選型（基於 vibefast.app）
+- 前端/後端：vibefast.app 現有架構（Remix + Cloudflare Workers）
 - 資料庫：D1（商品、訂單、用戶）
 - 圖片儲存：R2（商品圖片）
-- 支付：Stripe（VibeFast 已整合）
-- 郵件：Resend（VibeFast 已整合）
+- 支付：Stripe（vibefast.app 已整合）
+- 郵件：Resend（vibefast.app 已整合）
 
 ## 這個版本不做
 - 會員積點系統
@@ -150,14 +150,14 @@ AI 可能會生成這樣的草稿：
 
 ### 3. 技術選型
 
-VibeFast 已經幫你決定好大部分的技術選型，你只需要確認用哪些服務：
+vibefast.app 已經幫你決定好大部分的技術選型，你只需要確認用哪些服務：
 
 ```
-前端/後端：VibeFast 現有架構（Remix + Cloudflare Workers）
+前端/後端：vibefast.app 現有架構（Remix + Cloudflare Workers）
 資料庫：D1（商品、訂單）
 圖片儲存：R2（商品圖片）
-支付：Stripe（VibeFast 已整合）
-郵件：Resend（VibeFast 已整合）
+支付：Stripe（vibefast.app 已整合）
+郵件：Resend（vibefast.app 已整合）
 ```
 
 技術選型一旦決定，不要中途換。換技術的代價很高，而且通常不是因為技術本身的問題，而是因為你還沒熟悉。
@@ -258,7 +258,7 @@ Cursor 有一個功能叫 **Plan**（在 Chat 模式裡選擇「Plan」）。在
 我要實作手工皂電商的商品列表和詳情頁。
 
 背景：
-- 這是一個基於 VibeFast 的電商 app（Remix + Cloudflare Workers + D1）
+- 這是一個基於 vibefast.app 的電商 app（Remix + Cloudflare Workers + D1）
 - D1 已有 products 資料表，欄位：id、name、slug、description、price、stock、image_url
 - 商品圖片存在 R2
 

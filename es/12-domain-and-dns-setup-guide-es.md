@@ -94,7 +94,7 @@ Después de que DNS está gestionado por Cloudflare, ve a la configuración de t
 
 1. Inicia sesión en [Cloudflare Dashboard](https://dash.cloudflare.com)
 1. Haz clic en "Workers & Pages" en la barra lateral izquierda
-1. Haz clic en tu **Worker de frontend** (en VibeFast, este es el worker web, no el worker de API)
+1. Haz clic en tu **Worker de frontend** (en vibefast.app, este es el worker web, no el worker de API)
 1. Ve a "Settings" → "Domains & Routes"
 1. Haz clic en "Add" → "Custom Domain"
 1. Selecciona tu dominio del desplegable — listará dominios ya registrados en tu cuenta de Cloudflare

@@ -27,7 +27,7 @@ The two most important SEO elements on any page:
 **Title:** Appears in the browser tab and as the blue link in Google search results.
 
 ```html
-<title>VibeFast — Cloudflare-Native Web App Template</title>
+<title>vibefast.app — Cloudflare-Native Web App Template</title>
 ```
 
 - Keep it between 50–60 characters
@@ -50,7 +50,7 @@ Setting these in Remix:
 // app/routes/_index.tsx
 export function meta() {
   return [
-    { title: "VibeFast — Cloudflare-Native Web App Template" },
+    { title: "vibefast.app — Cloudflare-Native Web App Template" },
     { name: "description", content: "Build full-stack apps fast with Remix + Cloudflare Workers." },
   ]
 }
@@ -139,11 +139,11 @@ Your FAQ page should answer the questions your users actually search for, writte
 
 If you’re selling handmade soap, potential customers might search for “best natural handmade soap,” “benefits of lavender soap,” or “difference between handmade and commercial soap.” The answers to those questions are your SEO content.
 
-### Using VibeFast’s Built-In Blog to Drive Traffic
+### Using vibefast.app’s Built-In Blog to Drive Traffic
 
 The biggest friction with writing SEO content is usually “I’d have to build a blog system first” — database tables, admin editor, frontend display, per-post meta title and description… just getting that infrastructure set up takes significant time.
 
-VibeFast has all of this built in. The included Blog feature covers:
+vibefast.app has all of this built in. The included Blog feature covers:
 
 - **Admin article management**: create, edit, publish, and unpublish posts without touching code
 - **Markdown editor**: write directly in the admin panel with a live preview
@@ -154,7 +154,7 @@ The practical workflow:
 
 1. Ask AI to find long-tail keywords your target users search for (covered in the next section)
 1. Ask AI to draft the article content
-1. Open VibeFast’s admin, paste into the Markdown editor, refine
+1. Open vibefast.app’s admin, paste into the Markdown editor, refine
 1. Fill in the article’s meta title and description
 1. Publish
 

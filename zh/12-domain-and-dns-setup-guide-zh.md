@@ -94,7 +94,7 @@ DNS 管到 Cloudflare 之後，進入 Workers 的設定頁面綁定域名：
 
 1. 登入 [Cloudflare Dashboard](https://dash.cloudflare.com)
 1. 左側選單點「Workers & Pages」
-1. 點擊你的**前端 Worker**（VibeFast 裡是 web worker，不是 API worker）
+1. 點擊你的**前端 Worker**（vibefast.app 裡是 web worker，不是 API worker）
 1. 進入「Settings」→「Domains & Routes」
 1. 點擊「Add」→「Custom Domain」
 1. 從下拉選單選擇已經登記在你 Cloudflare 帳號下的域名

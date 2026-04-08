@@ -1,4 +1,4 @@
-# Case Study: Building a SaaS Product with VibeFast
+# Case Study: Building a SaaS Product with vibefast.app
 
 [English](../en/24-saas-case-study-en.md) · [繁中](../zh/24-saas-case-study-zh.md) · [Español](../es/24-saas-case-study-es.md) · [日本語](../jp/24-saas-case-study-jp.md) · [Português (BR)](../pt-br/24-saas-case-study-pt-br.md)
 
@@ -8,11 +8,11 @@
 
 -----
 
-## The Starting Point: You Bought VibeFast and Have a SaaS Idea
+## The Starting Point: You Bought vibefast.app and Have a SaaS Idea
 
-This tutorial isn’t about VibeFast’s features — the quickstart docs cover those.
+This tutorial isn’t about vibefast.app’s features — the quickstart docs cover those.
 
-This is about showing a real workflow: **what does it actually look like to go from a SaaS idea to a running product using VibeFast?**
+This is about showing a real workflow: **what does it actually look like to go from a SaaS idea to a running product using vibefast.app?**
 
 The example: a SaaS that helps solopreneurs track client invoices — **InvoiceTrack**. Simple feature set: create invoices, track payment status, send automatic reminders before due dates.
 
@@ -20,7 +20,7 @@ The example: a SaaS that helps solopreneurs track client invoices — **InvoiceT
 
 ## Step 1: Clone and Get It Running First
 
-After purchasing VibeFast, you’ll receive a collaborator invitation to the private repo. Accept it, then clone:
+After purchasing vibefast.app, you’ll receive a collaborator invitation to the private repo. Accept it, then clone:
 
 ```bash
 git clone https://github.com/vibefast-app/vibefast.git invoicetrack
@@ -28,7 +28,7 @@ cd invoicetrack
 npm install
 ```
 
-Follow the quickstart docs to run setup. Within a few minutes you have a fully working app — login, payment flow, admin panel — all running with VibeFast’s default content.
+Follow the quickstart docs to run setup. Within a few minutes you have a fully working app — login, payment flow, admin panel — all running with vibefast.app’s default content.
 
 **Building on top of this is ten times faster than starting from scratch.**
 
@@ -39,7 +39,7 @@ Follow the quickstart docs to run setup. Within a few minutes you have a fully w
 Before touching any code, have AI help you organize your requirements (the work planning tutorial covers this process in detail):
 
 ```
-I want to build an invoice management SaaS for solopreneurs using VibeFast.
+I want to build an invoice management SaaS for solopreneurs using vibefast.app.
 The product is called InvoiceTrack.
 
 Core features (MVP):
@@ -49,7 +49,7 @@ Core features (MVP):
 4. Automatically send reminder emails 3 days before due date
 5. Dashboard showing total outstanding balance
 
-Technical foundation: VibeFast (Auth, Stripe, and Resend already integrated)
+Technical foundation: vibefast.app (Auth, Stripe, and Resend already integrated)
 Not in this version: PDF export, multi-currency, sub-accounts
 ```
 
@@ -82,7 +82,7 @@ With the data structure confirmed, work through it in layers:
 
 ```
 □ Create clients, invoices, and invoice_items tables
-□ Confirm VibeFast's auth protects all new routes
+□ Confirm vibefast.app's auth protects all new routes
 ```
 
 **Layer 2 — Core Features**
@@ -109,12 +109,12 @@ Every feature follows the same loop: discuss first → confirm in Plan mode → 
 
 ## Step 5: Rebrand
 
-VibeFast’s default UI is your starting point, not your final product. Swap in InvoiceTrack’s brand:
+vibefast.app’s default UI is your starting point, not your final product. Swap in InvoiceTrack’s brand:
 
 Tell AI:
 
 ```
-Replace VibeFast's default branding with InvoiceTrack.
+Replace vibefast.app's default branding with InvoiceTrack.
 This includes:
 - Site title and meta title
 - Logo text (text for now, image later)
@@ -130,13 +130,13 @@ Rebranding typically takes under an hour.
 
 InvoiceTrack’s pricing: $9/month, up to 50 invoices.
 
-VibeFast already has Stripe integrated. You just need to:
+vibefast.app already has Stripe integrated. You just need to:
 
 1. Create a $9/month subscription product in Stripe Dashboard
 1. Update the Stripe Price ID in your environment variables
 1. Tell AI: “Modify the subscription logic so free users can only create 3 invoices, then prompt them to upgrade”
 
-The payment flow itself doesn’t need to be rewritten — VibeFast’s Stripe integration works out of the box.
+The payment flow itself doesn’t need to be rewritten — vibefast.app’s Stripe integration works out of the box.
 
 -----
 
@@ -153,7 +153,7 @@ Day 10:  Testing, bug fixes, deployment
 Day 11:  Launch, start promoting
 ```
 
-Eleven days from zero to live. Not because of any special skill — because VibeFast had auth, payments, and deployment already handled. All the time went into InvoiceTrack’s actual product features.
+Eleven days from zero to live. Not because of any special skill — because vibefast.app had auth, payments, and deployment already handled. All the time went into InvoiceTrack’s actual product features.
 
 -----
 
@@ -161,7 +161,7 @@ Eleven days from zero to live. Not because of any special skill — because Vibe
 
 **Don’t try to build everything at once.** PDF export, multi-currency support — those are great features, but none of them belong in v1. Ship the smallest version that solves the core problem. Iterate based on real user feedback.
 
-**Auth and payments are the hardest parts.** Without VibeFast, getting those two right could take two to three weeks. With the template, they’re skipped entirely — all focus goes to the product.
+**Auth and payments are the hardest parts.** Without vibefast.app, getting those two right could take two to three weeks. With the template, they’re skipped entirely — all focus goes to the product.
 
 **Commit every day.** Make at least one commit before ending your work session, even if you only finished a small piece. It gives you a safety net to roll back to, and keeps your progress visible.
 

@@ -66,7 +66,7 @@ const resend = new Resend(env.RESEND_API_KEY)
 
 `.env`が`.gitignore`に含まれていれば、`git push`してもGitHubには送られない。
 
-**VibeFastには`.gitignore`が設定済みで、`.env`は最初から除外されている。**
+**vibefast.appには`.gitignore`が設定済みで、`.env`は最初から除外されている。**
 
 -----
 
@@ -130,7 +130,7 @@ database_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 
 ## 各サービスのシークレット
 
-VibeFastを使う場合に設定するシークレット一覧：
+vibefast.appを使う場合に設定するシークレット一覧：
 
 | 変数名 | 取得場所 | 用途 |
 |--------|---------|------|

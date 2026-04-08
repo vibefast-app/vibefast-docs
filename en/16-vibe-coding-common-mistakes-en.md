@@ -10,7 +10,7 @@
 
 ## Over a Year of Vibe Coding, Hit Plenty of Pitfalls
 
-I started seriously using AI tools to build products in late 2024. VibeFast is the result of over a year's accumulation, but in this process, I hit many unnecessary pitfalls.
+I started seriously using AI tools to build products in late 2024. vibefast.app is the result of over a year's accumulation, but in this process, I hit many unnecessary pitfalls.
 
 This article is what I wish someone had told me from the start.
 
