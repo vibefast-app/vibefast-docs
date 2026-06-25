@@ -136,7 +136,7 @@ Branding is straightforward — the vibefast.app template centralizes all the co
 
 ## Ready?
 
-**Early bird $99 — price goes up to $199 on June 1, 2026.**  
+**Early bird $99 — price goes up to $199 on August 1, 2026.**  
 One-time payment. Lifetime access. Private GitHub repo. All future updates included.
 
 👉 **[vibefast.app](https://vibefast.app)**

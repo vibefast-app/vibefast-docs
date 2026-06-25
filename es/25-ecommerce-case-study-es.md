@@ -223,4 +223,4 @@ Usa la tarjeta de prueba de Stripe para recorrer el flujo completo: añadir al c
 👉 [Volver al índice del curso](../README-es.md)
 
 ¿Listo para empezar con una plantilla full-stack completa de Cloudflare?  
-👉 **[vibefast.app](https://vibefast.app/pricing)** — Precio early bird $99, sube a $199 el 1 de junio de 2026.
+👉 **[vibefast.app](https://vibefast.app/pricing)** — Precio early bird $99, sube a $199 el 1 de agosto de 2026.

@@ -238,4 +238,4 @@ D1 是你 app 的長期記憶，用來儲存用戶、文章、訂單等結構化
 👉 [回到教程首頁](../README-zh.md)
 
 想直接上手完整的 Cloudflare 全棧模板？  
-👉 **[vibefast.app](https://vibefast.app/pricing)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。
+👉 **[vibefast.app](https://vibefast.app/pricing)** — 早鳥 $99，2026 年 8 月 1 日漲至 $199。

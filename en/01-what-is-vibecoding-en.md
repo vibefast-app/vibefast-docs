@@ -202,4 +202,4 @@ The right tools and platform make a lot of technical problems disappear on their
 👉 [Back to course index](../README.md)
 
 Ready to skip the setup and start building?  
-👉 **[vibefast.app](https://vibefast.app/pricing)** — Early bird $99, price increases to $199 on June 1, 2026.
+👉 **[vibefast.app](https://vibefast.app/pricing)** — Early bird $99, price increases to $199 on August 1, 2026.

@@ -136,7 +136,7 @@ El branding es directo — la vibefast.app template centraliza todo el texto que
 
 ## ¿Listo?
 
-**Early bird $99 — el precio sube a $199 el 1 de junio de 2026.**  
+**Early bird $99 — el precio sube a $199 el 1 de agosto de 2026.**  
 Pago único. Acceso de por vida. Repositorio privado en GitHub. Todas las actualizaciones futuras incluidas.
 
 👉 **[vibefast.app](https://vibefast.app)**

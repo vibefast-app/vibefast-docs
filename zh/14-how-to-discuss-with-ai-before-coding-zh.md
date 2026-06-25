@@ -256,4 +256,4 @@ Workers 直接從 R2 讀取檔案流，回傳給用戶。
 👉 [回到教程首頁](../README-zh.md)
 
 想直接上手完整的 Cloudflare 全棧模板？  
-👉 **[vibefast.app](https://vibefast.app/pricing)** — 早鳥 $99，2026 年 6 月 1 日漲至 $199。
+👉 **[vibefast.app](https://vibefast.app/pricing)** — 早鳥 $99，2026 年 8 月 1 日漲至 $199。

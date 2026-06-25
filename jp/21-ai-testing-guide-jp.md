@@ -176,4 +176,4 @@ bash test.sh
 👉 [チュートリアルトップに戻る](../README-jp.md)
 
 完全なCloudflareフルスタックテンプレートを今すぐ使い始めたい方へ：  
-👉 **[vibefast.app](https://vibefast.app/pricing)** — アーリーバード $99、2026年6月1日より $199 に値上がり。
+👉 **[vibefast.app](https://vibefast.app/pricing)** — アーリーバード $99、2026年8月1日より $199 に値上がり。

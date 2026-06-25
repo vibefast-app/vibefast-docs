@@ -38,7 +38,7 @@ Se não receber o convite após 10 minutos, verifique sua pasta de spam ou entre
 
 ### O preço early bird é por tempo limitado?
 
-Sim. O preço de $99 está disponível até 1º de junho de 2026, depois sobe para $199. Comprar agora versus comprar após 1º de junho é uma diferença de $100.
+Sim. O preço de $99 está disponível até 1º de agosto de 2026, depois sobe para $199. Comprar agora versus comprar após 1º de junho é uma diferença de $100.
 
 ### O que o pagamento único inclui?
 

@@ -70,7 +70,7 @@ Regístrate gratis y entra al live backend. Explora Analytics, Blog y Media dire
 
 El precio early bird es para los primeros en creer en esto.
 
-**Early bird US$99 · Sube a US$199 el 1 de junio de 2026**
+**Early bird US$99 · Sube a US$199 el 1 de agosto de 2026**
 
 Pago único · Actualizaciones de por vida · Acceso inmediato al repositorio privado de GitHub
 

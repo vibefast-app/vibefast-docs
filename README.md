@@ -70,7 +70,7 @@ Sign up for free and enter the live backend. Explore Analytics, Blog, and Media 
 
 Early bird pricing is for the first people who believe in this.
 
-**Early bird US$99 · Increases to US$199 on June 1, 2026**
+**Early bird US$99 · Increases to US$199 on August 1, 2026**
 
 One-time payment · Lifetime updates · Immediate access to private GitHub repo
 

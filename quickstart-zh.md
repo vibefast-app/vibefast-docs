@@ -136,7 +136,7 @@ npm run dev
 
 ## 準備好了嗎？
 
-**早鳥價 $99 — 2026 年 6 月 1 日漲至 $199**  
+**早鳥價 $99 — 2026 年 8 月 1 日漲至 $199**  
 一次付款，終身存取，Private GitHub repo，所有未來更新全包。
 
 👉 **[vibefast.app](https://vibefast.app)**

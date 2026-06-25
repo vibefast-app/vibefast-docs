@@ -239,4 +239,4 @@ Uma vez que esses estejam no lugar, a principal coisa que falta é paciência �
 👉 [Voltar ao índice do curso](../README-pt-br.md)
 
 Pronto para começar com um template completo Cloudflare full-stack?  
-👉 **[vibefast.app](https://vibefast.app/pricing)** — Early bird $99, preço sobe para $199 em 1º de junho de 2026.
+👉 **[vibefast.app](https://vibefast.app/pricing)** — Early bird $99, preço sobe para $199 em 1º de agosto de 2026.

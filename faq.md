@@ -38,7 +38,7 @@ If you haven't received the invitation after 10 minutes, check your spam folder 
 
 ### Is the early bird price limited by time or quantity?
 
-Time. The $99 price is available until June 1, 2026, then goes up to $199. Buying now versus buying after June 1 is a $100 difference.
+Time. The $99 price is available until August 1, 2026, then goes up to $199. Buying now versus buying after June 1 is a $100 difference.
 
 ### What does the one-time payment include?
 
